@@ -1,2 +1,16 @@
-theme: jekyll-theme-tactile
+title: Bas' Blog
+email: bas@basbroek.nl
+description: Writes things. Mostly code.
+baseurl: ""
+url: ""
+twitter_username: BasThomas
+github_username:  BasThomas
+
+markdown: kramdown
+theme: minima
 permalink: pretty
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
