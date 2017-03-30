@@ -9,8 +9,7 @@ github_username:  BasThomas
 markdown: kramdown
 theme: minima
 permalink: pretty
-gems:
-  - jekyll-feed
+gems: ['jekyll-twitter-plugin', 'jekyll-feed']
 exclude:
   - Gemfile
   - Gemfile.lock
