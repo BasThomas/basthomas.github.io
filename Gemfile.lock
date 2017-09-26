@@ -217,7 +217,6 @@ DEPENDENCIES
   jekyll
   jekyll-feed (~> 0.6)
   jekyll-twitter-plugin
-  minima (~> 2.0)
 
 RUBY VERSION
    ruby 2.4.0p0
