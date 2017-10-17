@@ -12,4 +12,4 @@ If you are interested in me speaking at your event, please get in touch.
 |--------------|-------------------------|-----------------------|----------------------------|--------------------------------------------------------------|-------|
 | Feb 15, 2017 | Swift 4                           | CocoaHeads NL @ Xebia     | Amsterdam, The Netherlands    | [x](https://speakerdeck.com/basthomas/swift-4)               | -                                                  |
 | Sep 23, 2017 | What's up with Swift 5?           | FrenchKit 2017            | Paris, France                 | [x](https://speakerdeck.com/basthomas/whats-up-with-swift-5) | [x](https://www.youtube.com/watch?v=XXqZaKodLfA)   |
-| Nov 02, 2017 | Accessibility: when you see it... | CocoaHeads Hamburg        | Hamburg, Germany              | TBA | -   |
+| Nov 02, 2017 | Accessibility: When You See It... | CocoaHeads Hamburg        | Hamburg, Germany              | TBA | -   |
