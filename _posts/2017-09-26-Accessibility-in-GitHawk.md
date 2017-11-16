@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: accessibility-in-githawk
 title: Accessibility in GitHawk
 ---
 
