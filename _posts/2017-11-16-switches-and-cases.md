@@ -25,16 +25,16 @@ I came up with [the following](https://gist.github.com/BasThomas/d9f535ac48e72c2
 
 ```swift
 func switcher(_ a: Int?, _ b: Int?) {
-    switch (a, b) {
-    case (nil, nil):
-        print("nothing")
-    case (let thing?, nil):
-        print("lhs", thing)
-    case (nil, let thing?):
-        print("rhs", thing)
-    case (let left?, let right?):
-        print(left, right)
-    }
+  switch (a, b) {
+  case (nil, nil):
+    print("nothing")
+  case (let thing?, nil):
+    print("lhs", thing)
+  case (nil, let thing?):
+    print("rhs", thing)
+  case (let left?, let right?):
+    print(left, right)
+  }
 }
 ```
 
