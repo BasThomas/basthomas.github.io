@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: switches-and-cases
-title: `switch`es and `case`s
+title: Switches & Cases
 ---
 
 A few days ago I was reviewing a pull request and came across the following code:
