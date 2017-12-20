@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![bas-broek](/_images/bas.png)
+![bas-broek](/assets/bas.png)
 
 Nice to meet you. 👋
 
