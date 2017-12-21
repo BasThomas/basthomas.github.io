@@ -19,7 +19,7 @@ private func updateInsets() {
 }
 ```
 
-It was a piece of code that was really hard to parse for me. It also could be refactored to be exhaustive, adding some safety, but that less of a concern.
+It was a piece of code that was really hard to parse for me. It also could be refactored to be exhaustive, adding some safety, but that was less of a concern as opposed to readability.
 
 I came up with [the following](https://gist.github.com/BasThomas/d9f535ac48e72c215048a95c712ded07):
 
