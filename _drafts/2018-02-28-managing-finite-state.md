@@ -93,7 +93,9 @@ With that in place we have a transparent and type-safe way to set and handle the
 
 ---
 
-Please let me know if you find where this can be simplified and improved - it sure can. You can make the `State` enum generic, which would be useful if you have multiple Controllers with a loading / data / failure state machine, where the data type is different among the Controllers.
+How do you manage finite states in these situations? Is your approach similar, or do you have a different approach? Please let me know!
+
+If you have an idea where this specific implementation can be simplified and improved - which it sure can - feel free to reach out as well. For example, we can make the `State` enum generic, which would be useful if you have multiple Controllers with a loading / data / failure state machine, where the data type is different among the Controllers.
 
 ---
 
