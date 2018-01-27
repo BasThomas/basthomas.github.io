@@ -97,6 +97,6 @@ Please let me know if you find where this can be simplified and improved - it su
 
 ---
 
-If you want to do some further reading on State Machines, you can check out the [SwiftState](https://github.com/ReactKit/SwiftState) library or [@jemmons](https://twitter.com/jemmons)'s blog posts on Swift State Machines ([1](http://www.figure.ink/blog/2015/1/31/swift-state-machines-part-1), [2](http://www.figure.ink/blog/2015/2/1/swift-state-machines-part-2), [3](http://www.figure.ink/blog/2015/2/8/swift-state-machines-part-3-follow-up), [4](http://www.figure.ink/blog/2015/2/9/swift-state-machines-part-4-redirect))
+If you want to do some further reading on State Machines, you can check out the [SwiftState](https://github.com/ReactKit/SwiftState) library or [@jemmons](https://twitter.com/jemmons)'s blog posts on Swift State Machines ([1](http://www.figure.ink/blog/2015/1/31/swift-state-machines-part-1), [2](http://www.figure.ink/blog/2015/2/1/swift-state-machines-part-2), [3](http://www.figure.ink/blog/2015/2/8/swift-state-machines-part-3-follow-up), [4](http://www.figure.ink/blog/2015/2/9/swift-state-machines-part-4-redirect)).
 
 *The code in this blog post has been written with Xcode 9.3 beta 1 & Swift 4.1. You can find the code in [this gist](https://gist.github.com/BasThomas/c83a5a1f752fbdc79c62963164acab25).*
