@@ -93,7 +93,7 @@ With that in place we have a transparent and type-safe way to set and handle the
 
 ---
 
-How do you manage finite states in these situations? Is your approach similar, or do you have a different approach? Please let me know!
+How do you manage finite states in these situations? Is your approach similar, or is it rather different? Please let me know!
 
 If you have an idea where this specific implementation can be simplified and improved - which it sure can - feel free to reach out as well. For example, we can make the `State` enum generic, which would be useful if you have multiple Controllers with a loading / data / failure state machine, where the data type is different among the Controllers.
 
