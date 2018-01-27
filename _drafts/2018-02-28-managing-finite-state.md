@@ -85,9 +85,9 @@ enum State {
 
 ... which is pretty much the whole idea; simple (in terms of state machines) but effective.
 
-It is intended for this to be the complete range of states for this Controller. The current state of the Controller will is persisted in the `state` variable, which is directly responsible for acting on a state change.
+It is intended for this to be the complete range of states for this Controller. The current state of the Controller will be persisted in the `state` variable, which is directly responsible for acting on a state change.
 
-As the example shows, acting on state changes will be then be hanled by the `handleState(_:)` function. This will be called everytime you set the `state` variable.
+As the example shows, acting on state changes will be then be handled by the `handleState(_:)` function. This will be called everytime you set the `state` variable.
 
 With that in place we have a transparent and type-safe way to set and handle the state of our Controller. It also provides an easy way for anyone looking at such a class to get a sense of its scope.
 
