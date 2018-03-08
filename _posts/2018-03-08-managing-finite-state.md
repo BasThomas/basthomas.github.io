@@ -77,9 +77,7 @@ enum State<DataType: Equatable>: Equatable {
 
 As you can see, the `State` type is an `enum` which makes it finite by default. Nice; at a glance, we can see what we're dealing with here.
 
-We have the `State` conform to `Equatable` by default, which requires our `DataType` to be `Equatable` as well, which we did with our `Song` type.
-
-Although I will not cover it in this post, you can use this to check the current state, eg. `if state == .loading` and act upon it.
+We have the `State` conform to `Equatable` by default, which requires our `DataType` to be `Equatable` as well, which we did with our `Song` type (*Although I will not cover it in this post, the conformance to `Equatable` allows you to check the current state, eg. `if state == .loading`, and act upon it.*).
 
 We should now update our `SongFetcher` to return a state instead of an array of `Songs`.
 
