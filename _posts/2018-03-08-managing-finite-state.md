@@ -37,12 +37,12 @@ Now comes the interesting part. Somehow, we need to fetch some songs.
 
 ```swift
 struct SongFetcher {
-  func fetchSongs() -> [Song] {
+  func fetchSongs(completionHandler: ([Song]) -> Void) {
     // Use your imagination and think of these Songs coming from a database or network somewhere.
-    return [
+    completionHandler([
       Song(artist: "Nils Frahm", title: "All Melody"),
       Song(artist: "Nils Frahm", title: "Sunson")
-    ]
+    ])
   }
 }
 ```
