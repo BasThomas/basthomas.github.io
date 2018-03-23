@@ -2,6 +2,7 @@
 layout: post
 permalink: why-airplay-isnt-good-enough
 title: Why ‘AirPlay is good enough’ is… not good enough
+tags: [airplay]
 ---
 
 Dutch national station [NPO](http://www.npo.nl) said, after the [introduction](http://www.apple.com/pr/library/2015/09/09Apple-Brings-Innovation-Back-to-Television-with-The-All-New-Apple-TV.html) of Apple TV 4rd generation (loosely translated):

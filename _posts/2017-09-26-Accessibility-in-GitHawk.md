@@ -2,6 +2,7 @@
 layout: post
 permalink: accessibility-in-githawk
 title: Accessibility in GitHawk
+tags: [programming, swift, open source, accessibility]
 ---
 
 Supporting accessibility is one of the most overlooked features in apps. Sometimes the developer forgets accessibility exists, a client doesn't know about (or cannot quantify) the benefits, or developers simply haven't had the experience using accessibility features in order to see the impact it has.

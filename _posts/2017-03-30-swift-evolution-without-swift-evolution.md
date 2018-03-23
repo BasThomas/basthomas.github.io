@@ -2,7 +2,8 @@
 layout: post
 permalink: swift-evolution-without-swift-evolution
 title:  "Swift Evolution without swift-evolution"
----
+tags: [programming, swift, swift-evolution, open source]
+--
 
 An [interesting few tweets](https://twitter.com/BasThomas/status/845737912436228104) from the Swift team's [Slava Pestov](https://twitter.com/slava_pestov) confirmed something I have been thinking of pretty much since Swift was open sourced.
 
