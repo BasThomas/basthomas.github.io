@@ -2,6 +2,7 @@
 layout: post
 permalink: curating-swift-weekly
 title: Curating Swift Weekly Brief
+tags: [swift, open source]
 ---
 
 I am delighted to tell you that I will be taking over the curation role for [Swift Weekly Brief](https://swiftweekly.github.io) from [Jesse Squires](https://twitter.com/jesse_squires).

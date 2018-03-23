@@ -2,6 +2,7 @@
 layout: post
 permalink: but-that-should-work
 title: ... But That Should Work?
+tags: [programming]
 ---
 
 If you're a programmer, you've probably told yourself or others "But this should work?!" or "This should never happen." - maybe even countless times.

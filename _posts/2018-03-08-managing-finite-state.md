@@ -2,6 +2,7 @@
 layout: post
 permalink: managing-finite-state
 title: Managing Finite State
+tags: [programming, swift]
 ---
 
 ⚠️ *This blog post uses Swift 4.1, as it depends on (parts of) [Conditional Conformance](https://github.com/apple/swift-evolution/blob/master/proposals/0143-conditional-conformances.md).* ⚠️
