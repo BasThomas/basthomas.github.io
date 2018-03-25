@@ -6,6 +6,8 @@ url: ""
 twitter_username: BasThomas
 github_username:  BasThomas
 
+excerpt_separator: <!--more-->
+
 markdown: kramdown
 theme: minima
 permalink: pretty

@@ -11,6 +11,8 @@ Dutch national station [NPO](http://www.npo.nl) said, after the [introduction](h
 
 Not only do I think this statement was premature, but I also simply think it makes no sense at all. Let me tell you why.
 
+<!--more-->
+
 Apple TV, since the introduction of its App Store, has become a whole new platform. Sure, you can hook up your iPhone to the Apple TV and mirror its display, but that’s a whole other experience than the native apps it offers.
 
 Not only will mirroring be limited to, well, mirroring, but it will also disconnect you from the Apple TV experience. No easy switching between mirroring and another app, no notifications during mirroring, no Siri (although that is [another issue](http://9to5mac.com/2015/11/04/siri-apple-tv-countries-movies-tv-shows/)).

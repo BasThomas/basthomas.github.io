@@ -11,6 +11,8 @@ I don't think many people would argue if you tell them that managing state in an
 
 In this blog post I want to focus on handling finite state and creating a simple state machine.
 
+<!--more-->
+
 Consider an app with a list of songs, displayed in a simple `UITableView`. The `ViewController` does not care where the data comes from (be it from the network, from the database, etc.). It would like to update its state and let someone else handle it.
 
 First of all, we have a model `Song`:

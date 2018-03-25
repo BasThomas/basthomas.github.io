@@ -10,6 +10,8 @@ I am delighted to tell you that I will be taking over the curation role for [Swi
 Jesse [stepped down](https://www.jessesquires.com/blog/swift-weekly-brief-hiatus/) after an amazing 100 issues. 💯🎉
 He built an amazing newsletter capturing everything ongoing in the Swift.org projects.
 
+<!--more-->
+
 ---
 
 I started contributing to Swift Weekly in August 2016, and after meeting Jesse at [FrenchKit](http://frenchkit.fr) in September that year, I wrote my [first issue](https://swiftweekly.github.io/issue-42/) on October 13th, and have been contributing regularly since.
