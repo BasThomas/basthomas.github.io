@@ -9,6 +9,8 @@ An [interesting few tweets](https://twitter.com/BasThomas/status/845737912436228
 
 `swift-evolution` is great, but takes *a lot* of time for the Swift Core Team - or even too much.
 
+<!--more-->
+
 To me, it seems like a temporary halt to `swift-evolution` would be very welcome. This gives the Swift Core Team more time and concentration to solve issues that they would've liked to address a long time ago: ABI stability (!), fixing crashes, improving error messaging, improving compile times, paying off technical debt...
 
 Sure, halting `swift-evolution` doesn't magically solve all these "problems", but I think it can give more room and focus on deferred work.

@@ -7,6 +7,8 @@ tags: [programming]
 
 If you're a programmer, you've probably told yourself or others "But this should work?!" or "This should never happen." - maybe even countless times.
 
+<!--more-->
+
 If you feel like this addresses you - that's good! You're making assumptions, which help you understand and scope problems. Without them, we would feel lost and it would make it much harder to learn new things.
 
 Conclusion: assumptions are your friend, not your enemy.
