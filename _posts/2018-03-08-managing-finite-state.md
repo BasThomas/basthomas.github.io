@@ -5,8 +5,6 @@ title: Managing Finite State
 tags: [programming, swift]
 ---
 
-⚠️ *This blog post uses Swift 4.1, as it depends on (parts of) [Conditional Conformance](https://github.com/apple/swift-evolution/blob/master/proposals/0143-conditional-conformances.md).* ⚠️
-
 I don't think many people would argue if you tell them that managing state in an application is not the easiest thing in the world. In most applications you'll be dealing with networking, caching, databases, offline functionality... just to name a few.
 
 In this blog post I want to focus on handling finite state and creating a simple state machine.
