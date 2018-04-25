@@ -15,7 +15,7 @@ iOS & Tooling Developer
 
 Work related interesting include [Open Source Software](https://github.com/BasThomas), reading blogs, writing blog posts, and Swift.
 
-Other, non work related interests include cooking 🍳, baking 🍰, brewing & drinking coffee ☕️, listening to music 🎵, watching TV shows 📺, golfing 🏌, skiing ⛷, and cycling 🚴.
+Other, non work related interests include cooking 🍳, baking 🍰, brewing & drinking coffee ☕️, listening to music 🎵, watching TV shows 📺, watches ⌚️, golfing 🏌, skiing ⛷, and cycling 🚴.
 
 ## Introduction
 I am a software developer from The Netherlands, currently living in Germany.
