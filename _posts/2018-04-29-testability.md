@@ -5,7 +5,7 @@ title: Testability
 tags: [programming, swift, testing]
 ---
 
-I found an inconsistency in our app, which had to do with the color of a certain action's title.
+I found an inconsistency in an app, which had to do with the color of a certain action's title.
 
 Easy fix, I thought. I can fix this without too much work.
 
