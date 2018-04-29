@@ -11,7 +11,7 @@ Easy fix, I thought. I can fix this without too much work.
 
 <!--more-->
 
-So that's what I did. And I was right — it was an easy fix. I wanted to go a step further though, to prevent this from happening in the future, and to validate the current behavior.
+So that's what I did. And I was right — it was an easy fix. However I wanted to go a step further, to prevent this from happening in the future, and to validate the current behavior.
 
 ## The problem
 
@@ -50,7 +50,7 @@ The fix was easy:
 
 So I committed the fix, but before opening a pull request I wanted to check if all tests still succeeded (as to not waste resources on our continuous integration infrastructure).
 
-Guess what. All tests passed.
+Guess what. All tests passed. 😱
 
 So I took another look at the function, and thought... this makes sense. How would I ever test this?
 
@@ -66,9 +66,9 @@ So I refactored the function to only create the `UIAlertController`, without the
 + return alertController
 ```
 
-What is nice about this, is that we reduced our function to a function that does not do more than doing something with our `input` and provide us with an `output`[^1].
+What is nice about this, is that we reduced our function to a function that does not do more than getting our `input` and providing us with an `output`[^1].
 
-At this point, I was ready to write a unit test, that would validate some assumptions — in this case checking that if we pass in a `"delete"` in our input, its style would be `.destructive`. If this would be changed in the future, the corresponding unit test would fail.
+At this point, I was ready to write a unit test, that would validate some assumptions — in this case checking that if we pass in a `"delete"` as input, expecting a `.destructive` style as the output. If this would be changed in the future, the corresponding unit test would fail.
 
 Lets take a look at this unit test.
 
@@ -90,8 +90,8 @@ And there we go: our assumption is being validated in a test[^2]. 🎉
 
 ## Conclusion
 
-Its good to take a look and see if you can improve a piece of code, especially when it involved a contained fix like this one. Check if there is something to be done to leave the code a bit cleaner than you found it[^3].
+It is good to take a look and see if you can improve a piece of code, especially when it involved a contained fix like this one. Check if there is something to be done to leave the code a bit cleaner than you found it[^3].
 
-[^1]: If that makes you think about functional programming: you're right. In fact, in its current form, this is a [pure function](https://en.wikipedia.org/wiki/Functional_programming#Pure_functions). And if pure functions are awesome for something, its testability!
+[^1]: If that makes you think about functional programming: you're right. In fact, in its current form, this is a [pure function](https://en.wikipedia.org/wiki/Functional_programming#Pure_functions). And if pure functions are awesome for something, it is testability!
 [^2]: In the real test case I wrote, I validated some other things, like there being a `.cancel` action present, as well as the `actions`'s count when we pass in some input that would end up in the `default` case.
 [^3]: Now that the function does not rely on anything within the `UIViewController`, we could even take it out of there. Tearing down Massive ViewControllers one function at a time.
