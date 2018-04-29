@@ -19,9 +19,9 @@ The problem was a `UIAlertAction` having a style of `.default` (making the butto
 
 ```swift
 func presentActionsAlert(for input: [String]) {
-	let alertController = UIAlertController(title: nil, message: nil, preferredStyle: .actionSheet)
-	
-	for value in input {
+  let alertController = UIAlertController(title: nil, message: nil, preferredStyle: .actionSheet)
+
+  for value in input {
     switch value {
     case "share":
       let action = UIAlertAction(title: "share", style: .default)
@@ -33,7 +33,7 @@ func presentActionsAlert(for input: [String]) {
       break
     }
   }
-  
+
   let cancelAction = UIAlertAction(title: "cancel", style: .cancel)
   alertController.addAction(cancelAction)
 
