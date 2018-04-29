@@ -63,7 +63,7 @@ So I refactored the function to only create the `UIAlertController`, without the
 + func actionsAlert(for input: [String]) -> UIAlertController {
 
 - present(alertController, animated: true)
-- return alertController
++ return alertController
 ```
 
 What is nice about this, is that we reduced our function to a function that does not do more than doing something with our `input` and provide us with an `output`[^1].
