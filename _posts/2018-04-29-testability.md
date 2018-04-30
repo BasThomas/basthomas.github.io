@@ -19,7 +19,11 @@ The problem was a `UIAlertAction` having a style of `.default` (making the butto
 
 ```swift
 func presentActionsAlert(for input: [String]) {
-  let alertController = UIAlertController(title: nil, message: nil, preferredStyle: .actionSheet)
+  let alertController = UIAlertController(
+    title: nil,
+    message: nil,
+    preferredStyle: .actionSheet
+  )
 
   for value in input {
     switch value {
@@ -81,7 +85,11 @@ class MyTest: XCTestCase {
     let input = "delete"
     let output = myViewController.actionsAlert(for: [input])
 
-    XCTAssertEqual(output.actions.first { $0.title == input }?.style, .destructive, "A `delete` input should have a `.destructive` style.")
+    XCTAssertEqual(
+      output.actions.first { $0.title == input }?.style,
+      .destructive,
+      "A `delete` input should have a `.destructive` style."
+    )
   }
 }
 ```
