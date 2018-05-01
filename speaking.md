@@ -4,7 +4,9 @@ title: Speaking
 permalink: /speaking/
 ---
 
-I like public speaking and sharing my thoughts and perspective on iOS, Swift and programming. Topics I am particularly interested in include accessibility, inclusive design, open source, and the Swift.org project (and its evolution process). This is not an exhaustive list and may change over time.
+I like public speaking and sharing my thoughts and perspective on iOS, Swift and programming.
+
+Topics I am particularly interested in include accessibility, inclusive design, testability, open source, and the Swift.org project (and its evolution process). This is not an exhaustive list and may change over time.
 
 If you are interested in me speaking at your event, please get in touch.
 
