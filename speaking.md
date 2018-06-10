@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speaking
+title: Speaking & Workshops
 permalink: /speaking/
 ---
 
@@ -13,6 +13,7 @@ If you are interested in me speaking at your event, please get in touch.
 | Date | Title | Event | Location | Slides | Video |
 |--------------|-------------------------|-----------------------|----------------------------|--------------------------------------------------------------|-------|
 | Jun 15, 2018 | Visual Testing - A Communication Problem | [TECHINPORTO](https://www.techinporto.com) | Porto, 🇵🇹 | - | - |
+| Jun 08, 2018 | SwiftNIO Workshop | [try! Swift San Jose 2018](https://www.tryswift.co/events/2018/sanjose) | San Jose, 🇺🇸 | [x](https://speakerdeck.com/basthomas/swiftnio) | - |
 | Feb 15, 2018 | Managing Mobile Releases at XING or: How to Bake a Quiche | [CocoaHeads Porto @ XING](https://www.meetup.com/CocoaHeads-Porto) | Porto, 🇵🇹 | [x](https://speakerdeck.com/basthomas/managing-mobile-releases-at-xing-or-how-to-bake-a-quiche) | - |
 | Feb 15, 2018 | Introduction to Swift (authored by [Joachim Kurz](http://blog.cocoafrog.de)) | [Hello World 2018](https://helloworldconf.pt) | Porto, 🇵🇹 | [x](http://khd2.de/talks/Introduction-to-Swift-Hello-World/HelloWorld_Conf-Introduction_to_Swift.pdf) | - |
 | Nov 30, 2017 | Tackling Continuous Releases for XING's Mobile Apps | [GitHub Constellation](http://githubconstellation.com/berlin/) | Berlin, 🇩🇪 | [x](https://speakerdeck.com/basthomas/tackling-continuous-releases-for-xings-mobile-apps) | - |
