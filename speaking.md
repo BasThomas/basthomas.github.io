@@ -12,6 +12,7 @@ If you are interested in me speaking at your event, please get in touch.
 
 | Date | Title | Event | Location | Slides | Video |
 |--------------|-------------------------|-----------------------|----------------------------|--------------------------------------------------------------|-------|
+| Sep 03, 2018 | Making your app more accessible (Workshop) | [try! Swift New York 2018](https://www.tryswift.co/events/2018/nyc) | New York, 🇺🇸 | - | - |
 | Jun 15, 2018 | Visual Testing - A Communication Problem | [TECHinPORTO](https://www.techinporto.com) | Porto, 🇵🇹 | [x](https://speakerdeck.com/basthomas/visual-testing-a-communication-problem) | - |
 | Jun 08, 2018 | SwiftNIO Workshop | [try! Swift San Jose 2018](https://www.tryswift.co/events/2018/sanjose) | San Jose, 🇺🇸 | [x](https://speakerdeck.com/basthomas/swiftnio) | - |
 | Feb 15, 2018 | Managing Mobile Releases at XING or: How to Bake a Quiche | [CocoaHeads Porto @ XING](https://www.meetup.com/CocoaHeads-Porto) | Porto, 🇵🇹 | [x](https://speakerdeck.com/basthomas/managing-mobile-releases-at-xing-or-how-to-bake-a-quiche) | - |
