@@ -1,10 +1,9 @@
-source "https://rubygems.org"
-ruby RUBY_VERSION
+source 'https://rubygems.org'
 
-gem "jekyll"
+gem 'jekyll'
 
 group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
+   gem 'jekyll-feed'
 end
 
 # Add github pages support 
