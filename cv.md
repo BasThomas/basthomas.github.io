@@ -26,9 +26,15 @@ I am willing to relocate for work — even abroad.
 
 ## Work experience
 
-#### ![xing-logo](../assets/xing/logo.png) [XING](https://xing.com) *August 2017 – current*, Hamburg, Germany
+### Work experience
 
-Working on iOS & Android tooling.
+#### ![xing-logo](../assets/xing/logo.png) [XING](https://xing.com) *September 2018 – current*, Hamburg, Germany
+
+Working in the iOS Platform team, working on app-wide improvements, architecture & frameworks.
+
+#### ![xing-logo](../assets/xing/logo.png) [XING](https://xing.com) *August 2017 – September 2018*, Hamburg, Germany
+
+Working on iOS, Android & Windows tooling, release management and continuous integration infrastructure.
 
 #### ![nu-nl-logo](../assets/nu/logo.png) [NU.nl](http://www.nu.nl) *February 2017 - June 2017*, Hoofddorp, The Netherlands
 
