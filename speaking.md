@@ -12,7 +12,7 @@ If you are interested in me giving a workshop speaking at your event, please get
 
 | Date | Title | Event | Location | Slides | Video |
 |--------------|-------------------------|-----------------------|----------------------------|--------------------------------------------------------------|-------|
-| Sep 04, 2018 | Taken For Granted | [try! Swift New York 2018](https://www.tryswift.co/events/2018/nyc) | New York, 🇺🇸 | - | - |
+| Sep 04, 2018 | Taken For Granted | [try! Swift New York 2018](https://www.tryswift.co/events/2018/nyc) | New York, 🇺🇸 | [x](https://speakerdeck.com/basthomas/taken-for-granted) | - |
 | Sep 03, 2018 | Making your app more accessible (Workshop) | [try! Swift New York 2018](https://www.tryswift.co/events/2018/nyc) | New York, 🇺🇸 | [x](https://speakerdeck.com/basthomas/accessibility-workshop) | - |
 | Jun 15, 2018 | Visual Testing - A Communication Problem | [TECHinPORTO](https://www.techinporto.com) | Porto, 🇵🇹 | [x](https://speakerdeck.com/basthomas/visual-testing-a-communication-problem) | - |
 | Jun 08, 2018 | SwiftNIO Workshop | [try! Swift San Jose 2018](https://www.tryswift.co/events/2018/sanjose) | San Jose, 🇺🇸 | [x](https://speakerdeck.com/basthomas/swiftnio) | - |
