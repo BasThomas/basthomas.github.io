@@ -14,7 +14,7 @@ If you are interested in me giving a workshop speaking at your event, please get
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
-| | | | | | | |
+| Dec 10, 2018 | TBA | 🎤 | [NSBarcelona @ XING](https://www.meetup.com/nsbarcelona/) | Barcelona, 🇪🇸 | - | - |
 
 ### Past
 
