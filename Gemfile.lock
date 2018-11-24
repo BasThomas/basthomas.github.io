@@ -242,7 +242,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 192)
+  github-pages (= 193)
   jekyll
   jekyll-feed
 
