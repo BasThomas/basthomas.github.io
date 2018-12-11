@@ -14,6 +14,7 @@ If you are interested in me giving a workshop speaking at your event, please get
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| - | - | - | - | - | - | - |
 
 ### Past
 
