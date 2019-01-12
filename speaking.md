@@ -20,6 +20,7 @@ If you are interested in me giving a workshop speaking at your event, please get
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| Jan 10, 2019 | So You're Writing a Framework... | 🎤 | [CocoaHeads Hamburg @ XING](https://www.meetup.com/CocoaHeads-Hamburg/) | Hamburg, 🇩🇪 | [x](https://speakerdeck.com/basthomas/so-youre-writing-a-framework-dot-dot-dot) | - |
 | Dec 10, 2018 | So You're Writing a Framework... | 🎤 | [NSBarcelona @ XING](https://www.meetup.com/nsbarcelona/) | Barcelona, 🇪🇸 | [x](https://speakerdeck.com/basthomas/so-youre-writing-a-framework-dot-dot-dot-more-swift-version) | - |
 | Nov 02, 2018 | So You're Writing a Framework... | 🎤 | [DO iOS 2018](https://do-ios.com) | Amsterdam, 🇳🇱 | [x](https://speakerdeck.com/basthomas/so-youre-writing-a-framework-dot-dot-dot) | [x](https://www.youtube.com/watch?v=V9zmHUlPMfs) |
 | Sep 04, 2018 | Taken For Granted | 🎤 | [try! Swift New York 2018](https://www.tryswift.co/events/2018/nyc) | New York, 🇺🇸 | [x](https://speakerdeck.com/basthomas/taken-for-granted) | [x](https://www.youtube.com/watch?v=ePuOrCbIW-o) |
