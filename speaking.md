@@ -14,7 +14,7 @@ If you are interested in me giving a workshop speaking at your event, please get
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
-| April 12, 2019 | Branch and bound: solving the 15-puzzle | 🎤 | [iOS Conf Budapest](https://iosconfbudapest.com) | Budapest, 🇭🇺 | - | - |
+| April 12, 2019 | Branch and bound: solving the 15-puzzle in Swift | 🎤 | [iOS Conf Budapest](https://iosconfbudapest.com) | Budapest, 🇭🇺 | - | - |
 
 ### Past
 
