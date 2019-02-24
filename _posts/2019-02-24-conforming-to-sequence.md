@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: conforming-to-sequence
-title: A Journey to conforming to Sequence
+title: A journey to conforming to Sequence
 tags: [programming, swift]
 ---
 
