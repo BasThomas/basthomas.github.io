@@ -93,7 +93,7 @@ iOS Playground if you can get away with it; an iOS Playground will be a lot
 slower as it will use a simulator under the hood. ⚠️
 
 That being said, we got a first implementation going! It is still awful to
-make the type checker explain[^1], but check it out:
+explain to the type checker[^1], but check it out:
 
 ```swift
 let solution = Solution<Int>(
