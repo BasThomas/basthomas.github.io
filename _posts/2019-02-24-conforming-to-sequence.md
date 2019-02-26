@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: conforming-to-sequence
-title: A journey to conforming to Sequence
+title: A journey to conforming to Sequence... and Collection
 tags: [programming, swift]
 ---
 
@@ -266,6 +266,75 @@ for step in solution {
 
 Magical. 🧙‍♂️
 
-You can find the implemention of the `Solution` type [in this gist](https://gist.github.com/BasThomas/082b1202f05e341ef6519f116b003108).
+## Update: ... and `Collection`
+
+My colleague [Manuele](https://twitter.com/manumax_ve) and later
+[Soroush](https://twitter.com/khanlou) pointed out that it might make more
+sense for this `Solution` type to conform to `Collection` (which itself conforms
+to `Sequence`) instead. From the documentation:
+
+> A sequence whose elements can be traversed multiple times, nondestructively,
+> and accessed by an indexed subscript.
+
+And yes, it would make sense to be able to traverse a solution multiple times.
+So, let's implement it. First, we conform to `Collection`.
+
+```diff
+- struct Solution<Problem>: Sequence, IteratorProtocol {
++ struct Solution<Problem>: Collection {
+```
+
+And then we implement it, getting rid of a lot (read: all) of our manual work
+that was required to conform to `Sequence`.
+
+```diff
+- private var _index: Int? = nil
+- mutating func next() -> Step<Problem>? {
+-   // we're counting up (looping though the steps array), so begin at _index 0.
+-   if _index == nil { _index = 0 }
+-   // shadow _index so we do not have to deal with its optionality
+-   // this is also why the "other" index is underscored.
+-   var index = _index!
+-   if index < steps.count {
+-     // always move the _index forward after we can return a step
+-     defer { _index! += 1 }
+-     return steps[index]
+-   } else {
+-     // when we're done, reset the _index to nil.
+-     _index = nil
+-     return nil
+-   }
+- }
+```
+
+Where instead, we can now piggyback on our internal array of `Step`s:
+
+```swift
+var startIndex: Int {
+  return steps.startIndex
+}
+
+var endIndex: Int {
+  return steps.endIndex
+}
+
+subscript(i: Int) -> Step<Problem> {
+  return steps[i]
+}
+
+func index(after i: Int) -> Int {
+  return steps.index(after: i)
+}
+```
+
+And that is it! This is so much easier to understand and gives me a lot more
+confidence when it comes to its validity, both from a correctness and
+performance point of view.
+
+Thanks, Manuele & Soroush! 🎉
+
+You can find the implemention of the `Solution` type, including the one
+conforming to `Collection` instead of `Sequence`,
+[in this gist](https://gist.github.com/BasThomas/082b1202f05e341ef6519f116b003108).
 
 [^1]: If you have any ideas on how to improve this the verbosity of initializing a `Solution`, being able to help the type checker, please let me know!
