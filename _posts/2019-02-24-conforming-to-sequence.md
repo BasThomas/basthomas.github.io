@@ -268,10 +268,10 @@ Magical. 🧙‍♂️
 
 ## Update: ... and `Collection`
 
-My colleague [Manuele](https://twitter.com/manumax_ve) and later
-[Soroush](https://twitter.com/khanlou) pointed out that it might make more
-sense for this `Solution` type to conform to `Collection` (which itself conforms
-to `Sequence`) instead. From the documentation:
+My colleague [Manuele](https://twitter.com/manumax_ve) and later (my not
+colleague) [Soroush](https://twitter.com/khanlou) pointed out that it might
+make more sense for this `Solution` type to conform to `Collection` (which
+itself conforms to `Sequence`) instead. From the documentation:
 
 > A sequence whose elements can be traversed multiple times, nondestructively,
 > and accessed by an indexed subscript.
