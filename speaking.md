@@ -15,6 +15,7 @@ If you are interested in me giving a workshop speaking at your event, please get
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
 | July 3-4, 2019 | TBA | 👨‍🔬 | [Swift Island 2019](https://swiftisland.nl) | Texel, 🇳🇱 | - | - |
+| August 28-29, 2019 | Branch and bound: solving the 15-puzzle in Swift | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 | - | - |
 
 ### Past
 
