@@ -67,7 +67,7 @@ their native apps for iOS and Android in May 2017.
 At iCulture I've done an internship from September 2015 to February 2016.
 iCulture is the biggest Apple blog in The Netherlands, located in Amsterdam.
 
-During my internship, I have been working on special projects at the company.\*
+During my internship, I have been working on special projects at the company.
 
 ### ![apostle-app-icon](../assets/apostle/app-icon.png) [Apostle](http://apostle.nl) ('s Hertogenbosch / Venlo, 🇳🇱)
 #### **December 2014 – July 2015**
