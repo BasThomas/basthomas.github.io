@@ -75,7 +75,7 @@ During my internship, I have been working on special projects at the company.
 During my time at Apostle, a Dutch company looking to "implement and maintain
 your company's and employees' social media", I not only built an iOS application
 that enables users to create posts for multiple social media platforms, but I
-have also been doing QA for both their web products and apps, as well as some
+have also been doing QA for both their web products and apps, as well as writing
 "get started" guides for their tools.
 
 ## Projects
