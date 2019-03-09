@@ -13,7 +13,7 @@ iOS & Tooling Developer
 
 ## Interests
 
-Work related interesting include
+Work related interests include
 [Open Source Software](https://github.com/BasThomas), reading blogs, writing
 blog posts, and Swift.
 
