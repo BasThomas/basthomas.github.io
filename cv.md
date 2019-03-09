@@ -52,7 +52,7 @@ Final internship, working on UI-driven functional tests. I helped setting up
 their agnostic infrastructure to work with the iOS platform as well, and looked
 at the future of testing at the company.
 
-### ![bringme-logo](../assets/bringme/logo.png) [Bringme](https://www.bringme.com/en) (Leuven, 🇧🇪)
+### ![bringme-logo](../assets/bringme/logo.png) [Bringme](https://www.bringme.com/en) (Louvain, 🇧🇪)
 #### **July 2016 – October 2016**
 
 In the summer of 2016 I worked at Bringme, a company solving the pain points of
