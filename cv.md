@@ -35,12 +35,20 @@ I am willing to relocate for work — even abroad.
 ## Work experience
 
 ### ![xing-logo](../assets/xing/logo.png) [XING](https://xing.com) (Hamburg, 🇩🇪)
-#### **September 2018 – current**
+
+#### **October 2018 – current** (XING Technology Advisory Board)
+
+The XING Technology Advisory Board helps the leadership form technological
+decisions by involving the engineering community so that XING can foresee
+technological trends, develop robust products, and stay attractive as an
+employer for engineers.
+
+#### **September 2018 – current** (iOS Platform Team)
 
 Working in the iOS Platform team, working on app-wide improvements,
 architecture & frameworks.
 
-#### **August 2017 – September 2018**
+#### **August 2017 – September 2018** (Mobile Releases Team)
 
 Working on iOS, Android & Windows tooling, release management and continuous
 integration infrastructure.
