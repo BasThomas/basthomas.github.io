@@ -244,3 +244,6 @@ improve, teach and help others.
 > I really liked to work and especially discuss ideas with you. Even if some of
 the things you asked created more work for me, in the end it was for the better
 and things we created were useful for the future.
+
+> [..] Bas deserve[s] special praise for giving in-depth reviews that help
+spread knowledge and significantly improve the overall quality of the code.
