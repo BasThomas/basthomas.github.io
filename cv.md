@@ -13,7 +13,7 @@ iOS & Tooling Developer
 
 ## Interests
 
-Work related interesting include
+Work related interests include
 [Open Source Software](https://github.com/BasThomas), reading blogs, writing
 blog posts, and Swift.
 
@@ -35,12 +35,20 @@ I am willing to relocate for work — even abroad.
 ## Work experience
 
 ### ![xing-logo](../assets/xing/logo.png) [XING](https://xing.com) (Hamburg, 🇩🇪)
-#### **September 2018 – current**
+
+#### **October 2018 – current** (XING Technology Advisory Board)
+
+The XING Technology Advisory Board helps the leadership form technological
+decisions by involving the engineering community so that XING can foresee
+technological trends, develop robust products, and stay attractive as an
+employer for engineers.
+
+#### **September 2018 – current** (iOS Platform Team)
 
 Working in the iOS Platform team, working on app-wide improvements,
 architecture & frameworks.
 
-#### **August 2017 – September 2018**
+#### **August 2017 – September 2018** (Mobile Releases Team)
 
 Working on iOS, Android & Windows tooling, release management and continuous
 integration infrastructure.
@@ -67,7 +75,7 @@ their native apps for iOS and Android in May 2017.
 At iCulture I've done an internship from September 2015 to February 2016.
 iCulture is the biggest Apple blog in The Netherlands, located in Amsterdam.
 
-During my internship, I have been working on special projects at the company.\*
+During my internship, I have been working on special projects at the company.
 
 ### ![apostle-app-icon](../assets/apostle/app-icon.png) [Apostle](http://apostle.nl) ('s Hertogenbosch / Venlo, 🇳🇱)
 #### **December 2014 – July 2015**
@@ -75,7 +83,7 @@ During my internship, I have been working on special projects at the company.\*
 During my time at Apostle, a Dutch company looking to "implement and maintain
 your company's and employees' social media", I not only built an iOS application
 that enables users to create posts for multiple social media platforms, but I
-have also been doing QA for both their web products and apps, as well as some
+have also been doing QA for both their web products and apps, as well as writing
 "get started" guides for their tools.
 
 ## Projects
@@ -87,7 +95,7 @@ A podcast about Apple, Swift and other programming topics. Co-hosting with
 [Benedikt Terhechte](https://twitter.com/terhechte).
 
 #### ![swift-weekly-brief-icon](../assets/own_projects/swift-weekly-brief/icon.png) [Swift Weekly Brief](https://swiftweekly.github.io/)
-*January 2019 – current*
+*January 2018 – current*
 
 Bringing you an overview of what's been happing in open source Swift every other
 Thursday. I've been contributing content before taking over curation of the
@@ -139,15 +147,16 @@ Check out the app on [GitHub](https://github.com/rnystrom/GitHawk).
 
 #### [Moya](https://github.com/Moya/Moya)
 Moya is a network abstraction layer written in Swift. I've been contributing to
-this project by making their documentation even more awesome, as well as helping
-out users with any issues they might have.
+this project by making their documentation even more awesome, working on the
+library's migration from Swift 2 to 3, as well as helping 9ut users with any
+issues they might have.
 
 #### [try! Swift](https://itunes.apple.com/us/app/try!/id1083944488?mt=8)
 [try! Swift](https://www.tryswift.co/) is a Swift conference held in multiple
 cities around the world.
 
 I have helped out enhancing the iOS app for the conference to be more flexible
-and more easily usable.
+and more easy to use.
 
 Check out the app on [GitHub](https://github.com/tryswift/trySwiftAppFinal).
 
@@ -156,23 +165,22 @@ Check out the app on [GitHub](https://github.com/tryswift/trySwiftAppFinal).
 ### [Fontys University of Applied Sciences](http://fontys.edu) (Eindhoven, 🇳🇱)
 #### **September 2013 – July 2017**
 
-At Fontys, I studied studying ICT & Software, with a focus on Mobile. Here, I
-have been working with C#, Java, relational databases, Swift, Java for Android
-and more.
+At Fontys, I studied ICT & Software, with a focus on Mobile. Here, I have been
+working with C#, Java, relational databases, Swift, Java for Android and more.
 
 #### [Delta](http://deltafhict.nl/home/?lang=en)
 Delta is a Fontys initiative providing what could be called an excellence
 programme for students:
 
 >"Students who participate in the Delta programme work on their own goals and
-interests. This may work on ‘exploration projects’, where they are given full
+interests. They work on ‘exploration projects’, where they are given full
 freedom to explore a new technology or technique such as Google Glass, Drones,
 Virtual Reality and 3D printing. But this can also be collaborating on projects
 for real clients."
 
 Here, I made [Opus](http://deltafhict.github.io/mirror-docs/), a Smart Mirror,
-making use of technologies as Leap Motion, Kinect and more. This project went
-through a full software architecture - from concepting to realisation.
+making use of technologies such as Leap Motion, Kinect and more. This project
+went through a full cycle, from concepting to realisation.
 
 ### [Avans University of Applied Sciences](http://www.avans.nl/international) ('s Hertogenbosch, 🇳🇱)
 #### **September 2012 – July 2013**
@@ -183,16 +191,16 @@ I also learned about software modelling, relational databases and ITIL.
 ### [Philips van Horne - HAVO, N&T](http://www.pvanhorne.nl) (Weert, 🇳🇱)
 #### **September 2007 – June 2012**
 
-In highschool, I graduated with a curriculum based on Nature and Engineering.
+In high school, I graduated with a curriculum based on Nature and Engineering.
 
 #### [Bilingual Education](https://en.wikipedia.org/wiki/Bilingual_education#Netherlands)
-In highschool, we had an option to follow "Bilingual Education", in which
+In high school, we had an option to follow "Bilingual Education", in which
 roughly 50% of all courses were conducted in English.
 
 Concluding this special field of study, I finished my [Anglia Advanced Exam](http://www.anglia.org).
 
 #### [International Baccalaureate English](http://www.ibo.org/programmes/diploma-programme/curriculum/language-and-literature/)
-The last two years of highschool, I followed an International Baccalaureate
+The last two years of high school, I followed an International Baccalaureate
 English and finished its exam.
 
 ## Knowledge
@@ -220,7 +228,7 @@ solutions.
 > Bas is not only super smart and technically strong, but he is friendly,
 personable and enjoys collaborating with his colleagues.
 
-> Bas is a always curious and polite person that strives for a high level of
+> Bas is an always curious and polite person that strives for a high level of
 quality in his work and the work that other people do. He can inspire you to do
 better in a friendly but determined matter. He sometimes seems to be sceptical
 of social situations but quickly thaws if he recognizes equal interests in his
@@ -230,9 +238,12 @@ conversation partner.
 him a great addition to any team to focus the team on important details and
 topics.
 
-> Bas is highly committed and driven individual always striving to self
+> Bas is a highly committed and driven individual always striving to self
 improve, teach and help others.
 
 > I really liked to work and especially discuss ideas with you. Even if some of
 the things you asked created more work for me, in the end it was for the better
 and things we created were useful for the future.
+
+> [..] Bas deserve[s] special praise for giving in-depth reviews that help
+spread knowledge and significantly improve the overall quality of the code.

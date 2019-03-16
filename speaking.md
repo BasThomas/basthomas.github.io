@@ -8,7 +8,7 @@ I like public speaking and giving workshops, sharing my thoughts and perspective
 
 Topics I am particularly interested in include accessibility, inclusive design, testability, open source, and the Swift.org project (and its evolution process). This is not an exhaustive list and may change over time.
 
-If you are interested in me giving a workshop speaking at your event, please get in touch.
+If you are interested in me giving a workshop or speaking at your event, please get in touch.
 
 ### Upcoming
 
