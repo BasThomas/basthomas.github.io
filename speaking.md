@@ -12,10 +12,11 @@ If you are interested in me giving a workshop or speaking at your event, please 
 
 ### Upcoming
 
-| Date | Title | Talk type | Event | Location | Slides | Video |
-|-|-|-|-|-|-|-|
-| July 3-4, 2019 | TBA | 👨‍🔬 | [Swift Island 2019](https://swiftisland.nl) | Texel, 🇳🇱 | - | - |
-| August 28-29, 2019 | Branch and bound: solving the 15-puzzle in Swift | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 | - | - |
+| Date | Title | Talk type | Event | Location |
+|-|-|-|-|-|
+| April 4, 2019 | Testing the Untestable | 🎤 | [CocoaHeads Hamburg @ XING](https://www.meetup.com/CocoaHeads-Hamburg/) | Hamburg, 🇩🇪 |
+| July 3-4, 2019 | TBA | 👨‍🔬 | [Swift Island 2019](https://swiftisland.nl) | Texel, 🇳🇱 |
+| August 28-29, 2019 | Branch and bound: solving the 15-puzzle in Swift | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 |
 
 ### Past
 
