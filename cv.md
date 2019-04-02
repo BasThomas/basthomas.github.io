@@ -102,7 +102,7 @@ Thursday. I've been contributing content before taking over curation of the
 newsletter in January 2018.
 
 #### ![concerts-app-icon](../assets/own_projects/concerts/app-icon.png) [Concerts iOS app](https://itunes.apple.com/us/app/concerts-find-artist-events/id1097075919?ls=1&mt=8)
-*February 2016 – current*
+*February 2016 – October 2017*
 
 Concerts is an app, written in Swift, providing touring information for the
 artists you know and love.
