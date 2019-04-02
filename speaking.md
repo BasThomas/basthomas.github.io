@@ -4,11 +4,31 @@ title: Speaking & Workshops
 permalink: /speaking/
 ---
 
-I like public speaking and giving workshops, sharing my thoughts and perspective on iOS, Swift and programming.
+I like public speaking and giving workshops, sharing my thoughts and
+perspective on iOS, Swift and programming.
 
-Topics I am particularly interested in include accessibility, inclusive design, testability, open source, and the Swift.org project (and its evolution process). This is not an exhaustive list and may change over time.
+Topics I am particularly interested in include accessibility, inclusive design,
+testability, open source, and the Swift.org project (and its evolution process).
+This is not an exhaustive list and may change over time.
 
-If you are interested in me giving a workshop or speaking at your event, please get in touch.
+If you are interested in me giving a workshop or speaking at your event, please
+get in touch.
+
+<details>
+	<summary>Speaker Bio & Avatar</summary>
+
+<p>
+<img src="../assets/general/avatar.jpg" alt="Bas Broek" width="300">
+</p>
+<p>
+Bas is an iOS developer with a passion for testability, accessibility and
+user-centric apps. Cares about quality and collaboration.
+In his spare time, he curates <a href="https://swiftweekly.github.io">Swift Weekly Brief</a>,
+talks about things on the <a href="https://contravariance.rocks">Contravariance podcast</a>,
+and works on various open source projects, like <a href="http://githawk.com">GitHawk</a>.
+</p>
+Coffee is nice. Watches are cool.
+</details>
 
 ### Upcoming
 
