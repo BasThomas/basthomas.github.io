@@ -182,27 +182,6 @@ Here, I made [Opus](http://deltafhict.github.io/mirror-docs/), a Smart Mirror,
 making use of technologies such as Leap Motion, Kinect and more. This project
 went through a full cycle, from concepting to realisation.
 
-### [Avans University of Applied Sciences](http://www.avans.nl/international) ('s Hertogenbosch, 🇳🇱)
-#### **September 2012 – July 2013**
-
-At Avans, I studied ICT / Information Technology, working mostly with Java.
-I also learned about software modelling, relational databases and ITIL.
-
-### [Philips van Horne - HAVO, N&T](http://www.pvanhorne.nl) (Weert, 🇳🇱)
-#### **September 2007 – June 2012**
-
-In high school, I graduated with a curriculum based on Nature and Engineering.
-
-#### [Bilingual Education](https://en.wikipedia.org/wiki/Bilingual_education#Netherlands)
-In high school, we had an option to follow "Bilingual Education", in which
-roughly 50% of all courses were conducted in English.
-
-Concluding this special field of study, I finished my [Anglia Advanced Exam](http://www.anglia.org).
-
-#### [International Baccalaureate English](http://www.ibo.org/programmes/diploma-programme/curriculum/language-and-literature/)
-The last two years of high school, I followed an International Baccalaureate
-English and finished its exam.
-
 ## Knowledge
 
 Swift, Objective-C, Git (& GitHub), Java, Ruby, Python, Groovy, C#, SQL / PLSQL,
