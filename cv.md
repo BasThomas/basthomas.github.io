@@ -6,6 +6,7 @@ permalink: /curriculum-vitae/
 
 ![photo](../assets/general/photo.png)
 
+**Bas Thomas Broek**
 iOS & Tooling Developer
 
 ## Contact
