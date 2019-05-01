@@ -185,7 +185,7 @@ went through a full cycle, from concepting to realisation.
 
 ## Knowledge
 
-Swift, Objective-C, Git (& GitHub), Java, Ruby, Python, Groovy, C#, SQL / PLSQL,
+Swift, Objective-C, Git (& GitHub), Java, Ruby, Groovy, C#, SQL / PLSQL,
 PHP, Python, Continuous Integration, Scrum, Quality Assurance, Testing &
 Testability, Technical Writing.
 
