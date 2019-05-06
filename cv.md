@@ -39,10 +39,10 @@ I am willing to relocate for work — even abroad.
 
 #### **October 2018 – current** (XING Technology Advisory Board)
 
-The XING Technology Advisory Board helps the leadership form technological
-decisions by involving the engineering community so that XING can foresee
-technological trends, develop robust products, and stay attractive as an
-employer for engineers.
+The XING Technology Advisory Board helps the leadership to make strategic
+technology decisions by involving the engineering community so that XING can
+foresee technological trends, develop products sustainably, and stay attractive
+as an employer for engineers.
 
 #### **September 2018 – current** (iOS Platform Team)
 
