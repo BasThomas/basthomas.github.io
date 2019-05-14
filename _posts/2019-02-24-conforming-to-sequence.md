@@ -331,7 +331,8 @@ And that is it! This is so much easier to understand and gives me a lot more
 confidence when it comes to its validity, both from a correctness and
 performance point of view.
 
-Thanks, Manuele & Soroush! 🎉
+Thanks, [Manuele](https://twitter.com/manumax_ve) &
+[Soroush](https://twitter.com/khanlou)! 🎉
 
 You can find the implemention of the `Solution` type, including the one
 conforming to `Collection` instead of `Sequence`,
