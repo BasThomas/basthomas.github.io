@@ -34,7 +34,7 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| July 3-4, 2019 | iPadOS | 👨‍🔬 | [Swift Island 2019](https://swiftisland.nl) | Texel, 🇳🇱 |
+| July 3, 2019 | iPadOS | 👨‍🔬 | [Swift Island 2019](https://swiftisland.nl) | Texel, 🇳🇱 |
 | August 28-29, 2019 | Branch and bound: solving the 15-puzzle in Swift | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 |
 
 ### Past
