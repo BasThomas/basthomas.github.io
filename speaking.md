@@ -35,6 +35,7 @@ Coffee is nice. Watches are cool.
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
 | August 28-29, 2019 | Branch and bound: solving the 15-puzzle in Swift | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 |
+| October 7-8, 2019 | iPadOS | 👨‍🔬 | [FrenchKit 2019](https://frenchkit.fr) | Paris, 🇫🇷 |
 
 ### Past
 
@@ -53,7 +54,7 @@ Coffee is nice. Watches are cool.
 | Feb 15, 2018 | Introduction to Swift (authored by [Joachim Kurz](http://blog.cocoafrog.de)) | 🎤 | [Hello World 2018](https://helloworldconf.pt) | Porto, 🇵🇹 | [x](http://khd2.de/talks/Introduction-to-Swift-Hello-World/HelloWorld_Conf-Introduction_to_Swift.pdf) | - |
 | Nov 30, 2017 | Tackling Continuous Releases for XING's Mobile Apps | 🎤 | [GitHub Constellation](http://githubconstellation.com/berlin/) | Berlin, 🇩🇪 | [x](https://speakerdeck.com/basthomas/tackling-continuous-releases-for-xings-mobile-apps) | - |
 | Nov 02, 2017 | Accessibility: When You See It... | 🎤 | [CocoaHeads Hamburg @ XING](https://www.meetup.com/CocoaHeads-Hamburg/) | Hamburg, 🇩🇪 | [x](https://speakerdeck.com/basthomas/accessibility-when-you-see-it-dot-dot-dot) | - |
-| Sep 23, 2017 | What's up with Swift 5? | 🎤 | [FrenchKit 2017](http://frenchkit.fr) | Paris, 🇫🇷 | [x](https://speakerdeck.com/basthomas/whats-up-with-swift-5) | [x](https://www.youtube.com/watch?v=XXqZaKodLfA) |
+| Sep 23, 2017 | What's up with Swift 5? | 🎤 | [FrenchKit 2017](http://2017.frenchkit.fr) | Paris, 🇫🇷 | [x](https://speakerdeck.com/basthomas/whats-up-with-swift-5) | [x](https://www.youtube.com/watch?v=XXqZaKodLfA) |
 | Feb 15, 2017 | Swift 4 | 🎤 | [CocoaHeads NL @ Xebia](https://www.meetup.com/CocoaHeadsNL/) | Amsterdam, 🇳🇱 | [x](https://speakerdeck.com/basthomas/swift-4) | - |
 
 
