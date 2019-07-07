@@ -34,13 +34,13 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| July 3, 2019 | iPadOS | 👨‍🔬 | [Swift Island 2019](https://swiftisland.nl) | Texel, 🇳🇱 |
 | August 28-29, 2019 | Branch and bound: solving the 15-puzzle in Swift | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 |
 
 ### Past
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| July 3, 2019 | iPadOS | 👨‍🔬 | [Swift Island 2019](https://swiftisland.nl) | Texel, 🇳🇱 | [x](https://speakerdeck.com/basthomas/an-introduction-to-ipados-workshop) | - |
 | April 4, 2019 | Testing the Untestable | 🎤 | [CocoaHeads Hamburg @ XING](https://www.meetup.com/CocoaHeads-Hamburg/) | Hamburg, 🇩🇪 | [x](https://speakerdeck.com/basthomas/testing-the-untestable) | - |
 | Jan 10, 2019 | So You're Writing a Framework... | 🎤 | [CocoaHeads Hamburg @ XING](https://www.meetup.com/CocoaHeads-Hamburg/) | Hamburg, 🇩🇪 | [x](https://speakerdeck.com/basthomas/so-youre-writing-a-framework-dot-dot-dot) | - |
 | Dec 10, 2018 | So You're Writing a Framework... | 🎤 | [NSBarcelona @ XING](https://www.meetup.com/nsbarcelona/) | Barcelona, 🇪🇸 | [x](https://speakerdeck.com/basthomas/so-youre-writing-a-framework-dot-dot-dot-more-swift-version) | - |
