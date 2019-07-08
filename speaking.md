@@ -34,7 +34,8 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| August 28-29, 2019 | Branch and bound: solving the 15-puzzle in Swift | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 |
+| August 28, 2019 | An introduction to Accessibility on iOS: Better Apps For Everyone | 👨‍🔬 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 |
+| August 28-29, 2019 | Solving the 15-puzzle in Swift: A Look At Algorithms And Speed | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 |
 | October 7-8, 2019 | iPadOS | 👨‍🔬 | [FrenchKit 2019](https://frenchkit.fr) | Paris, 🇫🇷 |
 
 ### Past
