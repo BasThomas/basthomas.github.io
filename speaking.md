@@ -34,8 +34,6 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| August 28, 2019 | An introduction to Accessibility on iOS: Better Apps For Everyone | 👨‍🔬 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 |
-| August 28-29, 2019 | Solving the 15-puzzle in Swift: A Look At Algorithms And Speed | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 |
 | October 7-8, 2019 | iPadOS | 👨‍🔬 | [FrenchKit 2019](https://frenchkit.fr) | Paris, 🇫🇷 |
 | November 28-29, 2019 | TBA | 👨‍🔬 | [The Swift Alps 2019](https://theswiftalps.com) | Crans-Montana, 🇨🇭 |
 
@@ -43,6 +41,8 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| August 29, 2019 | Solving the 15-puzzle in Swift: A Look At Algorithms And Speed | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 | [x](https://speakerdeck.com/basthomas/solving-the-15-puzzle-in-swift-a-look-at-algorithms-and-speed) | - |
+| August 28, 2019 | An introduction to Accessibility on iOS: Better Apps For Everyone | 👨‍🔬 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 | [x](https://speakerdeck.com/basthomas/an-introduction-to-accessibility-on-ios-better-apps-for-everyone) | - |
 | July 3, 2019 | iPadOS | 👨‍🔬 | [Swift Island 2019](https://swiftisland.nl) | Texel, 🇳🇱 | [x](https://speakerdeck.com/basthomas/an-introduction-to-ipados-workshop) | - |
 | April 4, 2019 | Testing the Untestable | 🎤 | [CocoaHeads Hamburg @ XING](https://www.meetup.com/CocoaHeads-Hamburg/) | Hamburg, 🇩🇪 | [x](https://speakerdeck.com/basthomas/testing-the-untestable) | - |
 | Jan 10, 2019 | So You're Writing a Framework... | 🎤 | [CocoaHeads Hamburg @ XING](https://www.meetup.com/CocoaHeads-Hamburg/) | Hamburg, 🇩🇪 | [x](https://speakerdeck.com/basthomas/so-youre-writing-a-framework-dot-dot-dot) | - |
