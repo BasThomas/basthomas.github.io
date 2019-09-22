@@ -227,3 +227,16 @@ and things we created were useful for the future.
 
 > [..] Bas deserve[s] special praise for giving in-depth reviews that help
 spread knowledge and significantly improve the overall quality of the code.
+
+> Bas is [..] not only [..] great on the technical side, but is also a very
+good communicator, improves team and company processes and does so in an
+impressively gentle but tenacious way. Bas seriously impresses me by the level
+of quality he achieved in and the care he puts into so many different areas of
+software development.
+
+> Bas is a driver for change and improvement. He is an activator for the rest
+of the team, leading by example and inspiring them. Bas takes responsibility
+and is not afraid of challenges.
+
+> Bas is passionate to share and keep learning. He is good at bringing people
+together to find creative solutions.
