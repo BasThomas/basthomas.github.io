@@ -89,6 +89,11 @@ have also been doing QA for both their web products and apps, as well as writing
 
 ## Projects
 
+#### ![raywenderlich-icon](../assets/raywenderlich/raywenderlich.png) [RayWenderlich.com Tech Editor](https://www.raywenderlich.com)
+*June 2019 – current*
+
+Technical editing of iOS articles for RayWenderlich.
+
 #### ![contravariance-icon](../assets/own_projects/contravariance/icon.png) [Contravariance Podcast](https://contravariance.rocks)
 *August 2018 – current*
 
