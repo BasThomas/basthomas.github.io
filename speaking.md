@@ -35,6 +35,8 @@ Coffee is nice. Watches are cool.
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
 | October 7-8, 2019 | iPadOS | 👨‍🔬 | [FrenchKit 2019](https://frenchkit.fr) | Paris, 🇫🇷 |
+| October 23, 2019 | Treat Yourself: Keeping an Eye on Your Dependency Graph | 🎤 | [CocoaHeads Porto @ XING](https://www.meetup.com/CocoaHeads-Porto/) | Porto, 🇵🇹 |
+| November 7, 2019 | Kotlin or Swift, why not both? (with [Laura Orán](https://twitter.com/sastresa)) | 🎤 | [Google Developer Group Valencia @ XING](https://www.meetup.com/GDGValencia/) | Valencia, 🇪🇸 |
 | November 28-29, 2019 | TBA | 👨‍🔬 | [The Swift Alps 2019](https://theswiftalps.com) | Crans-Montana, 🇨🇭 |
 
 ### Past
