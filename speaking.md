@@ -34,7 +34,6 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| October 7-8, 2019 | iPadOS | 👨‍🔬 | [FrenchKit 2019](https://frenchkit.fr) | Paris, 🇫🇷 |
 | October 23, 2019 | Treat Yourself: Keeping an Eye on Your Dependency Graph | 🎤 | [CocoaHeads Porto @ XING](https://www.meetup.com/CocoaHeads-Porto/) | Porto, 🇵🇹 |
 | November 7, 2019 | Kotlin or Swift, why not both? (with [Laura Orán](https://twitter.com/sastresa)) | 🎤 | [Google Developer Group Valencia @ XING](https://www.meetup.com/GDGValencia/) | Valencia, 🇪🇸 |
 | November 28-29, 2019 | TBA | 👨‍🔬 | [The Swift Alps 2019](https://theswiftalps.com) | Crans-Montana, 🇨🇭 |
@@ -43,6 +42,7 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| October 7-8, 2019 | iPadOS | 👨‍🔬 | [FrenchKit 2019](https://frenchkit.fr) | Paris, 🇫🇷 | [x](https://speakerdeck.com/basthomas/an-introduction-to-ipados-workshop-5b614f1f-aef8-4aaf-b724-fd7d6695acf1) | - |
 | August 29, 2019 | Solving the 15-puzzle in Swift: A Look At Algorithms And Speed | 🎤 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 | [x](https://speakerdeck.com/basthomas/solving-the-15-puzzle-in-swift-a-look-at-algorithms-and-speed) | - |
 | August 28, 2019 | An introduction to Accessibility on iOS: Better Apps For Everyone | 👨‍🔬 | [Swiftconf](https://swiftconf.com) | Cologne, 🇩🇪 | [x](https://speakerdeck.com/basthomas/an-introduction-to-accessibility-on-ios-better-apps-for-everyone) | - |
 | July 3, 2019 | iPadOS | 👨‍🔬 | [Swift Island 2019](https://swiftisland.nl) | Texel, 🇳🇱 | [x](https://speakerdeck.com/basthomas/an-introduction-to-ipados-workshop) | - |
