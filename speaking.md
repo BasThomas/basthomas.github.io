@@ -22,7 +22,7 @@ get in touch.
 </p>
 <p>
 Bas is an iOS developer with a passion for testability, accessibility and
-user-centric apps. Cares about quality and collaboration.
+user-centric apps. He cares about communication and collaboration.
 In his spare time, he curates <a href="https://swiftweekly.github.io">Swift Weekly Brief</a>,
 talks about things on the <a href="https://contravariance.rocks">Contravariance podcast</a>,
 and works on various open source projects, like <a href="http://githawk.com">GitHawk</a>.
