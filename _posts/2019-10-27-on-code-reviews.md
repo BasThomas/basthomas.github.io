@@ -60,8 +60,8 @@ know it helps. I've seen the author ask about comments I wrote, not (fully)
 understanding what I meant. Though communication is hard, I feel this has
 been happening less over time.
 - **I feel responsible for the code I review,** meaning I use "we", not
-"you". "We could consider adding a comment explaining why we need to ignore X",
-not "you".
+"you". "We could consider adding a comment explaining why _we_ need to ignore
+X", not "you".
 - **I review my own code.** Especially in larger pull requests, I look through
 the code before assigning a reviewer, asking open questions to the reviewer,
 making notes and/or making some changes. Seeing the "bigger" picture often helps
