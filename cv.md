@@ -121,19 +121,6 @@ RSVP to events, and even buy tickets right from the app.
 
 Puzzle game showcasing Apple TV, based on [15-puzzle](https://en.wikipedia.org/wiki/15_puzzle).
 
-#### [Analysis](https://github.com/BasThomas/Analysis)
-*November 2016 - current*
-
-Analysis is a library for iOS that helps you extract useful information from
-strings. It calculates the amount of sentences, words, characters, occurrence
-of words and characters, and more.
-
-#### ![financial-app-icon](../assets/own_projects/financial/app-icon.png) [Financial iOS app](https://itunes.apple.com/us/app/financial-costs-income-insight/id1118912417)
-*June 2016 – current*
-
-I have been conducting code reviews for this application, as well as providing
-(English) localization and doing QA.
-
 ## Other experience
 
 #### Open Source Software
