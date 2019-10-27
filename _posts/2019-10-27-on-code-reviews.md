@@ -65,7 +65,7 @@ X", not "you".
 - **I review my own code.** Especially in larger pull requests, I look through
 the code before assigning a reviewer, asking open questions to the reviewer,
 making notes and/or making some changes. Seeing the "bigger" picture often helps
-me catch issues/improvements to be made early, hopefully making the code review
+catch issues/improvements to be made early, hopefully making the code review
 more enjoyable in the process.
 - **I don't use words like "easily", "simply", or other downplaying words.**
 The fact something would be any of those is always an assumption to whoever is
@@ -95,7 +95,7 @@ If possible, I always discuss it in person afterward.
 ---
 
 If you're interested in having me do code review or proofread a document, I'm more
-than happy to help out. Just send me a direct message [on Twitter](https://twitter.com/{{ site.twitter_username }}).[^2]
+than happy to help out. Just send a direct message [on Twitter](https://twitter.com/{{ site.twitter_username }}).[^2]
 
 <sub>Thanks _so much_ to [João](https://twitter.com/NSMyself),
 [Barbie](https://twitter.com/barbieinbeta), [Kristaps](https://twitter.com/fassko)
