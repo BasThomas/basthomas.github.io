@@ -12,13 +12,15 @@ allows me to write better[^1] code. This post is inspired by a recent
 similar [blog post](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
 (by [Angie Jones](https://twitter.com/techgirl1908)) and a [talk](https://www.youtube.com/watch?v=Ea8EiIPZvh0)
 on the topic (by [April Wensel](https://twitter.com/aprilwensel)) from 2018's
-try! Swift NYC.
+[try! Swift NYC](https://www.tryswift.co) (which you should totally attend if
+you get the chance).
 
 - **I point out the good things.** This goes for anything really; not just code
 reviews. If there's something you like or learned, let the author know. I
 believe this will make a big difference on how a review is perceived, and is a
 win-win all around.<br />
 This is what I believe to be the **single most important part of a review**.
+- **I assume best intent.** I've written questionable code before, or have
 - **I read the pull request's description _and_ ticket.** Yes, also the ticket.
 Seldom does that not help me getting a better understanding of the code. And
 understanding is key. This makes everyone involved's time a lot more valuable.
@@ -54,6 +56,9 @@ the code before assigning a reviewer, either asking open questions to the
 reviewer, making notes and/or making some changes. Seeing the "bigger" picture
 often helps me catch issues/improvements to be made early, hopefully making the
 code review more enjoyable in the process.
+- **I don't use words like "easy", "simply", or similar.** The fact something
+would be any of those is always an assumption to whoever is reading it, and
+serves no purpose.
 
 ---
 
