@@ -17,24 +17,26 @@ you get the chance).
 
 - **I point out the good things.** This goes for anything really; not just code
 reviews. If there's something you like or learned, let the author know. I
-believe this will make a big difference on how a review is perceived, and is a
+believe this will make a big difference in how a review is perceived, and is a
 win-win all around.<br />
 This is what I believe to be the **single most important part of a review**.
-- **I assume best intent.** I've written questionable code before, or have
-overseen mistakes. That happens. Always be kind and approach a review
+- **I assume the best intentions.** I've written questionable code before, or
+have overlooked mistakes. That happens. Always be kind and approach a review
 positively. 
 - **I read the pull request's description _and_ ticket.** Yes, also the ticket.
 This makes the time of everyone involved a lot more valuable. Seldom does this
-not help me getting a better understanding of the code. And understanding is
-key. If something in the description or ticket is unclear to me, I try to reach
-out the author before continuing a review.
-- **I provide context.** For instance, if I come across something that might
-better be represented by a function rather than a computed property, I explain
-why I would suggest that in the given case.
+not help me gain a better understanding of the code. And understanding is key.
+If something in the description or ticket is unclear to me, I try to reach out
+to the author before continuing a review.
+- **I provide context.** For instance, if I come across a `struct` that only
+serves as a namespace, I wouldn't only suggest to use a caseless `enum` instead,
+but explain why I think that is the case (no pun intended): a caseless `enum`
+has a non-accessible `init` by default, while a `struct` can still be
+initialized without a `private init`.
 - **I provide references.** Whether it's a blog post, piece of code, or
 documentation I reference, I link it. This allows the author to dig deeper into
-the topic if they want, and may be helpful for those who read the comment(s) in
-the future.
+the topic if they want, and might be helpful for those who read the comment(s)
+in the future.
 - **I take the time to try and understand the code.** When I feel like I'm
 having a hard time grasping some of the decisions that have been made, or the
 code itself, I often feel asking about it in writing is difficult. If this
@@ -63,9 +65,9 @@ the code before assigning a reviewer, asking open questions to the reviewer,
 making notes and/or making some changes. Seeing the "bigger" picture often helps
 me catch issues/improvements to be made early, hopefully making the code review
 more enjoyable in the process.
-- **I don't use words like "easy", "simply", or similar.** The fact something
-would be any of those is always an assumption to whoever is reading it, and
-serves no purpose.
+- **I don't use words like "easily", "simply", or other downplaying words.**
+The fact something would be any of those is always an assumption to whoever is
+reading it, and serves no purpose.
 
 ---
 
@@ -80,17 +82,17 @@ team. It's great.
 
 ## On Non-Code Reviews
 
-Oh, and most of this also applies reviewing other things, like blog posts and
+Oh, and most of this also applies to reviewing other things, like blog posts and
 documentation. For those in particular, I prefer printing the documents (so it
-is easy to make both corrections and remarks). That also giving me the
+is easy to make both corrections and remarks). That also gives me an
 opportunity to find another place to work, away from my computer. Natural light
 helps!
 
-If possible, I always discuss it in person afterwards.
+If possible, I always discuss it in person afterward.
 
 ---
 
-If you're interested in code review or proofreading of a document, I'm more
+If you're interested in having me do code review or proofread a document, I'm more
 than happy to help out. Just send me a direct message [on Twitter](https://twitter.com/{{ site.twitter_username }}).[^2]
 
 <sub>Thanks _so much_ to [Kristaps](https://twitter.com/fassko),
