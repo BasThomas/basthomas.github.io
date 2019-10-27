@@ -97,10 +97,9 @@ If possible, I always discuss it in person afterward.
 If you're interested in having me do code review or proofread a document, I'm more
 than happy to help out. Just send me a direct message [on Twitter](https://twitter.com/{{ site.twitter_username }}).[^2]
 
-<sub>Thanks _so much_ to [Kristaps](https://twitter.com/fassko),
-[Donny](https://twitter.com/DonnyWals), [Fernando](https://twitter.com/fmo_91),
-[João](https://twitter.com/NSMyself), [Barbie](https://twitter.com/barbieinbeta)
-and [Mustapha](https://twitter.com/ben_muta) for proofreading!</sub>
+<sub>Thanks _so much_ to [João](https://twitter.com/NSMyself),
+[Barbie](https://twitter.com/barbieinbeta), [Kristaps](https://twitter.com/fassko)
+and [Donny](https://twitter.com/DonnyWals) for proofreading!</sub>
 
 [^1]: I suppose "better" is always subjective here, but I can take the learnings from these reviews and the insights of the current code base to help make certain decisions.
 [^2]: I find it frustrating that asking for these things myself is arguably one of my weaker points. 🤷‍♂️
