@@ -25,9 +25,9 @@ have overlooked mistakes. That happens. Always be kind and approach a review
 positively. 
 - **I read the pull request's description _and_ ticket.** Yes, also the ticket.
 This makes the time of everyone involved a lot more valuable. Seldom does this
-not help me gain a better understanding of the code. And understanding is key.
-If something in the description or ticket is unclear to me, I try to reach out
-to the author before continuing a review.
+not help gain a better understanding of the code. And understanding is key.
+If something in the description or ticket is unclear, I try to reach out to
+the author before continuing a review.
 - **I provide context.** For instance, if I come across a `struct` that only
 serves as a namespace, I wouldn't only suggest to use a caseless `enum` instead,
 but explain why I think that is the case (no pun intended): a caseless `enum`
