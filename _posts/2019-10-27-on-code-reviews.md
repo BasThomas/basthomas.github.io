@@ -34,9 +34,11 @@ but explain why I think that is the case (no pun intended): a caseless `enum`
 has a non-accessible `init` by default, while a `struct` can still be
 initialized without a `private init`.
 - **I provide references.** Whether it's a blog post, piece of code, or
-documentation I reference, I link it. This allows the author to dig deeper into
-the topic if they want, and might be helpful for those who read the comment(s)
-in the future.
+documentation I reference, I link it. In the example on context above, I would
+link to [a blog post](https://www.natashatherobot.com/swift-enum-no-cases/)
+explaining the advantages (of a caseless `enum`). This allows the author to dig
+deeper into the topic if they want, and might be helpful for those who read the
+comment(s) in the future.
 - **I take the time to try and understand the code.** When I feel like I'm
 having a hard time grasping some of the decisions that have been made, or the
 code itself, I often feel asking about it in writing is difficult. If this
