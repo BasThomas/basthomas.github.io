@@ -15,6 +15,8 @@ on the topic (by [April Wensel](https://twitter.com/aprilwensel)) from 2018's
 [try! Swift NYC](https://www.tryswift.co) (which you should totally attend if
 you get the chance).
 
+<!--more-->
+
 - **I point out the good things.** This goes for anything really; not just code
 reviews. If there's something you like or learned, let the author know. I
 believe this will make a big difference in how a review is perceived, and is a
