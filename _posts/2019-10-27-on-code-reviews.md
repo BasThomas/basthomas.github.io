@@ -96,8 +96,8 @@ If possible, I always discuss it in person afterward.
 
 ### Further Reading
 
-If you're interesting in reading more in this topic, I can wholeheartedly suggest
-[Google's code review practices](https://google.github.io/eng-practices/review/reviewer/),
+If you're interesting in reading more on this topic, I can wholeheartedly
+recommend [Google's code review practices](https://google.github.io/eng-practices/review/reviewer/),
 as well as Babylon Health's [Code Review Etiquette](https://github.com/babylonhealth/ios-playbook/blob/master/Etiquette/CODE_REVIEW.md).
 
 ---
