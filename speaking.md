@@ -36,7 +36,7 @@ Coffee is nice. Watches are cool.
 |-|-|-|-|-|
 | November 7, 2019 | Treat Yourself: Keeping an Eye on Your Dependency Graph | 🎤 | [CocoaHeads Hamburg @ XING](https://www.meetup.com/CocoaHeads-Hamburg/) | Hamburg, 🇩🇪 | [x](https://speakerdeck.com/basthomas/treat-yourself-keeping-an-eye-on-your-dependency-graph) | - |
 | November 14, 2019 | Kotlin or Swift, why not both? (with [Laura Orán](https://twitter.com/sastresa)) | 🎤 | [Google Developer Group Valencia @ XING](https://www.meetup.com/GDGValencia/) | Valencia, 🇪🇸 |
-| November 28-29, 2019 | TBA | 👨‍🔬 | [The Swift Alps 2019](https://theswiftalps.com) | Crans-Montana, 🇨🇭 |
+| November 28-29, 2019 | Writing Testable Code | 👨‍🔬 | [The Swift Alps 2019](https://theswiftalps.com) | Crans-Montana, 🇨🇭 |
 
 ### Past
 
