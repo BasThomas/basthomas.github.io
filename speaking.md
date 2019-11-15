@@ -34,13 +34,13 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| November 14, 2019 | Kotlin or Swift, why not both? (with [Laura Orán](https://twitter.com/sastresa)) | 🎤 | [Google Developer Group Valencia @ XING](https://www.meetup.com/GDGValencia/) | Valencia, 🇪🇸 |
 | November 28-29, 2019 | Writing Testable Code | 👨‍🔬 | [The Swift Alps 2019](https://theswiftalps.com) | Crans-Montana, 🇨🇭 |
 
 ### Past
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| November 14, 2019 | Kotlin or Swift, why not both? (with [Laura Orán](https://twitter.com/sastresa)) | 🎤 | [Google Developer Group Valencia @ XING](https://www.meetup.com/GDGValencia/) | Valencia, 🇪🇸 | [x](https://speakerdeck.com/basthomas/kotlin-or-swift-why-not-both) | - |
 | November 7, 2019 | Treat Yourself: Keeping an Eye on Your Dependency Graph | 🎤 | [CocoaHeads Hamburg @ XING](https://www.meetup.com/CocoaHeads-Hamburg/) | Hamburg, 🇩🇪 | [x](https://speakerdeck.com/basthomas/treat-yourself-keeping-an-eye-on-your-dependency-graph) | - |
 | October 23, 2019 | Treat Yourself: Keeping an Eye on Your Dependency Graph | 🎤 | [CocoaHeads Porto @ XING](https://www.meetup.com/CocoaHeads-Porto/) | Porto, 🇵🇹 | [x](https://speakerdeck.com/basthomas/treat-yourself-keeping-an-eye-on-your-dependency-graph) | - |
 | October 7-8, 2019 | iPadOS | 👨‍🔬 | [FrenchKit 2019](https://frenchkit.fr) | Paris, 🇫🇷 | [x](https://speakerdeck.com/basthomas/an-introduction-to-ipados-workshop-5b614f1f-aef8-4aaf-b724-fd7d6695acf1) | - |
