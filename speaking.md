@@ -34,6 +34,7 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
+| Coming soon |
 
 ### Past
 
