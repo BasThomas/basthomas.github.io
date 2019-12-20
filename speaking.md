@@ -34,7 +34,7 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Coming soon |
+| January 29, 2020 | Building XING's Technology Advisory Board through GitHub | 🎤 | [GitHub Enterprise Roadshow Munich](https://githubenterpriseroadshowmunich.splashthat.com) | Munich, 🇩🇪 |
 
 ### Past
 
