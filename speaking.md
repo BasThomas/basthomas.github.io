@@ -5,9 +5,9 @@ permalink: /speaking/
 ---
 
 I like public speaking and giving workshops, sharing my thoughts and
-perspective on iOS, Swift and programming.
+perspective on iOS, Swift and more.
 
-Topics I am particularly interested in include accessibility, inclusive design,
+Topics I am particularly interested in include communication, accessibility,
 testability, open source, and the Swift.org project (and its evolution process).
 This is not an exhaustive list and may change over time.
 
