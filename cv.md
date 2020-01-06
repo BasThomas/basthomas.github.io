@@ -89,25 +89,30 @@ have also been doing QA for both their web products and apps, as well as writing
 
 ## Projects
 
+#### ![swiftaveiro-icon](../assets/projects/swiftaveiro/icon.jpg) [SwiftAveiro co-organizer](https://swiftaveiro.xyz)
+*September 2019 – current*
+
+Co-organizing SwiftAveiro, a Swift workshop conference in Aveiro, Portugal.
+
 #### ![raywenderlich-icon](../assets/raywenderlich/raywenderlich.png) [RayWenderlich.com Tech Editor](https://www.raywenderlich.com)
 *June 2019 – current*
 
 Technical editing of iOS articles for RayWenderlich.
 
-#### ![contravariance-icon](../assets/own_projects/contravariance/icon.png) [Contravariance Podcast](https://contravariance.rocks)
+#### ![contravariance-icon](../assets/projects/contravariance/icon.png) [Contravariance Podcast](https://contravariance.rocks)
 *August 2018 – current*
 
 A podcast about Apple, Swift and other programming topics. Co-hosting with
 [Benedikt Terhechte](https://twitter.com/terhechte).
 
-#### ![swift-weekly-brief-icon](../assets/own_projects/swift-weekly-brief/icon.png) [Swift Weekly Brief](https://swiftweekly.github.io/)
+#### ![swift-weekly-brief-icon](../assets/projects/swift-weekly-brief/icon.png) [Swift Weekly Brief](https://swiftweekly.github.io/)
 *January 2018 – current*
 
 Bringing you an overview of what's been happing in open source Swift every other
 Thursday. I've been contributing content before taking over curation of the
 newsletter in January 2018.
 
-#### ![concerts-app-icon](../assets/own_projects/concerts/app-icon.png) [Concerts iOS app](https://itunes.apple.com/us/app/concerts-find-artist-events/id1097075919?ls=1&mt=8)
+#### ![concerts-app-icon](../assets/projects/concerts/app-icon.png) [Concerts iOS app](https://itunes.apple.com/us/app/concerts-find-artist-events/id1097075919?ls=1&mt=8)
 *February 2016 – October 2017*
 
 Concerts is an app, written in Swift, providing touring information for the
@@ -115,11 +120,6 @@ artists you know and love.
 
 The app lets you "follow" artists and see when and where they are touring,
 RSVP to events, and even buy tickets right from the app.
-
-#### Fif tvOS app
-*November 2015 – current*
-
-Puzzle game showcasing Apple TV, based on [15-puzzle](https://en.wikipedia.org/wiki/15_puzzle).
 
 ## Other experience
 
@@ -163,9 +163,9 @@ working with C#, Java, relational databases, Swift, Java for Android and more.
 
 #### [Delta](http://deltafhict.nl/home/?lang=en)
 Delta is a Fontys initiative providing what could be called an excellence
-programme for students:
+program for students:
 
->"Students who participate in the Delta programme work on their own goals and
+>"Students who participate in the Delta program work on their own goals and
 interests. They work on ‘exploration projects’, where they are given full
 freedom to explore a new technology or technique such as Google Glass, Drones,
 Virtual Reality and 3D printing. But this can also be collaborating on projects
@@ -173,7 +173,7 @@ for real clients."
 
 Here, I made [Opus](http://deltafhict.github.io/mirror-docs/), a Smart Mirror,
 making use of technologies such as Leap Motion, Kinect and more. This project
-went through a full cycle, from concepting to realisation.
+went through a full cycle, from concepting to realization.
 
 ## Knowledge
 
