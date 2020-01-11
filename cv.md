@@ -89,6 +89,11 @@ have also been doing QA for both their web products and apps, as well as writing
 
 ## Projects
 
+#### ![swiftforgood-icon](../assets/projects/swiftforgood/icon.png) [Swift for Good co-author](https://www.swiftforgood.com)
+
+Swift for Good is a book written by 20 top authors and speakers, with 100% of
+all revenue going to charity. For volume 1, I wrote a chapter on accessibility.
+
 #### ![swiftaveiro-icon](../assets/projects/swiftaveiro/icon.jpg) [SwiftAveiro co-organizer](https://swiftaveiro.xyz)
 *September 2019 – current*
 
