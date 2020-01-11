@@ -14,8 +14,7 @@ iOS & Tooling Developer
 
 ## Introduction
 I am a software developer from The Netherlands, currently living in Germany.
-I love sharing knowledge
-and learning from others at conferences, and enjoy
+I love sharing knowledge and learning from others at conferences, and enjoy
 [speaking and giving workshops 🎤](/speaking.md/).
 
 I value quality over quantity, and I want to make sure the projects I work on
