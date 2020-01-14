@@ -25,6 +25,7 @@ Bas is an iOS developer with a passion for testability, accessibility and
 user-centric apps. He cares about communication and collaboration.
 In his spare time, he curates <a href="https://swiftweekly.github.io">Swift Weekly Brief</a>,
 talks about things on the <a href="https://contravariance.rocks">Contravariance podcast</a>,
+helps organizing <a href="https://swiftaveiro.xyz">SwiftAveiro</a>, a Swift workshop conference,
 and works on various open source projects, like <a href="http://githawk.com">GitHawk</a>.
 </p>
 Coffee is nice. Watches are cool.
