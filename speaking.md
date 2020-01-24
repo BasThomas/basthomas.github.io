@@ -36,7 +36,7 @@ Coffee is nice. Watches are cool.
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
 | January 29, 2020 | Building XING's Technology Advisory Board through GitHub | 🎤 | [GitHub Enterprise Roadshow Munich](https://githubenterpriseroadshowmunich.splashthat.com) | Munich, 🇩🇪 |
-| TBA | Using Swift 5's Custom String Interpolation in Practice | 🎤 | [Copenhagen Cocoa @ Jayway](https://www.meetup.com/CopenhagenCocoa/) | Copenhagen, 🇩🇰 |
+| February 6, 2020 | Using Swift 5's Custom String Interpolation in Practice | 🎤 | [Copenhagen Cocoa @ Jayway](https://www.meetup.com/CopenhagenCocoa/) | Copenhagen, 🇩🇰 |
 
 ### Past
 
