@@ -35,13 +35,13 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| January 29, 2020 | Building XING's Technology Advisory Board through GitHub | 🎤 | [GitHub Enterprise Roadshow Munich](https://githubenterpriseroadshowmunich.splashthat.com) | Munich, 🇩🇪 |
 | February 6, 2020 | Using Swift 5's Custom String Interpolation in Practice | 🎤 | [Copenhagen Cocoa @ Jayway](https://www.meetup.com/CopenhagenCocoa/) | Copenhagen, 🇩🇰 |
 
 ### Past
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| January 29, 2020 | Building XING's Technology Advisory Board through GitHub | 🎤 | [GitHub Enterprise Roadshow Munich](https://githubenterpriseroadshowmunich.splashthat.com) | Munich, 🇩🇪 | [x](https://speakerdeck.com/basthomas/building-xings-technology-advisory-board-through-github) | - |
 | November 28, 2019 | Writing Testable Code | 👨‍🔬 | [The Swift Alps 2019](https://theswiftalps.com) | Crans-Montana, 🇨🇭 | [x](https://speakerdeck.com/basthomas/writing-testable-code) | - |
 | November 14, 2019 | Kotlin or Swift, why not both? (with [Laura Orán](https://twitter.com/sastresa)) | 🎤 | [Google Developer Group Valencia @ XING](https://www.meetup.com/GDGValencia/) | Valencia, 🇪🇸 | [x](https://speakerdeck.com/basthomas/kotlin-or-swift-why-not-both) | - |
 | November 7, 2019 | Treat Yourself: Keeping an Eye on Your Dependency Graph | 🎤 | [CocoaHeads Hamburg @ XING](https://www.meetup.com/CocoaHeads-Hamburg/) | Hamburg, 🇩🇪 | [x](https://speakerdeck.com/basthomas/treat-yourself-keeping-an-eye-on-your-dependency-graph) | - |
