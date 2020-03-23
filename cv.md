@@ -10,7 +10,7 @@ permalink: /curriculum-vitae/
 iOS & Tooling Developer
 
 ## Contact
-![mail](../assets/general/mail.png) bas@basbroek.nl | ![twitter](../assets/general/twitter.png) [@BasThomas](https://twitter.com/BasThomas) | ![github](../assets/general/github.png) [BasThomas](https://github.com/BasThomas) | ![blog](../assets/general/blog.png) [basthomas.github.io](../) | ![location](../assets/general/location.png) 🇩🇪
+![mail](../assets/general/mail.png) bas@basbroek.nl | ![twitter](../assets/general/twitter.png) [@BasThomas](https://twitter.com/BasThomas) | ![github](../assets/general/github.png) [BasThomas](https://github.com/BasThomas) | ![blog](../assets/general/blog.png) [basthomas.github.io](../) | ![location](../assets/general/location.png) 🇳🇱
 
 ## Introduction
 I am a software developer from The Netherlands, currently living in Germany.
