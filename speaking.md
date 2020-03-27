@@ -35,6 +35,7 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
+| April 2, 2020 | Using Swift 5's Custom String Interpolation in Practice | 🎤 | [Swift Paris Online](https://www.meetup.com/swiftparis/) | 🌍 |
 | September 6-9, 2020 | Using Swift 5's Custom String Interpolation in Practice | 🎤 | [iOSDevUK 10](https://www.iosdevuk.com) | Aberystwyth, 🇬🇧 |
 
 ### Past
