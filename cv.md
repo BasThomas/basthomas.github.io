@@ -34,7 +34,7 @@ watches ⌚️, golfing 🏌, skiing ⛷, and cycling 🚴.
 
 ## Work experience
 
-### ![xing-logo](../assets/xing/logo.png) [XING](https://xing.com) (Hamburg, 🇩🇪)
+### ![xing-logo](../assets/xing/logo.png) [XING](https://xing.com) (Hamburg, 🇩🇪; Barcelona, 🇪🇸 (since March 2020))
 
 #### **October 2018 – current** (XING Technology Advisory Board)
 
@@ -46,7 +46,8 @@ as an employer for engineers.
 #### **September 2018 – current** (iOS Platform Team)
 
 Working in the iOS Platform team, working on app-wide improvements,
-architecture & frameworks.
+architecture & frameworks, as well as representing the platform teams across
+office locations.
 
 #### **August 2017 – September 2018** (Mobile Releases Team)
 
