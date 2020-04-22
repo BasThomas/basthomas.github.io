@@ -35,12 +35,13 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| April 2, 2020 | Using Swift 5's Custom String Interpolation in Practice | 🎤 | [Swift Paris Online](https://www.meetup.com/swiftparis/events/269742426/) | 🌍 |
+| TBA |
 
 ### Past
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| April 2, 2020 | Using Swift 5's Custom String Interpolation in Practice | 🎤 | [Swift Paris Online](https://www.meetup.com/swiftparis/events/269742426/) | 🌍 | [x](https://speakerdeck.com/basthomas/swift-5-s-custom-string-interpolation-in-practice) | - |
 | February 24, 2020 | Using Swift 5's Custom String Interpolation in Practice | 🎤 | [NSBarcelona @ XING](https://www.meetup.com/nsbarcelona/events/268855153/) | Barcelona, 🇪🇸 | [x](https://speakerdeck.com/basthomas/swift-5-s-custom-string-interpolation-in-practice) | - |
 | February 6, 2020 | Using Swift 5's Custom String Interpolation in Practice | 🎤 | [Copenhagen Cocoa @ Jayway](https://www.meetup.com/CopenhagenCocoa/) | Copenhagen, 🇩🇰 | [x](https://speakerdeck.com/basthomas/swift-5-s-custom-string-interpolation-in-practice) | - |
 | January 29, 2020 | Building XING's Technology Advisory Board through GitHub | 🎤 | [GitHub Enterprise Roadshow Munich](https://githubenterpriseroadshowmunich.splashthat.com) | Munich, 🇩🇪 | [x](https://speakerdeck.com/basthomas/building-xings-technology-advisory-board-through-github) | - |
