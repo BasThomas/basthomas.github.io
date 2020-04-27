@@ -35,7 +35,7 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| TBA |
+| May 5, 2020 | An Introduction to Testing Logic with Unit Tests | 👨‍🔬 | [try! Swift World](https://www.tryswift.co/world) | 🌍 |
 
 ### Past
 
