@@ -52,7 +52,7 @@ office locations.
 #### **August 2017 – September 2018** (Mobile Releases Team)
 
 Working on iOS, Android & Windows tooling, release management and continuous
-integration infrastructure.
+integration infrastructure. I also helped set up this team.
 
 ### ![nu-nl-logo](../assets/nu/logo.png) [NU.nl](http://www.nu.nl) (Hoofddorp, 🇳🇱)
 #### **February 2017 - June 2017**
