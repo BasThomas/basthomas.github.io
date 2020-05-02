@@ -65,11 +65,11 @@ struct Solution<Problem> {
   let steps: [Step<Problem>]
 
   var input: Step<Problem> {
-    return steps.first! // safe, as steps will guaranteed to be larger than 0.
+    steps.first! // safe, as steps will guaranteed to be larger than 0.
   }
 
   var output: Step<Problem> {
-    return steps.last! // safe, as steps will guaranteed to be larger than 0.
+    steps.last! // safe, as steps will guaranteed to be larger than 0.
   }
 
   init(steps: [Step<Problem>]) {
@@ -311,19 +311,19 @@ Where instead, we can now piggyback on our internal array of `Step`s:
 
 ```swift
 var startIndex: Int {
-  return steps.startIndex
+  steps.startIndex
 }
 
 var endIndex: Int {
-  return steps.endIndex
+  steps.endIndex
 }
 
 subscript(i: Int) -> Step<Problem> {
-  return steps[i]
+  steps[i]
 }
 
 func index(after i: Int) -> Int {
-  return steps.index(after: i)
+  steps.index(after: i)
 }
 ```
 
