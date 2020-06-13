@@ -123,9 +123,6 @@ newsletter in January 2018.
 Concerts is an app, written in Swift, providing touring information for the
 artists you know and love.
 
-The app lets you "follow" artists and see when and where they are touring,
-RSVP to events, and even buy tickets right from the app.
-
 ## Other experience
 
 #### Open Source Software
@@ -163,36 +160,23 @@ Check out the app on [GitHub](https://github.com/tryswift/trySwiftAppFinal).
 ### [Fontys University of Applied Sciences](http://fontys.edu) (Eindhoven, 🇳🇱)
 #### **September 2013 – July 2017**
 
-At Fontys, I studied ICT & Software, with a focus on Mobile. Here, I have been
-working with C#, Java, relational databases, Swift, Java for Android and more.
-
 #### [Delta](http://deltafhict.nl/home/?lang=en)
 Delta is a Fontys initiative providing what could be called an excellence
-program for students:
-
->"Students who participate in the Delta program work on their own goals and
-interests. They work on ‘exploration projects’, where they are given full
-freedom to explore a new technology or technique such as Google Glass, Drones,
-Virtual Reality and 3D printing. But this can also be collaborating on projects
-for real clients."
-
-Here, I made [Opus](http://deltafhict.github.io/mirror-docs/), a Smart Mirror,
-making use of technologies such as Leap Motion, Kinect and more. This project
-went through a full cycle, from concepting to realization.
+program for students.
 
 ## Knowledge
 
 Swift, Objective-C, Git (& GitHub), Java, Ruby, Groovy, C#, SQL / PLSQL,
 PHP, Python, Continuous Integration, Scrum, Quality Assurance, Testing &
-Testability, Technical Writing.
+Testability, Technical Writing, Accessibility.
 
 ### Languages
 
-| Language     | Dutch  | English | German       |
-|--------------|--------|---------|--------------|
-| **Speaking** | Native | Fluent  | Basic        |
-| **Writing**  | Native | Fluent  | Basic        |
-| **Reading**  | Native | Fluent  | Intermediate |
+| Language     | Dutch  | English | German       | Spanish |
+|--------------|--------|---------|--------------|---------|
+| **Speaking** | Native | Fluent  | Intermediate | Basic   |
+| **Writing**  | Native | Fluent  | Basic        | Basic   |
+| **Reading**  | Native | Fluent  | Intermediate | Basic   |
 
 ## References
 
