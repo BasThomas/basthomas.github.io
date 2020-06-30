@@ -7,7 +7,7 @@ permalink: /curriculum-vitae/
 ![photo](../assets/general/photo.png)
 
 **Bas Thomas Broek**<br />
-iOS & Tooling Developer
+Apple & Tooling Developer, Speaker and Mentor.
 
 ## Contact
 ![mail](../assets/general/mail.png) bas@basbroek.nl | ![twitter](../assets/general/twitter.png) [@BasThomas](https://twitter.com/BasThomas) | ![github](../assets/general/github.png) [BasThomas](https://github.com/BasThomas) | ![blog](../assets/general/blog.png) [basthomas.github.io](../) | ![location](../assets/general/location.png) 🇪🇸
@@ -46,8 +46,8 @@ as an employer for engineers.
 #### **September 2018 – current** (iOS Platform Team)
 
 Working in the iOS Platform team, working on app-wide improvements,
-architecture & frameworks, as well as representing the platform teams across
-office locations.
+architecture & frameworks, design systems and accessibility, as well as
+representing the platform teams across office locations.
 
 #### **August 2017 – September 2018** (Mobile Releases Team)
 
@@ -160,9 +160,7 @@ Check out the app on [GitHub](https://github.com/tryswift/trySwiftAppFinal).
 ### [Fontys University of Applied Sciences](http://fontys.edu) (Eindhoven, 🇳🇱)
 #### **September 2013 – July 2017**
 
-#### [Delta](http://deltafhict.nl/home/?lang=en)
-Delta is a Fontys initiative providing what could be called an excellence
-program for students.
+Bachelor Computer Science.
 
 ## Knowledge
 
