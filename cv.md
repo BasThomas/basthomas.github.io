@@ -7,7 +7,7 @@ permalink: /curriculum-vitae/
 ![photo](../assets/general/photo.png)
 
 **Bas Thomas Broek**<br />
-Apple & tooling developer, speaker and mentor.
+Apple & tooling developer, speaker and mentor (and a good-idea goldmine)
 
 ## Contact
 ![mail](../assets/general/mail.png) bas@basbroek.nl | ![twitter](../assets/general/twitter.png) [@BasThomas](https://twitter.com/BasThomas) | ![github](../assets/general/github.png) [BasThomas](https://github.com/BasThomas) | ![blog](../assets/general/blog.png) [basthomas.github.io](../) | ![location](../assets/general/location.png) 🇪🇸
