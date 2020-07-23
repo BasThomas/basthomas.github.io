@@ -1,40 +1,22 @@
----
-layout: page
-title: Curriculum Vitae
-permalink: /curriculum-vitae/
----
-
-![photo](../assets/general/photo.png)
-
 **Bas Thomas Broek**<br />
 Apple & tooling developer, speaker and mentor (and a good-idea goldmine)
 
 ## Contact
-![mail](../assets/general/mail.png) bas@basbroek.nl | ![twitter](../assets/general/twitter.png) [@basthomas](https://twitter.com/basthomas) | ![github](../assets/general/github.png) [BasThomas](https://github.com/BasThomas) | ![blog](../assets/general/blog.png) [basthomas.github.io](../) | ![location](../assets/general/location.png) 🇪🇸
+bas@basbroek.nl | twitter.com/basthomas | github.com/BasThomas | basthomas.github.io | 🇪🇸
 
 ## Introduction
 I am a software developer from The Netherlands, currently living in Spain.
 I love sharing knowledge and learning from others at conferences, and enjoy
-[speaking and giving workshops](/speaking.md/).
+speaking and giving workshops.
 
 I value quality over quantity, and I want to make sure the projects I work on
 are delightful and different.
 
 I am willing to relocate for work — even abroad.
 
-## Interests
-
-Work related interests include
-[Open Source Software](https://github.com/BasThomas), reading blogs, writing
-blog posts, speaking & mentoring, and Swift.
-
-Other, non work related interests include cooking 🍳, baking 🍰, brewing &
-drinking coffee ☕️, listening to music 🎵, watching TV shows 📺, (mechanical)
-watches ⌚️, golfing 🏌, skiing ⛷, and cycling 🚴.
-
 ## Work experience
 
-### ![xing-logo](../assets/xing/logo.png) [XING](https://xing.com) (Hamburg, 🇩🇪; Barcelona, 🇪🇸 (since March 2020))
+### XING (Hamburg, 🇩🇪; Barcelona, 🇪🇸 (since March 2020))
 
 #### **October 2018 – current** (XING Technology Advisory Board)
 
@@ -54,14 +36,14 @@ representing the platform teams across office locations.
 Working on iOS, Android & Windows tooling, release management and continuous
 integration infrastructure. I also helped set up this team.
 
-### ![nu-nl-logo](../assets/nu/logo.png) [NU.nl](http://www.nu.nl) (Hoofddorp, 🇳🇱)
+### NU.nl (Hoofddorp, 🇳🇱)
 #### **February 2017 - June 2017**
 
 Final internship, working on UI-driven functional tests. I helped setting up
 their agnostic infrastructure to work with the iOS platform as well, and looked
 at the future of testing at the company.
 
-### ![bringme-logo](../assets/bringme/logo.png) [Bringme](https://www.bringme.com/en) (Louvain, 🇧🇪)
+### Bringme (Louvain, 🇧🇪)
 #### **July 2016 – October 2016**
 
 In the summer of 2016 I worked at Bringme, a company solving the pain points of
@@ -70,7 +52,7 @@ made a proof of concept, native iOS app, at a point the company was considering
 a switch from hybrid to native development. They chose native, and released
 their native apps for iOS and Android in May 2017.
 
-### ![iculture-app-icon](../assets/iculture/app-icon.png) [iCulture](http://www.iculture.nl) (Amsterdam, 🇳🇱)
+### iCulture (Amsterdam, 🇳🇱)
 #### **September 2015 – August 2016**
 
 At iCulture I've done an internship from September 2015 to February 2016.
@@ -78,7 +60,7 @@ iCulture is the biggest Apple blog in The Netherlands, located in Amsterdam.
 
 During my internship, I have been working on special projects at the company.
 
-### ![apostle-app-icon](../assets/apostle/app-icon.png) [Apostle](http://apostle.nl) ('s Hertogenbosch / Venlo, 🇳🇱)
+### Apostle ('s Hertogenbosch / Venlo, 🇳🇱)
 #### **December 2014 – July 2015**
 
 During my time at Apostle, a Dutch company looking to "implement and maintain
@@ -89,35 +71,35 @@ have also been doing QA for both their web products and apps, as well as writing
 
 ## Projects
 
-#### ![swiftforgood-icon](../assets/projects/swiftforgood/icon.png) [Swift for Good co-author](https://www.swiftforgood.com)
+#### Swift for Good co-author
 
 Swift for Good is a book written by 20 top authors and speakers, with 100% of
 all revenue going to charity. For volume 1, I wrote a chapter on accessibility.
 
-#### ![swiftaveiro-icon](../assets/projects/swiftaveiro/icon.jpg) [SwiftAveiro co-organizer](https://swiftaveiro.xyz)
+#### SwiftAveiro co-organizer
 *September 2019 – current*
 
 Co-organizing SwiftAveiro, a Swift workshop conference in Aveiro, Portugal.
 
-#### ![raywenderlich-icon](../assets/raywenderlich/raywenderlich.png) [RayWenderlich.com Tech Editor](https://www.raywenderlich.com)
+#### RayWenderlich.com Tech Editor
 *June 2019 – July 2020*
 
 Technical editing of iOS articles for RayWenderlich.
 
-#### ![contravariance-icon](../assets/projects/contravariance/icon.png) [Contravariance Podcast](https://contravariance.rocks)
+#### Contravariance Podcast
 *August 2018 – current*
 
 A podcast about Apple, Swift and other programming topics. Co-hosting with
-[Benedikt Terhechte](https://twitter.com/terhechte).
+Benedikt Terhechte.
 
-#### ![swift-weekly-brief-icon](../assets/projects/swift-weekly-brief/icon.png) [Swift Weekly Brief](https://swiftweekly.github.io/)
+#### Swift Weekly Brief
 *January 2018 – current*
 
 Bringing you an overview of what's been happing in open source Swift every other
 Thursday. I've been contributing content before taking over curation of the
 newsletter in January 2018.
 
-#### ![concerts-app-icon](../assets/projects/concerts/app-icon.png) [Concerts iOS app](https://itunes.apple.com/us/app/concerts-find-artist-events/id1097075919?ls=1&mt=8)
+#### Concerts iOS app
 *February 2016 – October 2017*
 
 Concerts is an app, written in Swift, providing touring information for the
@@ -131,33 +113,29 @@ to contribute to projects I use and love, making them even better.
 
 Some projects I have been involved in:
 
-#### [GitHawk](https://itunes.apple.com/app/githawk-for-github/id1252320249)
+#### GitHawk
 
 GitHawk is an iOS app that makes managing GitHub accounts and projects easier.
 I've been contributing to this app in a couple of ways, such as improving its
 accessibility, writing blog posts and developing new features. As of February
 2019, I'm helping lead the project.
 
-Check out the app on [GitHub](https://github.com/rnystrom/GitHawk).
-
-#### [Moya](https://github.com/Moya/Moya)
+#### Moya
 Moya is a network abstraction layer written in Swift. I've been contributing to
 this project by making their documentation even more awesome, working on the
 library's migration from Swift 2 to 3, as well as helping 9ut users with any
 issues they might have.
 
-#### [try! Swift](https://itunes.apple.com/us/app/try!/id1083944488?mt=8)
-[try! Swift](https://www.tryswift.co/) is a Swift conference held in multiple
+#### try! Swift
+try! Swift is a Swift conference held in multiple
 cities around the world.
 
 I have helped out enhancing the iOS app for the conference to be more flexible
 and more easy to use.
 
-Check out the app on [GitHub](https://github.com/tryswift/trySwiftAppFinal).
-
 ## Education
 
-### [Fontys University of Applied Sciences](http://fontys.edu) (Eindhoven, 🇳🇱)
+### Fontys University of Applied Sciences (Eindhoven, 🇳🇱)
 #### **September 2013 – July 2017**
 
 Bachelor Computer Science.
