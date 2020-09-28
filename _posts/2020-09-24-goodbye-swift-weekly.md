@@ -5,6 +5,16 @@ title: 'Goodbye, Swift Weekly Brief'
 tags: [swift, open source]
 ---
 
+**⚠️ Update, September 28, 2020**
+
+[Kristaps Grinbergs](https://twitter.com/fassko) will be taking over the
+newsletter with help from the community. The mailing list might go on a hiatus;
+we're looking into ways of continuing it. Reason for it being a cost center
+we've previously covered with sponsorships; figuring out how to move that
+forward may take some time. Thank you for your patience!
+
+---
+
 It has almost been three years since Jesse announced [stepping down](https://www.jessesquires.com/blog/2017/12/28/swift-weekly-brief-hiatus/)
 from writing the Swift Weekly Brief, a newsletter he [started](https://www.jessesquires.com/blog/2016/01/14/new-weekly-brief/)
 soon after Swift was open sourced in December 2015.
