@@ -36,14 +36,14 @@ watches ⌚️, golfing 🏌, skiing ⛷, and cycling 🚴.
 
 ### ![xing-logo](../assets/xing/logo.png) [XING](https://xing.com) (Hamburg, 🇩🇪; Barcelona, 🇪🇸 (since March 2020))
 
-#### **October 2018 – current** (XING Technology Advisory Board)
+#### **October 2018 – October 2020** (XING Technology Advisory Board)
 
 The XING Technology Advisory Board helps the leadership to make strategic
 technology decisions by involving the engineering community so that XING can
 foresee technological trends, develop products sustainably, and stay attractive
 as an employer for engineers.
 
-#### **September 2018 – current** (iOS Platform Team)
+#### **September 2018 – October 2020** (iOS Platform Team)
 
 Working in the iOS Platform team, working on app-wide improvements,
 architecture & frameworks, design systems and accessibility, as well as
@@ -111,7 +111,7 @@ A podcast about Apple, Swift and other programming topics. Co-hosting with
 [Benedikt Terhechte](https://twitter.com/terhechte).
 
 #### ![swift-weekly-brief-icon](../assets/projects/swift-weekly-brief/icon.png) [Swift Weekly Brief](https://swiftweekly.github.io/)
-*January 2018 – current*
+*January 2018 – October 2020*
 
 Bringing you an overview of what's been happing in open source Swift every other
 Thursday. I've been contributing content before taking over curation of the

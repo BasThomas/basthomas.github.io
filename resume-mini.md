@@ -8,13 +8,13 @@ Apple developer with a passion for platform work and accessibility.
 
 ### XING (Hamburg, 🇩🇪; Barcelona, 🇪🇸)
 
-#### **October 2018 – current** (XING Technology Advisory Board)
+#### **October 2018 – October 2020** (XING Technology Advisory Board)
 
 The XING Technology Advisory Board helps leadership make strategic
 technology decisions so that XING can
 foresee technological trends, develop products sustainably, and build employer brand.
 
-#### **September 2018 – current** (iOS Platform Team)
+#### **September 2018 – October 2020** (iOS Platform Team)
 
 As a member of the iOS Platform team my focus is to make product engineers more effective. This includes supporting and socializing good standards across the organization, often through code review, such as good API design. I have also been working on the XING design system, building in accessibility from the beginning.
 
