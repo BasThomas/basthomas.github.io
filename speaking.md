@@ -35,7 +35,7 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| TBA |
+| October 6, 2020 | Accessibility in SwiftUI | 👨‍🔬 | [try! Swift World](https://www.tryswift.co/world) | 🌍 |
 
 ### Past
 
