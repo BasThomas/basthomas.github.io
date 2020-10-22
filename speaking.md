@@ -14,23 +14,6 @@ This is not an exhaustive list and may change over time.
 If you are interested in me giving a workshop or speaking at your event, please
 get in touch.
 
-<details>
-	<summary>Speaker Bio & Avatar</summary>
-
-<p>
-<img src="../assets/general/avatar.jpg" alt="Bas Broek" width="300">
-</p>
-<p>
-Bas is an iOS developer with a passion for testability, accessibility and
-user-centric apps. He cares about communication and collaboration.
-In his spare time, he curates <a href="https://swiftweekly.github.io">Swift Weekly Brief</a>,
-talks about things on the <a href="https://contravariance.rocks">Contravariance podcast</a>,
-helps organizing <a href="https://swiftaveiro.xyz">SwiftAveiro</a>, a Swift workshop conference,
-and works on various open source projects, like <a href="http://githawk.com">GitHawk</a>.
-</p>
-Coffee is nice. Watches are cool.
-</details>
-
 ### Upcoming
 
 | Date | Title | Talk type | Event | Location |
