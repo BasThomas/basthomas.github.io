@@ -35,12 +35,14 @@ Coffee is nice. Watches are cool.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| October 6, 2020 | Accessibility in SwiftUI | 👨‍🔬 | [try! Swift World](https://www.tryswift.co/world) | 🌍 |
+| TBA |
 
 ### Past
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| October 22, 2020 | Accessibility in SwiftUI | 👨‍🔬 | [try! Swift World](https://www.tryswift.co/world) | 🌍 | [x](https://speakerdeck.com/basthomas/accessibility-in-swiftui-better-apps-for-everyone) | - |
+| October 6, 2020 | Accessibility in SwiftUI | 👨‍🔬 | [try! Swift World](https://www.tryswift.co/world) | 🌍 | [x](https://speakerdeck.com/basthomas/accessibility-in-swiftui-better-apps-for-everyone) | - |
 | June 3, 2020 | An Introduction to Testing Logic with Unit Tests | 👨‍🔬 | [try! Swift World](https://www.tryswift.co/world) | 🌍 | [x](https://speakerdeck.com/basthomas/an-introduction-to-unit-testing-logic-in-swift) | - |
 | May 5, 2020 | An Introduction to Testing Logic with Unit Tests | 👨‍🔬 | [try! Swift World](https://www.tryswift.co/world) | 🌍 | [x](https://speakerdeck.com/basthomas/an-introduction-to-unit-testing-logic-in-swift) | - |
 | April 2, 2020 | Using Swift 5's Custom String Interpolation in Practice | 🎤 | [Swift Paris Online](https://www.meetup.com/swiftparis/events/269742426/) | 🌍 | [x](https://speakerdeck.com/basthomas/swift-5-s-custom-string-interpolation-in-practice) | - |
