@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Resume
 permalink: /curriculum-vitae/
 ---
 
