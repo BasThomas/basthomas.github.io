@@ -4,8 +4,6 @@ title: Resume
 permalink: /curriculum-vitae/
 ---
 
-![photo](../assets/general/photo.png)
-
 **Bas Thomas Broek**
 
 bas@basbroek.nl | twitter.com/basthomas | github.com/BasThomas | basthomas.github.io
@@ -83,11 +81,3 @@ this project by improving their documentation, migration from Swift 2 to 3, as w
 - So You’re Writing a Framework... @ DO iOS 2018, The Netherlands
 
 More at https://basthomas.github.io/speaking/
-
-### Languages
-
-| Language     | Dutch  | English | German       |
-|--------------|--------|---------|--------------|
-| **Speaking** | Native | Fluent  | Intermediate |
-| **Writing**  | Native | Fluent  | Basic        |
-| **Reading**  | Native | Fluent  | Intermediate |
