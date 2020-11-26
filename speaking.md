@@ -14,12 +14,6 @@ This is not an exhaustive list and may change over time.
 If you are interested in me giving a workshop or speaking at your event, please
 get in touch.
 
-### Upcoming
-
-| Date | Title | Talk type | Event | Location |
-|-|-|-|-|-|
-| TBA |
-
 ### Past
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
