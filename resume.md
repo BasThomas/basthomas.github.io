@@ -6,7 +6,7 @@ permalink: /curriculum-vitae/
 
 **Bas Thomas Broek**
 
-bas@basbroek.nl | twitter.com/basthomas | github.com/BasThomas | basthomas.github.io
+bas@basbroek.nl | twitter.com/basthomas | github.com/BasThomas | basbroek.nl
 
 Apple developer with a passion for platform work and accessibility.
 
@@ -80,4 +80,4 @@ this project by improving their documentation, migration from Swift 2 to 3, as w
 - An introduction to Accessibility on iOS: Better Apps For Everyone @ Swiftconf 2019, Germany
 - So You’re Writing a Framework... @ DO iOS 2018, The Netherlands
 
-More at https://basthomas.github.io/speaking/
+More at https://basbroek.nl/speaking/
