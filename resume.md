@@ -34,7 +34,7 @@ Founding member of the mobile release team, working on iOS, Android tooling, rel
 integration infrastructure. This work supported a bi-weekly release train on both platforms. We automated much of the release process, improving developer efficiency and release stability.
 
 ### Internships
-- NU.nl, **February 2017 - June 2017**
+- NU.nl, **February 2017 – June 2017**
 - Bringme, **July 2016 – October 2016**
 - iCulture, **September 2015 – August 2016**
 - Apostle, **December 2014 – July 2015**
