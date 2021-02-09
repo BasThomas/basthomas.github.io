@@ -66,11 +66,11 @@ newsletter in January 2018.
 ## Open Source Software
 I ❤️ OSS. Some projects I have been involved in:
 
-### GitHawk
+#### GitHawk
 
 Now superseded by GitHub's own app, GitHawk was an iOS app that made managing GitHub accounts and projects easier. I worked on improving accessibility, writing blog posts and developing new features.
 
-### Moya
+#### Moya
 Moya is a network abstraction layer written in Swift. I contributed to
 this project by improving their documentation, migration from Swift 2 to 3, as well as providing technical support for developers.
 
