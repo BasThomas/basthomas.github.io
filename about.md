@@ -8,7 +8,7 @@ permalink: /about/
 
 Nice to meet you. 👋
 
-I build applications, tooling and more for Apple platforms. I love doing sports,
+I build applications, tooling and more for Apple platforms. I love sports,
 contributing to open source software & [public speaking](/speaking).
 
 You may also know me from [Swift Weekly Brief](https://swiftweekly.github.io)
