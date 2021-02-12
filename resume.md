@@ -14,7 +14,7 @@ Apple developer with a passion for platform work and accessibility.
 
 ### Apple
 
-#### **November 2020 – current** macOS Accesssibility
+#### **November 2020 – current** (macOS Accesssibility)
 
 ### XING
 
