@@ -59,7 +59,7 @@ Technical editing of iOS articles for RayWenderlich.
 
 #### Swift Weekly Brief, *January 2018 – November 2020*
 
-Bringing you an overview of what's been happing in open source Swift every other
+Bringing you an overview of what's been happening in open source Swift every other
 Thursday. I was a long term contributor, and took over curation of the
 newsletter in January 2018.
 
