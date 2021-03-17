@@ -1,0 +1,74 @@
+---
+---
+
+@import "minima";
+
+@media (prefers-color-scheme: dark) {
+
+ body {
+ 	color: #bbbbbb;
+ 	background-color: #181818;
+ }
+
+ a {
+ 	color: #79b8ff;
+
+ 	&:visited {
+ 		color: #79b8ff;
+ 	}
+
+ 	&:hover {
+ 		color: #79b8ff;
+ 	}
+ }
+
+ blockquote {
+ 	color: #999999;
+ 	border-left: 4px solid darken(#999999, 35%);
+ }
+
+ pre,
+ code {
+ 	border: 1px solid darken(#999999, 35%);
+ 	background-color: #212121;
+ }
+
+ .highlight {
+ 	background: #212121;
+
+ 	.highlighter-rouge & {
+ 		background: #212121;
+ 	}
+ }
+
+ table {
+ 	color: #bbbbbb;
+ 	border: 1px solid darken(#999999, 35%);
+ 	tr {
+ 		&:nth-child(even) {
+ 			background-color: lighten(#181818, 4%);
+ 		}
+ 	}
+ 	th {
+ 		background-color: lighten(#181818, 10%);
+ 		border: 1px solid lighten(#181818, 21%);
+ 	}
+ 	td {
+ 		border: 1px solid darken(#999999, 35%);
+ 	}
+ }
+
+ .site-nav {
+ .page-link {
+    color: #bbbbbb;
+  }
+ }
+
+ .site-title {
+
+  &,
+  &:visited {
+    color: lighten(#999999, 5%);
+  }
+}
+}
