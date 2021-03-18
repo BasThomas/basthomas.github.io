@@ -59,8 +59,15 @@
  }
 
  .site-nav {
+   background-color: #181818;
+  border: 1px solid darken(#999999, 35%);
  .page-link {
     color: #bbbbbb;
+  }
+  .menu-icon {
+  > svg path {
+      fill: #999999;
+    }
   }
  }
 
