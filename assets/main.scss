@@ -60,7 +60,10 @@
 
 	.site-nav {
 		background-color: #181818;
-		border: 1px solid darken(#999999, 35%);
+		@include media-query($on-palm) {
+			/*Only add the border when showing the hamburger menu.*/
+			border: 1px solid darken(#999999, 35%);
+		}
 		.page-link {
 			color: #bbbbbb;
 		}
