@@ -29,7 +29,7 @@ For example, we support VoiceOver features throughout the app. Things like `UILa
 
 In GitHawk, a [NotificationCell](https://github.com/rnystrom/GitHawk/blob/master/Classes/Notifications/NotificationCell.swift) has several labels: the repository title, the issue title, a “time ago” label, and an icon (indicating either a Pull Request or an Issue). These would all be separately accessible, making the app cumbersome and annoying with VoiceOver enabled.
 
-We changed this so the cell is one big accessibility element [(with single a button trait)](https://github.com/rnystrom/GitHawk/blob/master/Classes/Notifications/NotificationCell.swift#L28). We then used Swift's `flatMap()` and `reduce()` to convert all these labels [into one string](https://github.com/rnystrom/GitHawk/blob/master/Classes/Notifications/NotificationCell.swift#L104-L107).
+We changed this so the cell is one big accessibility element [(with single a button trait)](https://github.com/GitHawkApp/GitHawk/blob/36f6fa2850bbfce767a903ba93e960dd2222633f/Classes/Notifications/NotificationCell.swift#L46). We then used Swift's `compactMap()` and `reduce()` to convert all these labels [into one string](https://github.com/GitHawkApp/GitHawk/blob/36f6fa2850bbfce767a903ba93e960dd2222633f/Classes/Utility/Accessibility.swift#L30-L37).
 
 Also - and I feel this is a simple thing to add that all users benefit from - is a selected and non selected state for the tab bar icons. This allows you - and especially colorblind people - to quickly identify which tab you are using.
 
