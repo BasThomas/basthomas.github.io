@@ -14,6 +14,19 @@ This is not an exhaustive list and may change over time.
 If you are interested in me giving a workshop or speaking at your event, please
 get in touch.
 
+<details>
+	<summary>Speaker Bio & Avatar</summary>
+
+<p>
+<img src="../assets/general/avatar.jpg" alt="Bas Broek" width="300">
+</p>
+<p>
+Bas is an iOS and macOS developer with a passion for testability, accessibility
+and user-centric apps. He cares about communication and collaboration.
+</p>
+Coffee is nice. I like watches.
+</details>
+
 ### Past
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
