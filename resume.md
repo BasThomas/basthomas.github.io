@@ -53,7 +53,7 @@ Bachelor Computer Science.
 Swift for Good is a book written by 20 top authors and speakers, with 100% of
 all revenue going to charity. I contributed a chapter on accessibility.
 
-#### RayWenderlich.com Tech Editor, *June 2019 – July 2020*
+#### raywenderlich.com Tech Editor, *June 2019 – July 2020*
 
 Technical editing of iOS articles for RayWenderlich.
 
