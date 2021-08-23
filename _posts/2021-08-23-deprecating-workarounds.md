@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: deprecating-workarounds
-title: 'Deprecating workarounds'
+title: 'Deprecating Workarounds'
 tags: [swift]
 ---
 
