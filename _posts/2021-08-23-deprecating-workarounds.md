@@ -11,19 +11,19 @@ time ago to check if your workarounds in Swift have been fixed has been super
 helpful.
 
 With Swift, the compiler helps you out a bunch — why not use that to make sure
-you check if certain workarounds have been fixed in newer versions of the
-language or the operating system?
+you check if certain bugs have been fixed in newer versions of the language or
+the operating system?
 
 Given the following workaround for an imaginary issue in iOS 14.4:
 
 ```swift
 func workaroundForIssue(_ string: String) -> String {
-  // Oh noes; "hello" does not return "world" in iOS 14.4!
-  if string == "hello" {
-    return "world"
-  } else {
-    return string
-  }
+    // Oh noes; "hello" does not return "world" in iOS 14.4!
+    if #available(iOS 14.4, *), string == "hello" {
+        return "world"
+    } else {
+        return string
+    }
 }
 ```
 
@@ -36,12 +36,12 @@ the workaround in those versions that require it. If the issue has not been
 resolved yet, please update the deprecated version to the next minor release.
 """)
 func workaroundForIssue(_ string: String) -> String {
-  // Oh noes; "hello" does not return "world" in iOS 14.4!
-  if string == "hello" {
-    return "world"
-  } else {
-    return string
-  }
+    // Oh noes; "hello" does not return "world" in iOS 14.4!
+    if #available(iOS 14.4, *), string == "hello" {
+        return "world"
+    } else {
+        return string
+    }
 }
 ```
 
@@ -57,14 +57,14 @@ only include the workaround in those versions that require it:
 
 ```swift
 func workaroundForIssue(_ string: String) -> String {
-  if #available(iOS 14.5, *) {
-    return string
-  } else if string == "hello" {
-    // Oh noes; "hello" does not return "world" in iOS 14.4!
-    return "world"
-  } else {
-    return string
-  }
+    if #available(iOS 14.5, *) {
+        return string
+    } else if #available(iOS 14.4, *), string == "hello" {
+        // Oh noes; "hello" does not return "world" in iOS 14.4!
+        return "world"
+    } else {
+        return string
+    }
 }
 ```
 
