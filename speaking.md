@@ -27,6 +27,14 @@ and user-centric apps. He cares about communication and collaboration.
 Coffee is nice. I like watches.
 </details>
 
+<br />
+### Upcoming
+
+| Date | Title | Talk type | Event | Location |
+|-|-|-|-|-|
+| TBA |
+
+
 ### Past
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
