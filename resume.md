@@ -14,7 +14,9 @@ Apple developer with a passion for platform work and accessibility.
 
 ### Apple
 
-#### **November 2020 – September 2021** (macOS Accesssibility)
+#### **November 2020 – September 2021** (macOS Accessibility)
+
+Working on VoiceOver for macOS and Catalyst; VoiceOver Utility; app accessibility.
 
 ### XING
 
