@@ -299,7 +299,7 @@ But in Swift, this can be expressed in a more elegant, typed way:
 ```objc
 NS_ASSUME_NONNULL_BEGIN
 
-typedef NSString *WatchBrand NS_TYPED_EXTENSIBLE_ENUM;
+typedef NSString * WatchBrand NS_TYPED_EXTENSIBLE_ENUM;
 const WatchBrand patekPhilippe;
 const WatchBrand aLangeSoehne;
 const WatchBrand omega;
