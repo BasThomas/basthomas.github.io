@@ -9,6 +9,9 @@ tags: [swift, objc, interop]
 - Dancing with Dinosaurs II: Exposing your Swift types to Objective-C (forthcoming)
 - Dancing with Dinosaurs III: Advanced Interoperability (forthcoming)
 
+---
+<br />
+
 # Table of Contents
 
 In this blog post...
