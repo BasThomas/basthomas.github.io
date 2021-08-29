@@ -18,8 +18,8 @@ In this blog post...
 - [Intermission (Why Swift?)](#intermission-why-swift)
 - [Nullability](#nullability)
 - [Methods and Properties](#methods-and-properties)
-- [Enums and Option Sets](#enums-and-option-sets)
 - [Swift Renaming](#swift-renaming)
+- [Enums and Option Sets](#enums-and-option-sets)
 - [Generics](#generics)
 
 # Introduction
@@ -267,106 +267,6 @@ open var currentSecond: Int { get }
 open var currentDate: Date { get }
 ```
 
-# Enums and Option Sets
-
-Our watch is made by someone, some brand. Let's explore how we could write this
-in Objective-C, and how we can best expose that in Swift:
-
-```objc
-NS_ASSUME_NONNULL_BEGIN
-
-const NSString *patekPhilippe;
-const NSString *aLangeSoehne;
-const NSString *omega;
-const NSString *meisterSinger;
-
-@interface BTBWatch : NSObject
-
-// ...
-```
-
-As-is, Swift generates the following:
-
-```swift
-public let patekPhilippe: String
-public let aLangeSoehne: String
-public let omega: String
-public let meisterSinger: String
-```
-
-But in Swift, this can be expressed in a more elegant, typed way:
-
-```objc
-NS_ASSUME_NONNULL_BEGIN
-
-typedef NSString * WatchBrand NS_TYPED_EXTENSIBLE_ENUM;
-const WatchBrand patekPhilippe;
-const WatchBrand aLangeSoehne;
-const WatchBrand omega;
-const WatchBrand meisterSinger;
-
-@interface BTBWatch : NSObject
-
-// ...
-```
-
-Which generates the following in Swift:
-
-```swift
-public struct WatchBrand : Hashable, Equatable, RawRepresentable {
-    public init(_ rawValue: String)
-    public init(rawValue: String)
-}
-extension WatchBrand {
-    public static let patekPhilippe: WatchBrand
-    public static let aLangeSoehne: WatchBrand
-    public static let omega: WatchBrand
-    public static let meisterSinger: WatchBrand
-}
-```
-
-We could then even extend this in Swift:
-
-```swift
-extension WatchBrand {
-    public static let mondaine: WatchBrand
-}
-```
-
-And, as you may have noticed, we can use this new "type" `WatchBrand` — while
-`NSString` under the hood — only `WatchBrand` "types" can be passed.
-
-### Option Sets
-
-Imagine we'd want to describe what kind of _complications_ our watch has.
-For this, we can perhaps use an option set.
-
-In Objective-C:
-
-```objc
-typedef NS_OPTIONS(NSUInteger, BTBComplication) {
-    BTBComplicationDate                  = 0,
-    BTBComplicationPowerReserveIndicator = 1 << 0,
-    BTBComplicationChronograph           = 1 << 1
-};
-```
-
-Generates the following, fully typed and very powerful,
-
-```swift
-public struct BTBComplication : OptionSet {
-    public init(rawValue: UInt)
-    
-    public static var powerReserveIndicator: BTBComplication { get }
-    public static var chronograph: BTBComplication { get }
-}
-```
-
-Note, particularly, that conforms to the protocol `OptionSet`, transiently
-conforming to `SetAlgebra`, which gives us [these functions](https://developer.apple.com/documentation/swift/setalgebra)
-for free, making for a much more expressive type than is possible in
-Objective-C.
-
 # Swift Renaming
 
 In Swift, we generally use a different naming strategy than in Objective-C.
@@ -465,6 +365,111 @@ and green light.
 If you want to read more about why you'd want to make sure to get this right,
 and what it means in Swift, I suggest [this great blog post](https://swiftbysundell.com/articles/using-an-unknown-default-case-within-a-switch-statement/)
 by [John Sundell](https://twitter.com/johnsundell).
+
+# Enums and Option Sets
+
+Our watch is made by someone, some brand. Let's explore how we could write this
+in Objective-C, and how we can best expose that in Swift:
+
+```objc
+NS_ASSUME_NONNULL_BEGIN
+
+const NSString *patekPhilippe;
+const NSString *aLangeSoehne;
+const NSString *omega;
+const NSString *meisterSinger;
+
+NS_SWIFT_NAME(Watch)
+@interface BTBWatch : NSObject
+
+// ...
+```
+
+As-is, Swift generates the following:
+
+```swift
+public let patekPhilippe: String
+public let aLangeSoehne: String
+public let omega: String
+public let meisterSinger: String
+```
+
+But in Swift, this can be expressed in a more elegant, typed way:
+
+```objc
+NS_ASSUME_NONNULL_BEGIN
+
+typedef NSString * WatchBrand NS_TYPED_EXTENSIBLE_ENUM;
+const WatchBrand patekPhilippe;
+const WatchBrand aLangeSoehne;
+const WatchBrand omega;
+const WatchBrand meisterSinger;
+
+NS_SWIFT_NAME(Watch)
+@interface BTBWatch : NSObject
+
+// ...
+```
+
+Which generates the following in Swift:
+
+```swift
+public struct WatchBrand : Hashable, Equatable, RawRepresentable {
+    public init(_ rawValue: String)
+    public init(rawValue: String)
+}
+extension WatchBrand {
+    public static let patekPhilippe: WatchBrand
+    public static let aLangeSoehne: WatchBrand
+    public static let omega: WatchBrand
+    public static let meisterSinger: WatchBrand
+}
+```
+
+We could then even extend this in Swift:
+
+```swift
+extension WatchBrand {
+    public static let mondaine: WatchBrand
+}
+```
+
+And, as you may have noticed, we can use this new "type" `WatchBrand` — while
+`NSString` under the hood — only `WatchBrand` "types" can be passed.
+
+### Option Sets
+
+Imagine we'd want to describe what kind of _complications_ our watch has.
+For this, we can perhaps use an option set.
+
+In Objective-C:
+
+```objc
+typedef NS_OPTIONS(NSInteger, BTBComplication) {
+    BTBComplicationDateWindow            = 1 << 0,
+    BTBComplicationPowerReserveIndicator = 1 << 1,
+    BTBComplicationChronograph           = 1 << 2
+} NS_SWIFT_NAME(Watch.Complication);
+```
+
+Generates the following, fully typed and very powerful,
+
+```swift
+extension Watch {
+    public struct Complication : OptionSet {
+        public init(rawValue: Int)
+
+        public static var dateWindow: Watch.Complication { get }
+        public static var powerReserveIndicator: Watch.Complication { get }
+        public static var chronograph: Watch.Complication { get }
+    }
+}
+```
+
+Note, particularly, that conforms to the protocol `OptionSet`, transiently
+conforming to `SetAlgebra`, which gives us [these functions](https://developer.apple.com/documentation/swift/setalgebra)
+for free, making for a much more expressive type than is possible in
+Objective-C.
 
 # Generics
 
