@@ -402,7 +402,7 @@ But in Swift, this can be expressed in a more elegant, typed way:
 ```objc
 NS_ASSUME_NONNULL_BEGIN
 
-typedef NSString * WatchBrand NS_TYPED_EXTENSIBLE_ENUM;
+NS_SWIFT_NAME(Watch.Brand) typedef NSString * WatchBrand NS_TYPED_EXTENSIBLE_ENUM;
 const WatchBrand patekPhilippe;
 const WatchBrand aLangeSoehne;
 const WatchBrand omega;
@@ -417,28 +417,31 @@ NS_SWIFT_NAME(Watch)
 Which generates the following in Swift:
 
 ```swift
-public struct WatchBrand : Hashable, Equatable, RawRepresentable {
-    public init(_ rawValue: String)
-    public init(rawValue: String)
+extension Watch {
+    public struct Brand : Hashable, Equatable, RawRepresentable {
+        public init(_ rawValue: String)
+        public init(rawValue: String)
+    }
 }
-extension WatchBrand {
-    public static let patekPhilippe: WatchBrand
-    public static let aLangeSoehne: WatchBrand
-    public static let omega: WatchBrand
-    public static let meisterSinger: WatchBrand
+
+extension Watch.Brand {
+    public static let patekPhilippe: Watch.Brand
+    public static let aLangeSoehne: Watch.Brand
+    public static let omega: Watch.Brand
+    public static let meisterSinger: Watch.Brand
 }
 ```
 
 We could then even extend this in Swift:
 
 ```swift
-extension WatchBrand {
-    public static let mondaine: WatchBrand
+extension Watch.Brand {
+    public static let mondaine: Watch.Brand
 }
 ```
 
-And, as you may have noticed, we can use this new "type" `WatchBrand` — while
-`NSString` under the hood — only `WatchBrand` "types" can be passed.
+And, as you may have noticed, we can use this new "type" `Watch.Brand` — while
+`NSString` under the hood — only `Watch.Brand` "types" can be passed.
 
 ### Option Sets
 
