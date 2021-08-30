@@ -19,29 +19,29 @@ The problem was a `UIAlertAction` having a style of `.default` (making the butto
 
 ```swift
 func presentActionsAlert(for input: [String]) {
-    let alertController = UIAlertController(
-        title: nil,
-        message: nil,
-        preferredStyle: .actionSheet
-    )
+  let alertController = UIAlertController(
+    title: nil,
+    message: nil,
+    preferredStyle: .actionSheet
+  )
 
-    for value in input {
-        switch value {
-        case "share":
-            let action = UIAlertAction(title: "share", style: .default)
-            alertController.addAction(action)
-        case "delete":
-            let action = UIAlertAction(title: "delete", style: .default)
-            alertController.addAction(action)
-        default:
-            break
-        }
+  for value in input {
+    switch value {
+    case "share":
+      let action = UIAlertAction(title: "share", style: .default)
+      alertController.addAction(action)
+    case "delete":
+      let action = UIAlertAction(title: "delete", style: .default)
+      alertController.addAction(action)
+    default:
+      break
     }
+  }
 
-    let cancelAction = UIAlertAction(title: "cancel", style: .cancel)
-    alertController.addAction(cancelAction)
+  let cancelAction = UIAlertAction(title: "cancel", style: .cancel)
+  alertController.addAction(cancelAction)
 
-    present(alertController, animated: true)
+  present(alertController, animated: true)
 }
 ```
 
@@ -78,18 +78,19 @@ Lets take a look at this unit test.
 
 ```swift
 class MyTest: XCTestCase {
-    let myViewController = MyViewController()
 
-    func test_that_aDeleteInput_has_aDestructiveStyle() {
-        let input = "delete"
-        let output = myViewController.actionsAlert(for: [input])
+  let myViewController = MyViewController()
 
-        XCTAssertEqual(
-            output.actions.first { $0.title == input }?.style,
-            .destructive,
-            "A `delete` input should have a `.destructive` style."
-        )
-    }
+  func test_that_aDeleteInput_has_aDestructiveStyle() {
+    let input = "delete"
+    let output = myViewController.actionsAlert(for: [input])
+
+    XCTAssertEqual(
+      output.actions.first { $0.title == input }?.style,
+      .destructive,
+      "A `delete` input should have a `.destructive` style."
+    )
+  }
 }
 ```
 

@@ -17,8 +17,8 @@ First of all, we have a model `Song`:
 
 ```swift
 struct Song: Equatable {
-    let artist: String
-    let title: String
+  let artist: String
+  let title: String
 }
 ```
 
@@ -28,7 +28,7 @@ Then, we need a simple `UITableViewController` to show some songs.
 
 ```swift
 class TableViewController: UITableViewController {
-    private var datasource: [Song] = []
+  private var datasource: [Song] = []
 }
 ```
 
@@ -38,13 +38,13 @@ Now comes the interesting part. Somehow, we need to fetch some songs.
 
 ```swift
 struct SongFetcher {
-    func fetchSongs(completionHandler: ([Song]) -> Void) {
-        // Use your imagination and think of these Songs coming from a database or network somewhere.
-        completionHandler([
-            Song(artist: "Nils Frahm", title: "All Melody"),
-            Song(artist: "Nils Frahm", title: "Sunson")
-        ])
-    }
+  func fetchSongs(completionHandler: ([Song]) -> Void) {
+    // Use your imagination and think of these Songs coming from a database or network somewhere.
+    completionHandler([
+      Song(artist: "Nils Frahm", title: "All Melody"),
+      Song(artist: "Nils Frahm", title: "Sunson")
+    ])
+  }
 }
 ```
 
@@ -54,25 +54,25 @@ The answer, probably, is "it depends". And that's right. It depends. It depends 
 
 ```swift
 enum State<DataType: Equatable>: Equatable {
-    case loading
-    case data(DataType)
-    case failure(Error)
-    case empty
+  case loading
+  case data(DataType)
+  case failure(Error)
+  case empty
 
-    static func ==(lhs: State, rhs: State) -> Bool {
-        switch (lhs, rhs) {
-        case let (.data(l), .data(r)):
-            return l == r
-        case let (.failure(l), .failure(r)):
-            return l.localizedDescription == r.localizedDescription
-        case (.loading, .loading), (.empty, .empty):
-            return true
-            // Make the switch exhaustive, and allow the compiler
-            // to report an error when adding a new state.
-        case (.data, _), (.failure, _), (.loading, _), (.empty, _):
-            return false
-        }
+  static func ==(lhs: State, rhs: State) -> Bool {
+    switch (lhs, rhs) {
+    case let (.data(l), .data(r)):
+      return l == r
+    case let (.failure(l), .failure(r)):
+      return l.localizedDescription == r.localizedDescription
+    case (.loading, .loading), (.empty, .empty):
+      return true
+    // Make the switch exhaustive, and allow the compiler
+    // to report an error when adding a new state.
+    case (.data, _), (.failure, _), (.loading, _), (.empty, _):
+      return false
     }
+  }
 }
 ```
 
@@ -84,18 +84,18 @@ This will allow us to check if the state has a certain value, which we will use 
 
 ```swift
 struct SongFetcher {
-    func fetchSongs(completionHandler: (State<[Song]>) -> Void) {
-        // We're opting for a happy path here, but we could also return
-        // one of the other states here.
-        let state = State.data([
-            Song(artist: "Nils Frahm", title: "All Melody"),
-            Song(artist: "Nils Frahm", title: "Sunson")
-        ])
-        // We can't exit this scope in a `.loading` state;
-        // we need to return an actionable state.
-        assert(state != .loading)
-        completionHandler(state)
-    }
+  func fetchSongs(completionHandler: (State<[Song]>) -> Void) {
+    // We're opting for a happy path here, but we could also return
+    // one of the other states here.
+    let state = State.data([
+      Song(artist: "Nils Frahm", title: "All Melody"),
+      Song(artist: "Nils Frahm", title: "Sunson")
+    ])
+    // We can't exit this scope in a `.loading` state;
+    // we need to return an actionable state.
+    assert(state != .loading)
+    completionHandler(state)
+  }
 }
 ```
 
@@ -103,27 +103,27 @@ The "only" thing left to do: actually handling your state in the `TableViewContr
 
 ```swift
 class TableViewController: UITableViewController {
-    private var datasource: [Song] = []
-    typealias StateType = State<[Song]>
-    var state: StateType = .loading {
-        didSet {
-            handleState(state)
-        }
+  private var datasource: [Song] = []
+  typealias StateType = State<[Song]>
+  var state: StateType = .loading {
+    didSet {
+      handleState(state)
     }
+  }
 
-    func handleState(_ state: StateType) {
-        switch state {
-        case .loading:
-            SongFetcher().fetchSongs { self.state = $0 }
-        case let .data(songs):
-            datasource.append(contentsOf: songs)
-            tableView.reloadData()
-        case let .failure(error):
-            print(error) // show some error
-        case .empty:
-            () // show some empty view
-        }
+  func handleState(_ state: StateType) {
+    switch state {
+    case .loading:
+      SongFetcher().fetchSongs { self.state = $0 }
+    case let .data(songs):
+      datasource.append(contentsOf: songs)
+      tableView.reloadData()
+    case let .failure(error):
+      print(error) // show some error
+    case .empty:
+      () // show some empty view
     }
+  }
 }
 ```
 
