@@ -9,14 +9,14 @@ A few days ago I was reviewing a pull request and came across the following code
 
 ```swift
 private func updateInsets() {
-  if currentImage != nil && currentTitle == nil {
-    contentEdgeInsets = Layout.contentEdgeInsets.image
-  else if currentImage == nil && currentTitle != nil {
-    contentEdgeInsets = Layout.contentEdgeInsets.title
-  } else if currentImage != nil && currentTitle != nil {
-    titleEdgeInsets = Layout.titleEdgeInsets.imageWithTitle
-    contentEdgeInsets = Layout.contentEdgeInsets.imageWithTitle
-  }
+    if currentImage != nil && currentTitle == nil {
+        contentEdgeInsets = Layout.contentEdgeInsets.image
+    else if currentImage == nil && currentTitle != nil {
+        contentEdgeInsets = Layout.contentEdgeInsets.title
+    } else if currentImage != nil && currentTitle != nil {
+        titleEdgeInsets = Layout.titleEdgeInsets.imageWithTitle
+        contentEdgeInsets = Layout.contentEdgeInsets.imageWithTitle
+    }
 }
 ```
 
@@ -28,16 +28,16 @@ I came up with [the following](https://gist.github.com/BasThomas/d9f535ac48e72c2
 
 ```swift
 func switcher(_ a: Int?, _ b: Int?) {
-  switch (a, b) {
-  case (nil, nil):
-    print("nothing")
-  case (let thing?, nil):
-    print("lhs", thing)
-  case (nil, let thing?):
-    print("rhs", thing)
-  case (let left?, let right?):
-    print(left, right)
-  }
+    switch (a, b) {
+    case (nil, nil):
+        print("nothing")
+    case (let thing?, nil):
+        print("lhs", thing)
+    case (nil, let thing?):
+        print("rhs", thing)
+    case (let left?, let right?):
+        print(left, right)
+    }
 }
 ```
 
@@ -47,17 +47,17 @@ As in our use case we didn't need to use the values, this is what we ended up wi
 
 ```swift
 private func updateInsets() {
-  switch (currentImage, currentTitle) {
-  case (.some, .none):
-    contentEdgeInsets = Layout.contentEdgeInsets.image
-  case (.none, .some):
-    contentEdgeInsets = Layout.contentEdgeInsets.title
-  case (.some, .some):
-    titleEdgeInsets = Layout.titleEdgeInsets.imageWithTitle
-    contentEdgeInsets = Layout.contentEdgeInsets.imageWithTitle
-  case (.none, .none):
-    break
-  }
+    switch (currentImage, currentTitle) {
+    case (.some, .none):
+        contentEdgeInsets = Layout.contentEdgeInsets.image
+    case (.none, .some):
+        contentEdgeInsets = Layout.contentEdgeInsets.title
+    case (.some, .some):
+        titleEdgeInsets = Layout.titleEdgeInsets.imageWithTitle
+        contentEdgeInsets = Layout.contentEdgeInsets.imageWithTitle
+    case (.none, .none):
+        break
+    }
 }
 ```
 
@@ -72,9 +72,9 @@ This was the example in question:
 ```swift
 switch message.transmissionState {
 case .failed:
-  print("oops!")
+    print("oops!")
 default:
-  print("all good!")
+    print("all good!")
 }
 ```
 
@@ -82,11 +82,11 @@ As you can see, this is pretty much like an `if`-`else`... without the `if` and 
 
 ```swift
 func doSomething(with messageState: Message.State) {
-  if case .failed = messageState {
-    print("oops!")
-  } else {
-    print("all good!")
-  }
+    if case .failed = messageState {
+        print("oops!")
+    } else {
+        print("all good!")
+    }
 }
 ```
 

@@ -35,10 +35,10 @@ Imagine the following code:
 
 ```swift
 struct Board {
-  // some implementation
-  func solve() {
-    // convert "a" to "b" here
-  }
+    // some implementation
+    func solve() {
+      // convert "a" to "b" here
+    }
 }
 ```
 
@@ -47,7 +47,7 @@ more. The `solve()` function should return a solution, including its steps:
 
 ```swift
 func solve() -> Solution<Board> {
-  // return the solution somehow
+    // return the solution somehow
 }
 ```
 
@@ -58,28 +58,28 @@ The next day, I started working on the `Solution` type:
 
 ```swift
 struct Solution<Problem> {
-  struct Step<T> {
-    let step: T
-  }
-
-  let steps: [Step<Problem>]
-
-  var input: Step<Problem> {
-    steps.first! // safe, as steps will guaranteed to be larger than 0.
-  }
-
-  var output: Step<Problem> {
-    steps.last! // safe, as steps will guaranteed to be larger than 0.
-  }
-
-  init(steps: [Step<Problem>]) {
-    precondition(steps.count > 0, "Solution must contain at least one step.")
-    self.steps = steps
-  }
-
-  init(steps: Step<Problem>...) {
-    self.init(steps: steps)
-  }
+    struct Step<T> {
+        let step: T
+    }
+    
+    let steps: [Step<Problem>]
+    
+    var input: Step<Problem> {
+        steps.first! // safe, as steps will guaranteed to be larger than 0.
+    }
+    
+    var output: Step<Problem> {
+        steps.last! // safe, as steps will guaranteed to be larger than 0.
+    }
+    
+    init(steps: [Step<Problem>]) {
+        precondition(steps.count > 0, "Solution must contain at least one step.")
+        self.steps = steps
+    }
+    
+    init(steps: Step<Problem>...) {
+        self.init(steps: steps)
+    }
 }
 ```
 
@@ -97,7 +97,7 @@ explain to the type checker[^1], but check it out:
 
 ```swift
 let solution = Solution<Int>(
-  steps: Solution.Step(step: 1), Solution.Step(step: 2), Solution.Step(step: 3)
+    steps: Solution.Step(step: 1), Solution.Step(step: 2), Solution.Step(step: 3)
 )
 
 print(solution.input) // Step<Int>(step: 1)
@@ -118,7 +118,7 @@ Simple, you say? Indeed!
 
 ```swift
 for step in solution.steps {
-  print(step)
+    print(step)
 }
 
 // Step<Int>(step: 1)
@@ -130,7 +130,7 @@ But would it not be marvelous if we can do this more magically, like so:
 
 ```swift
 for step in solution {
-  print(step)
+    print(step)
 }
 ```
 
@@ -169,16 +169,16 @@ implementation.
 
 ```swift
 struct Countdown: Sequence, IteratorProtocol {
-  var count: Int
-
-  mutating func next() -> Int? {
-    if count == 0 {
-      return nil
-    } else {
-      defer { count -= 1 }
-      return count
+    var count: Int
+    
+    mutating func next() -> Int? {
+        if count == 0 {
+            return nil
+        } else {
+            defer { count -= 1 }
+            return count
+        }
     }
-  }
 }
 
 let threeToGo = Countdown(count: 3)
@@ -210,11 +210,9 @@ This is what it generates:
 
 ```swift
 struct Solution<Problem>: Sequence, IteratorProtocol {
-  typealias Element = <#type#>
-
-  typealias Iterator = <#type#>
-
-  typealias Element = <#type#>
+    typealias Element = <#type#>
+    typealias Iterator = <#type#>
+    typealias Element = <#type#>
 }
 ```
 
@@ -232,23 +230,23 @@ thing we will actually have to implement.
 ```swift
 struct Solution<Problem>: Sequence, IteratorProtocol {
 
-  private var _index: Int? = nil
-  mutating func next() -> Step<Problem>? {
-    // we're counting up (looping though the steps array), so begin at _index 0.
-    if _index == nil { _index = 0 }
-    // shadow _index so we do not have to deal with its optionality
-    // this is also why the "other" index is underscored.
-    var index = _index!
-    if index < steps.count {
-      // always move the _index forward after we can return a step
-      defer { _index! += 1 }
-      return steps[index]
-    } else {
-      // when we're done, reset the _index to nil.
-      _index = nil
-      return nil
+    private var _index: Int? = nil
+    mutating func next() -> Step<Problem>? {
+        // we're counting up (looping though the steps array), so begin at _index 0.
+        if _index == nil { _index = 0 }
+        // shadow _index so we do not have to deal with its optionality
+        // this is also why the "other" index is underscored.
+        var index = _index!
+        if index < steps.count {
+            // always move the _index forward after we can return a step
+            defer { _index! += 1 }
+            return steps[index]
+        } else {
+            // when we're done, reset the _index to nil.
+            _index = nil
+            return nil
+        }
     }
-  }
 }
 ```
 
@@ -256,7 +254,7 @@ Et voilà:
 
 ```swift
 for step in solution {
-  print(step)
+    print(step)
 }
 
 // Step<Int>(step: 1)
@@ -290,20 +288,20 @@ that was required to conform to `Sequence`.
 ```diff
 - private var _index: Int? = nil
 - mutating func next() -> Step<Problem>? {
--   // we're counting up (looping though the steps array), so begin at _index 0.
--   if _index == nil { _index = 0 }
--   // shadow _index so we do not have to deal with its optionality
--   // this is also why the "other" index is underscored.
--   var index = _index!
--   if index < steps.count {
--     // always move the _index forward after we can return a step
--     defer { _index! += 1 }
--     return steps[index]
--   } else {
--     // when we're done, reset the _index to nil.
--     _index = nil
--     return nil
--   }
+-     // we're counting up (looping though the steps array), so begin at _index 0.
+-     if _index == nil { _index = 0 }
+-     // shadow _index so we do not have to deal with its optionality
+-     // this is also why the "other" index is underscored.
+-     var index = _index!
+-     if index < steps.count {
+-         // always move the _index forward after we can return a step
+-         defer { _index! += 1 }
+-         return steps[index]
+-     } else {
+-         // when we're done, reset the _index to nil.
+-         _index = nil
+-         return nil
+-     }
 - }
 ```
 
@@ -311,19 +309,19 @@ Where instead, we can now piggyback on our internal array of `Step`s:
 
 ```swift
 var startIndex: Int {
-  steps.startIndex
+    steps.startIndex
 }
 
 var endIndex: Int {
-  steps.endIndex
+    steps.endIndex
 }
 
 subscript(i: Int) -> Step<Problem> {
-  steps[i]
+    steps[i]
 }
 
 func index(after i: Int) -> Int {
-  steps.index(after: i)
+    steps.index(after: i)
 }
 ```
 
