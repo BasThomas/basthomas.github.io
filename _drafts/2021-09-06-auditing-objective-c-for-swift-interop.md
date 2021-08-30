@@ -469,7 +469,7 @@ extension Watch {
 }
 ```
 
-Note, particularly, that conforms to the protocol `OptionSet`, transiently
+Note, particularly, that this conforms to the protocol `OptionSet`, transiently
 conforming to `SetAlgebra`, which gives us [these functions](https://developer.apple.com/documentation/swift/setalgebra)
 for free, making for a much more expressive type than is possible in
 Objective-C.
