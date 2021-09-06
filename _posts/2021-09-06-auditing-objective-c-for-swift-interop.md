@@ -289,7 +289,8 @@ so:
 ```objc
 - (void)setTimeWithHours:(NSInteger)hours
                  minutes:(NSInteger)minutes
-                 seconds:(NSInteger)seconds NS_SWIFT_NAME(setTime(hours:minutes:seconds:));
+                 seconds:(NSInteger)seconds
+                   error:(NSError **)error NS_SWIFT_NAME(setTime(hours:minutes:seconds:));
 ```
 
 which now generates the following, renamed function:
@@ -297,6 +298,9 @@ which now generates the following, renamed function:
 ```swift
 open func setTime(hours: Int, minutes: Int, seconds: Int) throws
 ```
+
+Notice we omit the `error` parameter, as this is natively bridged to use
+`throws` in Swift.
 
 ### Namespaces
 
@@ -338,7 +342,7 @@ public enum MovementType : Int {
 ```
 
 In Swift, we can _nest_ types. Which would probably make sense to use here;
-we would nest it under our `Watch`; it's associated or "parent" object:
+we would nest it under our `Watch`; its associated or "parent" object:
 
 ```objc
 typedef NS_ENUM(NSInteger, BTBMovementType) {
@@ -372,7 +376,7 @@ by [John Sundell](https://twitter.com/johnsundell).
 # Enums and Option Sets
 
 Our watch is made by someone, some brand. Let's explore how we could write this
-in Objective-C, and how we can best expose that in Swift:
+in Objective-C, and how we can best expose that to Swift:
 
 ```objc
 NS_ASSUME_NONNULL_BEGIN
@@ -440,13 +444,13 @@ extension Watch.Brand {
 }
 ```
 
-And, as you may have noticed, we can use this new "type" `Watch.Brand` — while
-`NSString` under the hood — only `Watch.Brand` "types" can be passed.
+And, as you may have noticed, we can use this new "type" `Watch.Brand`. Whilst
+`NSString` under the hood, only `Watch.Brand` "types" can be passed.
 
 ### Option Sets
 
 Imagine we'd want to describe what kind of _complications_ our watch has.
-For this, we can perhaps use an option set.
+For this, we can use an option set.
 
 In Objective-C:
 
