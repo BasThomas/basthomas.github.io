@@ -46,7 +46,7 @@ Before going through certain aspects of annotating your Objective-C headers
 Swift code), I want to start where, well, we should start: _generated
 interfaces_. Xcode allows us to, for a given Objective-C header, generate its
 accompanying Swift interface. Which at worst may be empty, and at best (already)
-expose your complete interface to Swift.
+exposes your complete interface to Swift.
 
 Near the top left of the main Xcode interface is a button called "Related Items".
 It's the button of connected squares right beneath your project name in the top
