@@ -511,7 +511,7 @@ open var functions: [String] { get }
 Well, this is a great start in making your Objective-C code interoperable with
 Swift. If you want to read (or watch) more on the topic, you can read the other
 blog posts in this series as they are released. I also very much recommend the
-WWDC session ["Refine Objective-C frameworks for Swift"](https://developer.apple.com/videos/play/wwdc2020/10680/).
+WWDC session [Refine Objective-C frameworks for Swift](https://developer.apple.com/videos/play/wwdc2020/10680/).
 
 ---
 <br />
