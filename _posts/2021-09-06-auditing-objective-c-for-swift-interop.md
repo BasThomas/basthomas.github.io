@@ -6,7 +6,7 @@ tags: [swift, objc, interop]
 ---
 
 - Dancing with Dinosaurs I: Auditing Objective-C for Swift Interoperability (this post)
-- Dancing with Dinosaurs II: Exposing your Swift types to Objective-C (forthcoming)
+- [Dancing with Dinosaurs II: Exposing your Swift types to Objective-C](/there-and-back-again)
 - Dancing with Dinosaurs III: Advanced Interoperability (forthcoming)
 
 ---
@@ -521,5 +521,5 @@ WWDC session [Refine Objective-C frameworks for Swift](https://developer.apple.c
 <br />
 
 - Dancing with Dinosaurs I: Auditing Objective-C for Swift Interoperability (this post)
-- Dancing with Dinosaurs II: Exposing your Swift types to Objective-C (forthcoming)
+- [Dancing with Dinosaurs II: Exposing your Swift types to Objective-C](/there-and-back-again)
 - Dancing with Dinosaurs III: Advanced Interoperability (forthcoming)
