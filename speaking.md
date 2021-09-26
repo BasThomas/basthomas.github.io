@@ -32,7 +32,7 @@ Coffee is nice. I like watches.
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| TBA |
+| October 8, 2021 | Effective Pull Request Reviews | Talk | [mobiconf](https://mobiconf.org) | Remote |
 
 
 ### Past
