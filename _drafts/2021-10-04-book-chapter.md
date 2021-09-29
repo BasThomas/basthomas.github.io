@@ -11,9 +11,8 @@ It was in October of 2019 when I attended the FrenchKit conference for the third
 time. The first, I was an attendee (I think this was the second conference I
 went to ever!), the second time was my first presentation at a conference.
 
-Having attended, given a talk... it seems 2019 was time to give a workshop. I
-gave a workshop on iPadOS; the same workshop I gave at Swift Island that same
-year.
+Having attended, given a talk... in 2019 I gave a workshop on iPadOS; the same
+workshop I gave at [Swift Island](https://swiftisland.nl) earlier that year.
 
 Then at the end of the conference, the speakers gathered on stage, took a
 picture, and then we were invited in the back (I think we were given a bottle
