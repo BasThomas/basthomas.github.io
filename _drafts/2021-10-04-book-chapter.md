@@ -17,7 +17,7 @@ workshop I gave at [Swift Island](https://swiftisland.nl) earlier that year.
 Then at the end of the conference, the speakers gathered on stage, took a
 picture, and then we were invited in the back (I think we were given a bottle
 of wine as gift... which I gave away as I don't drink, nor could I take it with
-me on a plane).
+me on the plane).
 
 It's there that I was talking to [Antoine van der Lee](https://twitter.com/twannl),
 who told me [Paul Hudson](https://twitter.com/twostraws) had invited him to
