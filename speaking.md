@@ -24,7 +24,7 @@ get in touch.
 Bas is an iOS and macOS developer with a passion for testability, accessibility
 and user-centric apps. He cares about communication and collaboration.
 </p>
-Coffee is nice. I like watches.
+Likes coffee and watches (a lot).
 </details>
 
 <br />
