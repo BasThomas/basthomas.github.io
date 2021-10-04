@@ -32,7 +32,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| October 8, 2021 | Effective Pull Request Reviews | Talk | [mobiconf](https://mobiconf.org) | Remote |
+| October 8, 2021 | Effective Pull Request Reviews | Talk | [Mobiconf](https://mobiconf.org) | Remote |
 
 
 ### Past
