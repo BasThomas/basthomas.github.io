@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: xctassert-asterisk
-title: 'XCTAssert*'
+title: 'XCTAssert* Failure Messages'
 tags: [swift, testing]
 ---
 
