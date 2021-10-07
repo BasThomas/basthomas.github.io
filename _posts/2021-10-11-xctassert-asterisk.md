@@ -125,6 +125,11 @@ failed". Perhaps their error messages could benefit from being a tad more
 verbose; I think the second failure message would be easier to parse when it'd
 have been the same as `XCTUnwrap`'s failure message. (FB9681950)
 
+Although, note you can do exactly what was done above (discarding the result
+of `XCTUnwrap`) and you get the same test as `XCTAssertNotNil` with a better
+diagnostic. And, arguably, verifying the result of your unwrap is something
+you may want to consider anyhow, so win-win.
+
 While not being used here, `XCTUnwrap` is a particularly neat addition to
 XCTest, introduced in Xcode 11. Where before we'd have to manually verify
 something would be non-nil, then force unwrap it, now this is "baked into" this
