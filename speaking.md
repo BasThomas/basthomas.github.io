@@ -32,7 +32,6 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| October 8, 2021 | Effective Pull Request Reviews | Talk | [Mobiconf](https://mobiconf.org) | Remote |
 | January 20-21, 2022 | Effective Pull Request Reviews | Talk | [iOS Conf SG](https://www.iosconf.sg) | Remote |
 
 
@@ -40,6 +39,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| October 8, 2021 | Effective Pull Request Reviews | Talk | [Mobiconf](https://mobiconf.org) | Remote | [x](https://speakerdeck.com/basthomas/effective-pull-request-reviews) | Soon! |
 | October 22, 2020 | Accessibility in SwiftUI | Workshop | [try! Swift World](https://www.tryswift.co/world) | Remote | [x](https://speakerdeck.com/basthomas/accessibility-in-swiftui-better-apps-for-everyone) | - |
 | October 6, 2020 | Accessibility in SwiftUI | Workshop | [try! Swift World](https://www.tryswift.co/world) | Remote | [x](https://speakerdeck.com/basthomas/accessibility-in-swiftui-better-apps-for-everyone) | - |
 | June 3, 2020 | An Introduction to Testing Logic with Unit Tests | Workshop | [try! Swift World](https://www.tryswift.co/world) | Remote | [x](https://speakerdeck.com/basthomas/an-introduction-to-unit-testing-logic-in-swift) | - |
