@@ -74,20 +74,20 @@ failure:
 
 ```swift
 struct Engine {
-    var isStarted = true // Oops!
+    var isOn = true // Oops!
 
     mutating func start() {
-        isStarted = true
+        isOn = true
     }
 
     mutating func stop() {
-        isStarted = false
+        isOn = false
     }
 }
 
 let engine = Engine()
 XCTAssertFalse(
-    engine.isStarted,
+    engine.isOn,
     "The engine isn't expected to have been started yet!"
 )
 // XCTAssertFalse failed - The engine isn't expected to have been started yet!
