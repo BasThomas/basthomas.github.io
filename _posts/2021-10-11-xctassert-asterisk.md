@@ -234,11 +234,12 @@ making the code less distracting (and prevent too much indentation). Neat!
 
 ## Unconditional Assertions
 
-Sometimes, you will need to unconditionally fail a test. The setup is not
-possible, for example.
+Sometimes, you will need to unconditionally fail a test. For example when a
+setup can't be completed.
 
 ```swift
-XCTFail() // failed
+XCTFail()
+// failed
 ```
 
 To the point.
