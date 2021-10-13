@@ -12,6 +12,10 @@ Apple developer with a passion for platform work and accessibility.
 
 ## Work experience
 
+### WeTransfer
+
+#### **November 2021 – current**
+
 ### Apple
 
 #### **November 2020 – September 2021** (macOS Accessibility)
