@@ -12,6 +12,10 @@ Apple developer with a passion for platform work and accessibility.
 
 ## Work experience
 
+### WeTransfer
+
+#### **November 2021 – current**
+
 ### Apple
 
 #### **November 2020 – September 2021** (macOS Accessibility)
@@ -80,6 +84,6 @@ this project by improving their documentation, migration from Swift 2 to 3, as w
 - Building XING’s Technology Advisory Board through GitHub @ GitHub Enterprise Roadshow Munich 2020, Germany
 - Writing Testable Code Workshop @ The Swift Alps 2019, Switzerland
 - An introduction to Accessibility on iOS: Better Apps For Everyone @ Swiftconf 2019, Germany
-- So You’re Writing a Framework... @ DO iOS 2018, The Netherlands
+- So You’re Writing a Framework... @ DO iOS 2018, the Netherlands
 
 More at https://basbroek.nl/speaking/

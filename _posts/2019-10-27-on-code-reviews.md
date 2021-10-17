@@ -100,6 +100,9 @@ If you're interesting in reading more on this topic, I can wholeheartedly
 recommend [Google's code review practices](https://google.github.io/eng-practices/review/reviewer/),
 as well as Babylon Health's [Code Review Etiquette](https://github.com/babylonhealth/ios-playbook/blob/master/Etiquette/CODE_REVIEW.md).
 
+I also gave [a presentation](https://www.yout-ube.com/watch?v=Ae5Simocebo) on
+this topic, that is now available as a video.
+
 ---
 
 If you're interested in having me do code review or proofread a document, I'm more
