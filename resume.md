@@ -16,6 +16,8 @@ Apple developer with a passion for platform work and accessibility.
 
 #### **November 2021 – current**
 
+Working on the Transfer & Collect iOS apps.
+
 ### Apple
 
 #### **November 2020 – September 2021** (macOS Accessibility)
