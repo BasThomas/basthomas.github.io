@@ -32,7 +32,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| November 18-19, 2021 | Dancing with Dinosaurs: Objective-C and Swift Interop | Talk | [NSSpain](https://nsspain.com) | Remote |
+| November 18, 2021 | Dancing with Dinosaurs: Objective-C and Swift Interop | Talk | [NSSpain](https://nsspain.com) | Remote |
 | January 20-21, 2022 | Effective Pull Request Reviews | Talk | [iOS Conf SG](https://www.iosconf.sg) | Remote |
 
 
