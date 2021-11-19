@@ -32,7 +32,6 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| November 18, 2021 | Dancing with Dinosaurs: Objective-C and Swift Interop | Talk | [NSSpain](https://nsspain.com) | Remote |
 | January 20-21, 2022 | Effective Pull Request Reviews | Talk | [iOS Conf SG](https://www.iosconf.sg) | Remote |
 
 
@@ -40,6 +39,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| November 18, 2021 | Dancing with Dinosaurs: Objective-C and Swift Interop | Talk | [NSSpain](https://nsspain.com) | Remote | [x](https://speakerdeck.com/basthomas/dancing-with-dinosaurs-objective-c-and-swift-interop) | TBA |
 | October 8, 2021 | Effective Pull Request Reviews | Talk | [Mobiconf](https://mobiconf.org) | Remote | [x](https://speakerdeck.com/basthomas/effective-pull-request-reviews) | [x](https://www.yout-ube.com/watch?v=Ae5Simocebo) |
 | October 22, 2020 | Accessibility in SwiftUI | Workshop | [try! Swift World](https://www.tryswift.co/world) | Remote | [x](https://speakerdeck.com/basthomas/accessibility-in-swiftui-better-apps-for-everyone) | - |
 | October 6, 2020 | Accessibility in SwiftUI | Workshop | [try! Swift World](https://www.tryswift.co/world) | Remote | [x](https://speakerdeck.com/basthomas/accessibility-in-swiftui-better-apps-for-everyone) | - |
