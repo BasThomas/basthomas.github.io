@@ -63,7 +63,7 @@ So while I've actually only done this for one particular talk, I really liked
 doing this. I felt that I was lacking inspiration to go "directly" to Deckset,
 and thus I took some paper and started "drawing" out the talk.
 
-![Presentation notes, describing — with drawings — a talk on automating release proccesses.](/assets/blog-images/presentation-notes.jpg)
+![Presentation notes, describing — with drawings — a talk on automating release proccesses.](/assets/blog-assets/presentation-notes.jpg)
 
 It was then that that served as the base for the slide deck. If you're curious,
 you can check out that exact slide deck [here](https://speakerdeck.com/basthomas/tackling-continuous-releases-for-xings-mobile-apps).

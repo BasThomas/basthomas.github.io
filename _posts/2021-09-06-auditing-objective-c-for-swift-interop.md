@@ -57,7 +57,7 @@ out! But for now, let's go to **Related Items > Counterparts > MyHeader.h >
 (Swift 5 Interface)**. As you can see, there are, at the time of writing,
 options to look at the Swift 4, 4.2, and 5 interfaces.
 
-![The Related Items and Generated Interfaces menu in Xcode.](../assets/blog-images/generated-interfaces.png)
+![The Related Items and Generated Interfaces menu in Xcode.](../assets/blog-assets/generated-interfaces.png)
 
 While troubleshooting your generated interface is beyond the scope of this post,
 if no interface is being generated at all, check if you're importing Foudation

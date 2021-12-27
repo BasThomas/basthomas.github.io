@@ -33,8 +33,8 @@ We changed this so the cell is one big accessibility element [(with single a but
 
 Also - and I feel this is a simple thing to add that all users benefit from - is a selected and non selected state for the tab bar icons. This allows you - and especially colorblind people - to quickly identify which tab you are using.
 
-![Tab bar; showing the selected tab with color.](../assets/blog-images/tabs-color.jpeg)
-![Tab bar; showing the selected tab in black and white.](../assets/blog-images/tabs-black-white.jpeg)
+![Tab bar; showing the selected tab with color.](../assets/blog-assets/tabs-color.jpeg)
+![Tab bar; showing the selected tab in black and white.](../assets/blog-assets/tabs-black-white.jpeg)
 
 ### Implementation
 
