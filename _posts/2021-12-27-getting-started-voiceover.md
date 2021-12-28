@@ -23,6 +23,11 @@ Mobile Apps](https://link.springer.com/book/10.1007/978-1-4842-5814-9) book he
 wrote, which covers both iOS & Android, which can give another layer of both
 appreciation and insights into accessibility.
 
+---
+<br />
+- Getting Started With Accessibility: VoiceOver (this post)
+- [Improving Accessibility: VoiceOver](/improving-voiceover)
+
 ## VoiceOver
 
 In this post, I want to look at — what I would say — one of the three major
@@ -113,10 +118,13 @@ traits. For now, try to use your app with these improvements in place and ask
 yourself: what information is missing for these users? How _would_ I express
 this information to them?
 
-Then we'll take a look at custom actions, custom content, performing escapes,
+Then, we'll take a look at custom actions, custom content, performing escapes,
 hints, and values, next.
+
+Let me know your thoughts on this introduction, and if you have any questions,
+I'd love to help!
 
 ---
 <br />
-Let me know your thoughts on this introduction, and if you have any questions,
-I'd love to help!
+- Getting Started With Accessibility: VoiceOver (this post)
+- [Improving Accessibility: VoiceOver](/improving-voiceover)
