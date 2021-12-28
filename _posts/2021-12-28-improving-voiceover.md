@@ -19,7 +19,6 @@ We'll take a look at `accessibilityValue`s, `accessibilityHint`s,
 <br />
 - [Getting Started With Accessibility: VoiceOver](/getting-started-voiceover)
 - Improving Accessibility: VoiceOver (this post)
-- [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
 
 ## Accessibility Values
 
@@ -300,4 +299,3 @@ I'd love to help!
 <br />
 - [Getting Started With Accessibility: VoiceOver](/getting-started-voiceover)
 - Improving Accessibility: VoiceOver (this post)
-- [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
