@@ -188,7 +188,7 @@ Because why can't we have
 
 ```swift
 let tweetCell = TweetCell()
-tweetCell.customContent = [
+tweetCell.accessibilityCustomContent = [
     .init(
         label: NSLocalizedString("Replies", comment: ""),
         value: String(describing: 30)
