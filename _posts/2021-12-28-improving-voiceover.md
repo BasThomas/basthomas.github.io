@@ -247,7 +247,7 @@ class MyObjectContainingTweetCell: AXCustomContentProvider {
 ... from importing another framework, to requiring classes (although one could
 still store the information in, say, a `ViewModel` that is a struct, and pass
 it along to the view that is a class), having to deal with an awkward
-`nil_resettable`, as well as backing storage. _Woof_.
+`null_resettable`, as well as backing storage. _Woof_.
 
 ---
 <br />
