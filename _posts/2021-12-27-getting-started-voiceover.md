@@ -28,6 +28,7 @@ appreciation and insights into accessibility.
 - Getting Started With Accessibility: VoiceOver (this post)
 - [Improving Accessibility: VoiceOver](/improving-voiceover)
 - [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
+- [Improving Accessibility: Voice Control](/improving-voice-control)
 
 ## VoiceOver
 
@@ -130,3 +131,4 @@ I'd love to help!
 - Getting Started With Accessibility: VoiceOver (this post)
 - [Improving Accessibility: VoiceOver](/improving-voiceover)
 - [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
+- [Improving Accessibility: Voice Control](/improving-voice-control)

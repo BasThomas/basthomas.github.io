@@ -19,6 +19,7 @@ code. Let's take a look at the Accessibility Inspector.
 - [Getting Started With Accessibility: VoiceOver](/getting-started-voiceover)
 - [Improving Accessibility: VoiceOver](/improving-voiceover)
 - Verifying VoiceOver: Accessibility Inspector (this post)
+- [Improving Accessibility: Voice Control](/improving-voice-control)
 
 ## Introduction
 
@@ -125,3 +126,4 @@ I'd love to help!
 - [Getting Started With Accessibility: VoiceOver](/getting-started-voiceover)
 - [Improving Accessibility: VoiceOver](/improving-voiceover)
 - Verifying VoiceOver: Accessibility Inspector (this post)
+- [Improving Accessibility: Voice Control](/improving-voice-control)

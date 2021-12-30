@@ -20,6 +20,7 @@ We'll take a look at `accessibilityValue`s, `accessibilityHint`s,
 - [Getting Started With Accessibility: VoiceOver](/getting-started-voiceover)
 - Improving Accessibility: VoiceOver (this post)
 - [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
+- [Improving Accessibility: Voice Control](/improving-voice-control)
 
 ## Accessibility Values
 
@@ -301,3 +302,4 @@ I'd love to help!
 - [Getting Started With Accessibility: VoiceOver](/getting-started-voiceover)
 - Improving Accessibility: VoiceOver (this post)
 - [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
+- [Improving Accessibility: Voice Control](/improving-voice-control)
