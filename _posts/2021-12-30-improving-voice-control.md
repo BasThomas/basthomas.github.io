@@ -2,7 +2,7 @@
 layout: post
 permalink: improving-voice-control
 title: 'Improving Accessibility: Voice Control'
-tags: [swift, accessibility, voiceover]
+tags: [swift, accessibility]
 ---
 
 Having improved an app for VoiceOver means you'll have made some major steps
