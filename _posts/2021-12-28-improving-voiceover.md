@@ -76,7 +76,9 @@ especially around custom (modally displayed) views.
 You may be wondering how a user can perform this escape, though? And thus, how
 you can test it? Well...
 
-![Perform an Accessibility Escape on iPhone](/assets/blog-assets/perform-escape.mp4)
+<video width="750" controls alt="Perform an Accessibility Escape on iPhone">
+  <source src="/assets/blog-assets/perform-escape.mp4" type="video/mp4">
+</video>
 
 With two fingers, draw a "Z" on the screen: the [Zorro gesture](/assets/blog-assets/zorro.gif),
 as I like to call it.
