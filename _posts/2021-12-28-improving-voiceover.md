@@ -21,6 +21,7 @@ We'll take a look at `accessibilityValue`s, `accessibilityHint`s,
 - Improving Accessibility: VoiceOver (this post)
 - [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
 - [Improving Accessibility: Voice Control](/improving-voice-control)
+- [Getting Started With Accessibility: Dynamic Type](/getting-started-dynamic-type)
 
 ## Accessibility Values
 
@@ -305,3 +306,4 @@ I'd love to help!
 - Improving Accessibility: VoiceOver (this post)
 - [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
 - [Improving Accessibility: Voice Control](/improving-voice-control)
+- [Getting Started With Accessibility: Dynamic Type](/getting-started-dynamic-type)

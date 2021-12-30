@@ -20,6 +20,7 @@ code. Let's take a look at the Accessibility Inspector.
 - [Improving Accessibility: VoiceOver](/improving-voiceover)
 - Verifying VoiceOver: Accessibility Inspector (this post)
 - [Improving Accessibility: Voice Control](/improving-voice-control)
+- [Getting Started With Accessibility: Dynamic Type](/getting-started-dynamic-type)
 
 ## Introduction
 
@@ -127,3 +128,4 @@ I'd love to help!
 - [Improving Accessibility: VoiceOver](/improving-voiceover)
 - Verifying VoiceOver: Accessibility Inspector (this post)
 - [Improving Accessibility: Voice Control](/improving-voice-control)
+- [Getting Started With Accessibility: Dynamic Type](/getting-started-dynamic-type)

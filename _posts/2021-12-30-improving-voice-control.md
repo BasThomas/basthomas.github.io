@@ -22,6 +22,7 @@ improvements to your app to make the Voice Control experience even better.
 - [Improving Accessibility: VoiceOver](/improving-voiceover)
 - [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
 - Improving Accessibility: Voice Control (this post)
+- [Getting Started With Accessibility: Dynamic Type](/getting-started-dynamic-type)
 
 ## Introduction
 
@@ -119,3 +120,4 @@ I'd love to help!
 - [Improving Accessibility: VoiceOver](/improving-voiceover)
 - [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
 - Improving Accessibility: Voice Control (this post)
+- [Getting Started With Accessibility: Dynamic Type](/getting-started-dynamic-type)

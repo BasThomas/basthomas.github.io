@@ -29,6 +29,7 @@ appreciation and insights into accessibility.
 - [Improving Accessibility: VoiceOver](/improving-voiceover)
 - [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
 - [Improving Accessibility: Voice Control](/improving-voice-control)
+- [Getting Started With Accessibility: Dynamic Type](/getting-started-dynamic-type)
 
 ## VoiceOver
 
@@ -132,3 +133,4 @@ I'd love to help!
 - [Improving Accessibility: VoiceOver](/improving-voiceover)
 - [Verifying VoiceOver: Accessibility Inspector](/verifying-voiceover)
 - [Improving Accessibility: Voice Control](/improving-voice-control)
+- [Getting Started With Accessibility: Dynamic Type](/getting-started-dynamic-type)
