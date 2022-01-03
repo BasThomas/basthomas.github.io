@@ -8,9 +8,9 @@ tags: [swift, accessibility, voiceover]
 I've received quite a few questions along the lines of "I'm a developer/quality
 assurance engineer / ... and am interested in accessibility; where do I start?"
 
-I wanted to write some thoughts on this topic. For one, because I think it
-others than the people that have reached out to me would be interested, and to
-have something to reference.
+I wanted to write some thoughts on this topic. For one, because I think it's
+others than the people that have reached out to me would be interested in, and
+to have a reference for those reaching out.
 
 <!--more-->
 
