@@ -32,7 +32,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| January 20-21, 2022 | Effective Pull Request Reviews | Talk | [iOS Conf SG](https://www.iosconf.sg) | Remote |
+| January 21, 2022 | Effective Pull Request Reviews | Talk | [iOS Conf SG](https://www.iosconf.sg) | Remote |
 
 
 ### Past
