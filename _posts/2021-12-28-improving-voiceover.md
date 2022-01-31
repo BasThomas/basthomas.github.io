@@ -34,7 +34,7 @@ field is the text it contains.
 
 While I think these are two great examples, it may be hard to wrap your head
 around what should (and shouldn't) go into the `accessibilityValue`. Note,
-though, that it is more than OK (and very likely) for it to be empty. Plus,
+though, that it is more than OK (and not unlikely) for it to be empty. Plus,
 it describes a value _of_ the element. So it wouldn't make too much sense
 to put in some data of a complicated cell, for example.
 
