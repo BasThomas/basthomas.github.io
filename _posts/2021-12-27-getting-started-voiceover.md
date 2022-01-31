@@ -84,7 +84,7 @@ to use [`accessibilityTraits`](https://developer.apple.com/documentation/uikit/u
 ranging from the aforementioned `.button`, `.image`, `.header`, to `.selected`,
 `.notEnabled`, and `.adjustable`.
 
-Take another pass through your app, or another (system app), and note these
+Take another pass through your app, or another (system) app, and note these
 traits being part of the respective elements.
 
 ---
