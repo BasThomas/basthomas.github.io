@@ -135,7 +135,7 @@ tweetCell.accessibilityCustomActions = [
         reply()
         return true
     },
-    // don't forget to update the name of this action when it changes;
+    // don't forget to update the name and image of this action when it changes;
     // i.e. "Undo retweet"
     .init(
         name: NSLocalizedString("Retweet", comment: ""),
@@ -144,7 +144,7 @@ tweetCell.accessibilityCustomActions = [
         showRetweetOptions()
         return true
     },
-    // don't forget to update the name of this action when it changes;
+    // don't forget to update the name and image of this action when it changes;
     // i.e. "Undo like"
     .init(
         name: NSLocalizedString("Like", comment: ""),
