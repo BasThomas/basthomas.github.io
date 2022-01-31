@@ -81,7 +81,7 @@ but also the system... so it can do some really neat work under the hood.
 
 For this information, rather than adding this to your label, you'll be wanting
 to use [`accessibilityTraits`](https://developer.apple.com/documentation/uikit/uiaccessibility/uiaccessibilitytraits) —
-ranging from the aforementioned `.button`, `.image`, `.header`, to `selected`,
+ranging from the aforementioned `.button`, `.image`, `.header`, to `.selected`,
 `.notEnabled`, and `.adjustable`.
 
 Take another pass through your app, or another (system app), and note these
