@@ -32,7 +32,8 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| TBA |
+| May 19, 2022 | TBA | Talk | TBA | Remote |
+| August 17-18, 2022 | TBA | Talk | TBA | TBA |
 
 
 ### Past
