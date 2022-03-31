@@ -177,7 +177,7 @@ the content in a more appropriate manner for each assistive technology.
 
 While significantly improving the VoiceOver experience for users, this API is,
 in my opinion, rather awkward to work with, requiring the addition of quite
-some (unnecessary?) complicated code. While we've seen APIs like
+some (unnecessarily?) complicated code. While we've seen APIs like
 `accessibilityCustomActions`, being available on an(y) `NSObject`, this is not
 exactly the case for `AXCustomContent`.
 
