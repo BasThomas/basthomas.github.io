@@ -14,6 +14,11 @@ Whilst possible, it was far from straightforward. In this post, I want to talk
 about matching the built-in behavior, by supporting the Large Content Viewer as
 well as the magical (as you will see later) `.tabBar` trait.
 
+---
+<br />
+
+You can find the code from this blog post [on GitHub](https://github.com/BasThomas/Candybar).
+
 ## Large Content Viewer
 
 To start off, let's take a look at what our custom tab bar looks like, and how
@@ -204,3 +209,8 @@ that you want to make accessible!
 
 Let me know your thoughts on this post, and if you have any questions, I'd love
 to help!
+
+---
+<br />
+
+You can find the code from this blog post [on GitHub](https://github.com/BasThomas/Candybar).
