@@ -164,7 +164,8 @@ just speaks "Camera, button".
 
 So, this was not... completely unexpected? I was (still) confused about how
 this was supposed to work in the first place. Or as I described it in the pull
-request once I finally found out what was going on:
+request once ~I~ [Sommer](](https://twitter.com/sommer)) finally found out what
+was going on:
 
 > The documentation says that this is how you set up a custom tab
 bar. You set the parent element to have the `.tabBar` trait, and then you set
@@ -183,8 +184,8 @@ device with Accessibility Inspector, it'll still pretend that things don't work
 >
 > _sigh_ time to write a blog post and file a bunch of radars on this.
 
-... seems like it all "worked" after all. Thanks (again) [Sommer](https://twitter.com/sommer)
-(and someone at Apple) for helping me stay sane here.
+... seems like it all "worked" after all. Thanks (again) to Sommer (and someone
+at Apple) for helping me stay sane here.
 
 <video width="750" controls alt="A video showing going through the custom tab bar using VoiceOver.">
     <source src="/assets/blog-assets/custom-tab-bar-voiceover.mov" type="video/mp4">
