@@ -164,7 +164,7 @@ just speaks "Camera, button".
 
 So, this was not... completely unexpected? I was (still) confused about how
 this was supposed to work in the first place. Or as I described it in the pull
-request once ~I~ [Sommer](](https://twitter.com/sommer)) finally found out what
+request once ~~I~~ [Sommer](https://twitter.com/sommer) finally found out what
 was going on:
 
 > The documentation says that this is how you set up a custom tab
