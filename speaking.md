@@ -32,8 +32,8 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| May 19, 2022 | TBA | Talk | TBA | Remote |
-| August 17-18, 2022 | TBA | Talk | TBA | TBA |
+| May 19, 2022 | No Touch(screen) Required: Voice & Keyboard Accessibility | Talk | CocoaHeads Sydney | Remote |
+| August 17-18, 2022 | TBA | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany |
 
 
 ### Past
