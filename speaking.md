@@ -28,6 +28,7 @@ Likes coffee and watches (a lot).
 </details>
 
 <br />
+
 ### Upcoming
 
 | Date | Title | Talk type | Event | Location |
