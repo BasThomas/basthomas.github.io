@@ -32,7 +32,6 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| May 19, 2022 | No Touch(screen) Required: Voice & Keyboard Accessibility | Talk | [CocoaHeads Sydney](https://www.meetup.com/sydneycocoaheads/) | Remote |
 | Aug 17-18, 2022 | TBA | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany |
 
 
@@ -40,6 +39,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| May 19, 2022 | No Touch(screen) Required: Voice & Keyboard Accessibility | Talk | [CocoaHeads Sydney](https://www.meetup.com/sydneycocoaheads/) | Remote | [x](https://speakerdeck.com/basthomas/no-touch-screen-required-voice-and-keyboard-accessibility) | TBA |
 | Jan 21, 2022 | Effective Pull Request Reviews | Talk | [iOS Conf SG](https://www.iosconf.sg) | Remote | [x](https://speakerdeck.com/basthomas/effective-pull-request-reviews) | [x](https://www.youtube.com/watch?v=WdmYR5I9F7g) |
 | Nov 18, 2021 | Dancing with Dinosaurs: Objective-C and Swift Interop | Talk | [NSSpain](https://nsspain.com) | Remote | [x](https://speakerdeck.com/basthomas/dancing-with-dinosaurs-objective-c-and-swift-interop) | [x](https://vimeo.com/646514794) |
 | Oct 8, 2021 | Effective Pull Request Reviews | Talk | [Mobiconf](https://mobiconf.org) | Remote | [x](https://speakerdeck.com/basthomas/effective-pull-request-reviews) | [x](https://www.yout-ube.com/watch?v=Ae5Simocebo) |
