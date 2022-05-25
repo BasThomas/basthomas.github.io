@@ -33,6 +33,8 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
+| Jun 23, 2022 | TBA | Workshop | [Appdevcon](https://appdevcon.nl) | Amsterdam, the Netherlands |
+| Aug 10, 2022 | TBA | Talk | TBA | Amsterdam, the Netherlands |
 | Aug 17-18, 2022 | TBA | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany |
 
 
