@@ -33,9 +33,9 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Jun 23, 2022 | TBA | Workshop | [Appdevcon](https://appdevcon.nl) | Amsterdam, the Netherlands |
-| Aug 10, 2022 | TBA | Talk | TBA | Amsterdam, the Netherlands |
-| Aug 17-18, 2022 | TBA | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany |
+| Jun 23, 2022 | Accessibility on Apple Platforms: Beyond VoiceOver | Workshop | [Appdevcon](https://appdevcon.nl) | Amsterdam, the Netherlands |
+| Aug 10, 2022 | Not an afterthought: accessibility from start to finish | Talk | TBA | Amsterdam, the Netherlands |
+| Aug 17-18, 2022 | Building a modern subscription experience on iOS | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany |
 
 
 ### Past
