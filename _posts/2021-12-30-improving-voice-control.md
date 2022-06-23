@@ -29,7 +29,7 @@ improvements to your app to make the Voice Control experience even better.
 Apple announced Voice Control for iOS and macOS at WWDC in 2019; the video
 below gives a great understanding of what Voice Control can do.
 
-[![Introducing Voice Control on Mac and iOS](http://img.youtube.com/vi/tEEPpdct5t8/0.jpg)](https://www.youtube.com/watch?v=tEEPpdct5t8 "Introducing Voice Control on Mac and iOS")
+[![Introducing Voice Control on Mac and iOS](http://img.youtube.com/vi/vg8HOT3_LVY/0.jpg)](https://www.youtube.com/watch?v=vg8HOT3_LVY "Introducing Voice Control on Mac and iOS")
 
 This is so cool! As you may have noticed, Voice Control definitely builds on
 top of accessibility labels to activate certain controls, like share buttons
