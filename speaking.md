@@ -33,7 +33,6 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Jun 23, 2022 | Accessibility on Apple Platforms: Beyond VoiceOver | Workshop | [Appdevcon](https://appdevcon.nl) | Amsterdam, the Netherlands |
 | Aug 10, 2022 | Not an afterthought: accessibility from start to finish | Talk | TBA | Amsterdam, the Netherlands |
 | Aug 17-18, 2022 | Building a modern subscription experience on iOS | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany |
 
@@ -42,6 +41,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| Jun 23, 2022 | Accessibility on Apple Platforms: Beyond VoiceOver | Workshop | [Appdevcon](https://appdevcon.nl) | Amsterdam, the Netherlands | [x](https://speakerdeck.com/basthomas/accessibility-on-apple-platforms-beyond-voiceover) | - |
 | May 19, 2022 | No Touch(screen) Required: Voice & Keyboard Accessibility | Talk | [CocoaHeads Sydney](https://www.meetup.com/sydneycocoaheads/) | Remote | [x](https://speakerdeck.com/basthomas/no-touch-screen-required-voice-and-keyboard-accessibility) | [x](https://www.youtube.com/watch?v=-RVvjDUhUA0) |
 | Jan 21, 2022 | Effective Pull Request Reviews | Talk | [iOS Conf SG](https://www.iosconf.sg) | Remote | [x](https://speakerdeck.com/basthomas/effective-pull-request-reviews) | [x](https://www.youtube.com/watch?v=WdmYR5I9F7g) |
 | Nov 18, 2021 | Dancing with Dinosaurs: Objective-C and Swift Interop | Talk | [NSSpain](https://nsspain.com) | Remote | [x](https://speakerdeck.com/basthomas/dancing-with-dinosaurs-objective-c-and-swift-interop) | [x](https://vimeo.com/646514794) |
