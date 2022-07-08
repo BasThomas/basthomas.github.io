@@ -33,7 +33,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Aug 10, 2022 | Not an afterthought: accessibility from start to finish | Talk | TBA | Amsterdam, the Netherlands |
+| Aug 10, 2022 | Not an afterthought: accessibility from start to finish | Talk | GitHub | Amsterdam, the Netherlands |
 | Aug 17-18, 2022 | Building a modern subscription experience on iOS | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany |
 
 
