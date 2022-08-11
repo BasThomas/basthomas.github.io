@@ -33,7 +33,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Aug 17-18, 2022 | Building a modern subscription experience on iOS | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany |
+| Aug 17, 2022 | Building a modern subscription experience on iOS | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany |
 
 
 ### Past
