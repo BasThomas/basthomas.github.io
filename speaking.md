@@ -33,13 +33,14 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Aug 17, 2022 | Building a modern subscription experience on iOS | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany |
+| TBA |
 
 
 ### Past
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| Aug 17, 2022 | Building a modern subscription experience on iOS | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany | [x](https://speakerdeck.com/basthomas/building-a-modern-subscription-experience-on-ios) | TBA |
 | Aug 10, 2022 | Not an afterthought: accessibility from start to finish | Talk | GitHub | Amsterdam, the Netherlands | [x](https://speakerdeck.com/basthomas/not-an-afterthought-accessibility-from-start-to-finish) | - |
 | Jun 23, 2022 | Accessibility on Apple Platforms: Beyond VoiceOver | Workshop | [Appdevcon](https://appdevcon.nl) | Amsterdam, the Netherlands | [x](https://speakerdeck.com/basthomas/accessibility-on-apple-platforms-beyond-voiceover) | - |
 | May 19, 2022 | No Touch(screen) Required: Voice & Keyboard Accessibility | Talk | [CocoaHeads Sydney](https://www.meetup.com/sydneycocoaheads/) | Remote | [x](https://speakerdeck.com/basthomas/no-touch-screen-required-voice-and-keyboard-accessibility) | [x](https://www.youtube.com/watch?v=-RVvjDUhUA0) |
