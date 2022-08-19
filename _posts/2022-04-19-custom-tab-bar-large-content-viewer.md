@@ -90,8 +90,8 @@ Oh no, it still does not work?!
 > For this property to take effect, the view must have a
 `UILargeContentViewerInteraction`.
 
-... yet `largeContentTitle` nor `largeContentImage` do not. OK, so let's add the
-interaction:
+... yet neither `largeContentTitle` nor `largeContentImage`'s
+documentation do. OK, so let's add the interaction:
 
 ```swift
 bar.addInteraction(UILargeContentViewerInteraction())
