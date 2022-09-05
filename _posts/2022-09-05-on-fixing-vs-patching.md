@@ -8,6 +8,7 @@ tags: [programming]
 We programmers have — most likely — all fixed a bunch of bugs in our time. That edge case that was overlooked. That out of bounds error that we thought could never occur. That early return being hit because that one thing _could_ be `nil` after all. That crash because the constant that wouldn’t change... did in fact change.
 
 ---
+<br />
 
 These things happen. And arguably, it’s OK for them to happen. Yes, there’s a miriad of things we do — conciously or not — to _prevent_ these things from happening. In the end, however, it’s _because_ of bugs, of issues, of changes, that we programmers are, well, programmers. We’d not be needed otherwise, I’d argue.
 
@@ -22,6 +23,7 @@ The magic moment kicks in when an issue or (other) edge case is found — as it 
 I digress... but now we can write a new test — with our now known failing input — and have that test fail. Of course. But this is great! We have a newly defined input with a certain unexpected output. We use our newfound knowledge to fix the bug, _et voilà_, the test passes. What a wonderful feeling.
 
 ---
+<br />
 
 A perfect scenario, one might argue, but one that isn’t always as straightforward. Not as straightforward to write that (as) testable code. Not as straightforward to understand the underlying issue and apply a fix. Not as straightforward to find that issue or unexpected output in the first place.
 
@@ -48,6 +50,7 @@ For example, if we’re unexpectedly returning `nil` given some unknown input, w
 As we can see, however, these examples don’t _fix_ the issue. They dodge it, move around it, _ignore_ it. It’s that I see as a _patch_. And, alongside it, as something that _could_, down the line, cause undefined behavior — as in, it can cause us to evaluate code at a later point with input we don’t expect. Luckily for us, we have (among others) [assertions](/but-that-should-work) to help us there.
 
 ---
+<br />
 
 Patching issues isn’t something objectively bad. Sometimes we deal with a complex piece of code and we’ll have to make do with what we _do_ know. Add that extra piece of logging to help catch that gnarly input causes us problems. Write a workaround because an API that’s not in our hands causes issues.
 
