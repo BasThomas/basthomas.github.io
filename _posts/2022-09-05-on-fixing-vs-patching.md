@@ -39,7 +39,7 @@ When it comes to documentation, different things work (better) for different peo
 
 Having things documented in multiple forms can help keep things able to be picked up by different people, at their own speed, in their own way. And having that kind of track record of how we work will help us keep a better understanding of our software (this, of course, applies to _much more_ than just fixing issues, like processes, decisions, and proposals.)
 
-Documentation, too, can help finding issues, non-expected outputs, and bugs, too. We certainly don’t always have a well-defined bug report, failing input, or other tangible information to guide us in the correct — or even _a_ — direction. And so we should be extra careful in tracing our steps, documenting our findings, and understanding our path from an issue being flagged to understanding it. To fixing it.
+Documentation, too, can help finding issues, non-expected outputs, and bugs, too. We certainly don’t always have a well-defined bug report, failing input, or other tangible information to guide us in the correct — or even _a_ — direction. And so we should be extra careful in tracing our steps, documenting our findings, and understanding our path from an issue being flagged to understanding (and, I hope, fixing!) it.
 
 # Patching
 
