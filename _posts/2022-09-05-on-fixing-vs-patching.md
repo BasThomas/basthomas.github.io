@@ -5,7 +5,9 @@ title: 'On Fixing vs Patching'
 tags: [programming]
 ---
 
-We programmers have — most likely — all fixed a bunch of bugs in our time. That edge case that was overlooked. That out of bounds error that we thought could never occur. That early return being hit because that one thing _could_ be `nil` after all. That crash because the constant that wouldn’t change... did in fact change.
+We programmers have — most likely — all fixed a bunch of bugs in our time. That edge case that was overlooked. That out of bounds error that we thought could never occur. That early return being hit because that one thing could be `nil` after all. That crash because the constant that wouldn’t change... did in fact change.
+
+Not that I'm speaking from experience... why'd you ask?
 
 ---
 <br />
