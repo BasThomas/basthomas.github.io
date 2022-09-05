@@ -35,7 +35,7 @@ We could see the code and the accompanying test that fixes the issue as some for
 
 While our code is _a_ form of documentation, we’re all humans, and we all think differently. Have a different perspective.
 
-When it comes to documentation, different things work (better) for different people. There’s no one way to document things. One might prefer video content over documentation that is written. Examples can make something tangible. That oh-so-understandable code does not hold up its understanding when someone that isn’t familiar with code is looking into things. Or your future self, not having used that programming language in a while.
+When it comes to documentation, different things work (better) for different people. There’s no one way to document things. One might prefer video content over documentation that is written. Examples can make something tangible. That oh-so-understandable code does not hold up when someone unfamiliar with code is looking into things. Or your future self, not having used that programming language in a while.
 
 Having things documented in multiple forms can help keep things being picked up by different people, at their own speed, in their own way. And arguably, having that kind of track record of how we work (this, of course, applies to _much more_ than just fixing issues, like processes, decisions, and proposals), will help us keep a better understanding of our software.
 
