@@ -29,7 +29,7 @@ I digress... but now we can write a new test — with our now known failing inpu
 
 A perfect scenario, one might argue, but one that isn’t always as straightforward. Not as straightforward to write that (as) testable code. Not as straightforward to understand the underlying issue and apply a fix. Not as straightforward to find that issue or unexpected output in the first place.
 
-We could see the code and the accompanying test that fixes the issue as some form of “pure” documentation: you can’t argue, by reading the fix and the test, that the issue _isn’t_ fixed. And you can logically reason about it. (Of course, this isn’t exactly true. We could introduce a new issue with our fix, of course, especially when dealing with more complex challenges. Nor should we expected anyone to take a fix — however trivial — for granted, or to understand said fix in exactly the ways our mind does).
+We could see the code and the accompanying test that fixes the issue as some form of “pure” documentation: you can’t argue, by reading the fix and the test, that the issue _isn’t_ fixed. And you can logically reason about it. (Of course, this isn’t exactly true. We could introduce a new issue with our fix, of course, especially when dealing with more complex challenges. Nor should we expect anyone to take a fix — however trivial — for granted, or to understand said fix in exactly the ways our mind does).
 
 # Documentation
 
