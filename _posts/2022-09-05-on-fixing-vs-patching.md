@@ -16,7 +16,7 @@ These things happen. And arguably, it’s OK for them to happen. Yes, there’s 
 
 # Fixing
 
-One of my favorite things in programming is being able to write a piece of software with that is well-defined — as well as moulding a thought, requirement, or project to become well-defined.
+One of my favorite things in programming is being able to write a piece of software that is well-defined — as well as moulding a thought, requirement, or project to become well-defined.
 
 It’s then, with that knowledge, we can work in a structured way. We can define logic that can be tested. Well tested. With test code that not only becomes as important as the code we ship, but also as understandable, as readable.
 
