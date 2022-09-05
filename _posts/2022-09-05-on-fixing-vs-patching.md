@@ -43,7 +43,7 @@ Documentation, too, can help finding issues, non-expected outputs, and bugs, too
 
 # Patching
 
-... or, not. It just seems to happen that we’ll not always find the underlying issue. Understand what’s responsible for that crash. Get the time to investigate something not criticial enough at that point in time.
+... or, not. It just seems to happen that we’ll not always find the underlying issue, understand what’s responsible for that crash, or get the time to investigate something not criticial enough at that point in time.
 
 What I’ve seen happen in this case, from time to time, is that rather than _fixing_ the issue, we _patch_ it. Whilst you could argue that patching something would also fix it, what I mean with patching is the fact of preventing the issue at hand without having a full understanding of why it happens in the first place.
 
