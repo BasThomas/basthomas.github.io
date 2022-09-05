@@ -37,7 +37,7 @@ While our code is _a_ form of documentation, we’re all humans, and we all thin
 
 When it comes to documentation, different things work (better) for different people. There’s no one way to document things. One might prefer video content over documentation that is written. Examples can make something tangible. That oh-so-understandable code does not hold up when someone unfamiliar with code is looking into things. Or your future self, not having used that programming language in a while.
 
-Having things documented in multiple forms can help keep things being picked up by different people, at their own speed, in their own way. And arguably, having that kind of track record of how we work (this, of course, applies to _much more_ than just fixing issues, like processes, decisions, and proposals), will help us keep a better understanding of our software.
+Having things documented in multiple forms can help keep things able to be picked up by different people, at their own speed, in their own way. And arguably, having that kind of track record of how we work (this, of course, applies to _much more_ than just fixing issues, like processes, decisions, and proposals), will help us keep a better understanding of our software.
 
 This applies to finding issues, non-expected outputs, and bugs, too. We certainly don’t always have a well-defined bug report, failing input, or other tangible information to guide us in the correct — or even _a_ — direction. And so we should be extra careful in tracing our steps, documenting our findings, and understanding our path from an issue being flagged to understanding it. To fixing it.
 
