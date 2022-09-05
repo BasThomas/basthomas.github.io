@@ -20,7 +20,7 @@ One of my favorite things in programming is being able to write a piece of softw
 
 It’s then, with that knowledge, we can work in a structured way. We can define logic that can be tested. Well tested. With test code that not only becomes as important as the code we ship, but also as understandable, as readable.
 
-The magic moment kicks in when an issue or (other) edge case is found — as it will eventually always will, even though our software was so well-defined. We’re humans after all, and we do seem to make mistakes.
+The magic moment kicks in when an issue or (other) edge case is found — as it eventually always will, even though our software was so well-defined. We’re humans after all, and we do seem to make mistakes.
 
 I digress... but now we can write a new test — with our now known failing input — and have that test fail. Of course. But this is great! We have a newly defined input with a certain unexpected output. We use our newfound knowledge to fix the bug, _et voilà_, the test passes. What a wonderful feeling.
 
