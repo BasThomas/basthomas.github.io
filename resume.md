@@ -14,7 +14,8 @@ Apple developer with a passion for platform work and accessibility.
 
 ### WeTransfer
 
-#### **November 2021 – current**
+#### **September 2022 – current** (senior iOS developer)
+#### **November 2021 – August 2022** (iOS developer)
 
 Working on the Transfer & Collect iOS apps, working on features like subscriptions.
 Responsible for accessibility on the Android and iOS mobile apps, providing guidance
@@ -34,11 +35,11 @@ The XING Technology Advisory Board helps leadership make strategic
 technology decisions so that XING can
 foresee technological trends, develop products sustainably, and build employer brand.
 
-#### **September 2018 – October 2020** (iOS Platform Team)
+#### **September 2018 – October 2020** (iOS Platform Team  — iOS developer)
 
 As a member of the iOS Platform team my focus is to make product engineers more effective. This includes supporting and socializing good standards across the organization, often through code review, such as good API design. I have also been working on the XING design system, building in accessibility from the beginning.
 
-#### **August 2017 – September 2018** (Mobile Releases Team)
+#### **August 2017 – September 2018** (Mobile Releases Team — iOS developer)
 
 Founding member of the mobile release team, working on iOS, Android tooling, release management and continuous
 integration infrastructure. This work supported a bi-weekly release train on both platforms. We automated much of the release process, improving developer efficiency and release stability.
