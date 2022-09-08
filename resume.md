@@ -19,7 +19,7 @@ Apple developer with a passion for platform work and accessibility.
 
 Working on the Transfer & Collect iOS apps, working on features like subscriptions.
 Responsible for accessibility on the Android and iOS mobile apps, providing guidance
-and training. Implemented support for screen readers and voice and keyboard input.
+and training. Implemented support for screen readers, voice and keyboard input, and more.
 
 ### Apple
 
