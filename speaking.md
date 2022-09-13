@@ -33,7 +33,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Sep 15-16, 2022 | Bas: my Accessibility Story | Talk | [NSSpain](https://nsspain.com) | Logroño, Spain |
+| Sep 15, 2022 | Bas: my Accessibility Story | Talk | [NSSpain](https://nsspain.com) | Logroño, Spain |
 
 
 ### Past
