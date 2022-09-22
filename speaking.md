@@ -39,7 +39,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
-| Sep 15, 2022 | Bas: my Accessibility Story | Talk | [NSSpain](https://nsspain.com) | Logroño, Spain | - | TBA |
+| Sep 15, 2022 | Bas: my Accessibility Story | Talk | [NSSpain](https://nsspain.com) | Logroño, Spain | - | [x](https://vimeo.com/751176747) |
 | Aug 17, 2022 | Building a modern subscription experience on iOS | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany | [x](https://speakerdeck.com/basthomas/building-a-modern-subscription-experience-on-ios) | TBA |
 | Aug 10, 2022 | Not an afterthought: accessibility from start to finish | Talk | GitHub | Amsterdam, the Netherlands | [x](https://speakerdeck.com/basthomas/not-an-afterthought-accessibility-from-start-to-finish) | - |
 | Jun 23, 2022 | Accessibility on Apple Platforms: Beyond VoiceOver | Workshop | [Appdevcon](https://appdevcon.nl) | Amsterdam, the Netherlands | [x](https://speakerdeck.com/basthomas/accessibility-on-apple-platforms-beyond-voiceover) | - |
