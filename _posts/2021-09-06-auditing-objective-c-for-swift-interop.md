@@ -1,16 +1,9 @@
 ---
 layout: post
 permalink: objc-swift-interop-auditing
-title: 'Dancing with Dinosaurs I: Auditing Objective-C for Swift Interoperability'
+title: 'Dancing with Dinosaurs: Auditing Objective-C for Swift Interoperability'
 tags: [swift, objc, interop]
 ---
-
-- Dancing with Dinosaurs I: Auditing Objective-C for Swift Interoperability (this post)
-- Dancing with Dinosaurs II: Exposing your Swift types to Objective-C (forthcoming)
-- Dancing with Dinosaurs III: Advanced Interoperability (forthcoming)
-
----
-<br />
 
 # Table of Contents
 
@@ -513,13 +506,4 @@ open var functions: [String] { get }
 ## ... So Now What?
 
 Well, this is a great start in making your Objective-C code interoperable with
-Swift. If you want to read (or watch) more on the topic, you can read the other
-blog posts in this series as they are released. I also very much recommend the
-WWDC session [Refine Objective-C frameworks for Swift](https://developer.apple.com/videos/play/wwdc2020/10680/).
-
----
-<br />
-
-- Dancing with Dinosaurs I: Auditing Objective-C for Swift Interoperability (this post)
-- Dancing with Dinosaurs II: Exposing your Swift types to Objective-C (forthcoming)
-- Dancing with Dinosaurs III: Advanced Interoperability (forthcoming)
+Swift. To go deeper into this topic, I very much recommend the WWDC session [Refine Objective-C frameworks for Swift](https://developer.apple.com/videos/play/wwdc2020/10680/).
