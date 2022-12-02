@@ -28,10 +28,6 @@ I know there are a few companies that still write Objective-C, as well as
 projects that still have so called "legacy" Objective-C code that they may not
 want to rewrite... but _do_ want to use from Swift.
 
-While I'm not sure if this series of blog posts will end up being a "source"
-to reference when it comes to Objective-C interop... but I hope it can teach
-you some things regardless.
-
 # Generated Interfaces
 
 Before going through certain aspects of annotating your Objective-C headers
