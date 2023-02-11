@@ -95,6 +95,11 @@ and looking at the aforementioned iOS on Mac and Catalyst and how they work,
 they will change certain behaviors compared to on iOS. So: always test on actual
 iOS devices, too, and take those as your source of truth.
 
+And oh yeah... I've just been reminded how lucky we are that the iOS screen
+recording automatically includes Voice Control and VoiceOver sounds... which
+is not true for macOS. Guess I'll add that to the pile of Feedbacks to file as
+a result of writing this.
+
 ---
 <br />
 
