@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: cheating-the-system-for-fun-and-profit
-title: 'Cheating the System for Fun and Profit'
+title: 'Cheating the System for Fun and Profit (or how to use macOS Assistive Technologies to test in the Simulator)'
 tags: [accessibility]
 ---
 
