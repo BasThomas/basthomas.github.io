@@ -141,5 +141,5 @@ a result of writing this.
 
 I'd love to hear from you if you've tried this out!
 
-_Special thanks to Chris Wu and Nathan Tannar for their proofreading and
-feedback!_
+_Special thanks to Chris Wu, Nathan Tannar and Rob Whitaker for their
+proofreading and feedback!_
