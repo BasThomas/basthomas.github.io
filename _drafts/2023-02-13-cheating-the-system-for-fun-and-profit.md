@@ -5,10 +5,12 @@ title: 'Cheating the System for Fun and Profit (or how to use macOS Assistive Te
 tags: [accessibility]
 ---
 
-Okay, that title might just be a little bit of clickbait. The idea is to use
-macOS VoiceOver and Hover Text to navigate through Xcode's simulator, helping
-test your (iOS) app without having to take out your iOS device... mostly. But
-we'll get to that.
+Let's take a look at how we can use macOS's assistive technologies, like
+VoiceOver and Voice Control, as well as Hover Text, to more easily check some
+accessibility in the simulator, without having to deal with the (shortcomings
+of) the Accessibility Inspector. This will help you not having to always
+immediately run your device on an iOS device to test it... mostly. But we'll get
+to that.
 
 <!--more-->
 
