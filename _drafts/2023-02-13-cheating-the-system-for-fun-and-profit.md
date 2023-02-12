@@ -80,10 +80,11 @@ cursor... to our iOS app!
 
 ![Navigating into the iOS app running on the simulator using macOS VoiceOver.](./assets/blog-assets/(into-ios.mov)
 
-You can already tell the... awkward bits that come with this. No idea why the
-VoiceOver cursor is off — it normally works okay, but apparently not in the
-simplest of demo applications. Rest assured, things work. We can activate the
-button, and we can verify VoiceOver labels and elements.
+You can already tell the... awkward bits that come with this, underlining the
+importance of treating iOS devices as the source of truth in all cases. I have
+no idea why the VoiceOver cursor is off — it normally works okay, but
+apparently not in the simplest of demo applications. Rest assured, things work.
+We can activate the button, and we can verify VoiceOver labels and elements.
 
 Voice Control also works, but the element position is out of whack there too,
 by the looks of it.
