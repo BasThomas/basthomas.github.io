@@ -6,10 +6,31 @@ tags: [accessibility]
 ---
 
 Okay, that title might just be a little bit of clickbait. The idea is to use
-macOS VoiceOver to navigate through Xcode's simulator, helping test your (iOS)
-app without having to take out your iOS device... mostly. But we'll get to that.
+macOS VoiceOver and Hover Text to navigate through Xcode's simulator, helping
+test your (iOS) app without having to take out your iOS device... mostly. But
+we'll get to that.
 
 <!--more-->
+
+## Hover Text
+
+Hover Text is a macOS feature that let's you view text at larger sizes,
+typically using a modifier key and hovering over the text or element (hence the
+name). What's neat about it, is that is will show you the accessibility label
+of any element, not just text, including in the iOS simulator. Meaning Hover
+Text can be a rather quick and frictionless way to get an idea of elements not
+having an accessibility label, or having an awkward one. You can find Hover Text
+under System Settings (or System Preferences if you're not yet running macOS 13
+Ventura) > Accessibility > Zoom > Hover Text.
+
+![Hover Text in the macOS system settings.](./assets/blog-assets/(hover-text.png)
+
+And this is what Hover Text looks like in practice, here as seen in the
+simulator.
+
+![Hover Text in the macOS system settings.](./assets/blog-assets/(hover-text-in-simulator.png)
+
+A neat start, but let's take a look at macOS VoiceOver next...
 
 ## macOS VoiceOver?! I've never used that!
 
@@ -18,9 +39,8 @@ iOS, there's a chance you're not familiar with VoiceOver on macOS — I wasn't
 until joining the macOS Accessibility team at Apple. There's certainly a bit of
 a learning curve, which people familiar with iOS VoiceOver will probably know.
 
-System Settings (or System Preferences if you're not yet running macOS 13
-Ventura) > Accessibility > VoiceOver > Open VoiceOver Training... is a good
-place to start, but let's go over an even quicker quickstart.
+System Settings > Accessibility > VoiceOver > Open VoiceOver Training... is a
+good place to start, but let's go over an even quicker quickstart.
 
 ### macOS VoiceOver quickstart
 
