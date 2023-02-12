@@ -108,10 +108,13 @@ bit more macOS VoiceOver magic. Let's take a look first:
 
 You might have been able to read along with the caption panel, but to show the
 entries for custom content, use your VoiceOver modifier keys, plus `⌘`, plus
-`/`. These menu-style actions are what are the equivalent of iOS Rotors. And so
-as you might imagine, this only scratches the surface of the capabilities of
-just rotors on macOS. Ah, the power of macOS VoiceOver... perhaps that'll leave
-you wanting to explore it further.
+`/`. You can then navigate through them using just arrow the up and down arrow
+keys, without any modifiers.
+
+These menu-style actions are what are the equivalent of iOS Rotors. And so as
+you might imagine, this only scratches the surface of the capabilities of just
+rotors on macOS. Ah, the power of macOS VoiceOver... perhaps that'll leave you
+wanting to explore it further.
 
 ## With great power...
 
