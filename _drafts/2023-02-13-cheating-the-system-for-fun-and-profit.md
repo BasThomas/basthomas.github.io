@@ -112,10 +112,20 @@ you wanting to explore it further.
 So all in all, I admit this is a rather niche way of testing your iOS apps for
 accessibility. And beware, as like (unfortunately) is also true for the
 accessibility inspector, only an actual iOS device is going to give you the
-exact experience your user has. macOS is, as we know, quite different from iOS,
-and looking at the aforementioned iOS on Mac and Catalyst and how they work,
-they will change certain behaviors compared to on iOS. So: always test on actual
-iOS devices, too, and take those as your source of truth.
+exact experience your user has.
+
+macOS is, as we know, quite different from iOS, and looking at the
+aforementioned iOS on Mac and Catalyst and how they work, they will change
+certain behaviors compared to on iOS. A major example is navigation: whilst on
+iOS we have a (mostly) flat structure, macOS knows a rich, hierarchical
+structure. What does that mean, you might wonder? Well, containers like table
+and collection views are to be drilled into. Where on iOS you'll navigate a
+table view cell by cell (unless you have a (custom) rotor), on macOS you'll be
+drilling into it using the VoiceOver keys plus down arrow (to enter), and up
+arrow (to exit).
+
+So: always test on actual iOS devices, too, and take those as your source of
+truth.
 
 And oh yeah... I've just been reminded how lucky we are that the iOS screen
 recording automatically includes Voice Control and VoiceOver sounds... which
