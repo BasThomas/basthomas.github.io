@@ -120,9 +120,15 @@ and custom content.)
 
 ## With great power...
 
-So all in all, I admit this is a rather niche way of testing your iOS apps for
-accessibility. And beware, as like (unfortunately) is also true for the
-accessibility inspector, only an actual iOS device is going to give you the
+Making use of the tools we have to help ourselves is something I really like
+exploring. Sometimes things don't work out, other times we take away these
+(little) things that can help our workflows and more. I've been using these
+tricks to drastically improve my testing workflows... and to have a lot of fun!
+
+Whilst these tricks are a niche way of testing your iOS apps for accessibility,
+I feel they are great to know about and add to your toolbelt. But beware, as
+like (unfortunately) is also true for the accessibility inspector, [only an
+actual iOS device](/custom-tab-bar-accessibility) is going to give you the
 exact experience your user has.
 
 macOS is, as we know, quite different from iOS, and looking at the
