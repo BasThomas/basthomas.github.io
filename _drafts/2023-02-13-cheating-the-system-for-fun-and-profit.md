@@ -88,9 +88,9 @@ explore it further.
 ## With great power...
 
 So all in all, I admit this is a rather niche way of testing your iOS apps for
-accessibility. And beware, as, like (unfortunately) is also true for the
+accessibility. And beware, as like (unfortunately) is also true for the
 accessibility inspector, only an actual iOS device is going to give you the
-exact experience your user has — macOS is, as we know, quite different from iOS,
+exact experience your user has. macOS is, as we know, quite different from iOS,
 and looking at the aforementioned iOS on Mac and Catalyst and how they work,
 they will change certain behaviors compared to on iOS. So: always test on actual
 iOS devices, too, and take those as your source of truth.
@@ -103,4 +103,7 @@ a result of writing this.
 ---
 <br />
 
-I'd love to hear from you if you've tried this out! 
+I'd love to hear from you if you've tried this out!
+
+_Special thanks to Chris Wu and Nathan Tannar for their proofreading and
+feedback!_
