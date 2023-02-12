@@ -38,10 +38,11 @@ A neat start, but let's take a look at macOS VoiceOver next...
 
 ## macOS VoiceOver?! I've never used that!
 
-So yeah, this trick is certainly a bit for power users. If you build apps for
-iOS, there's a chance you're not familiar with VoiceOver on macOS — I wasn't
-until joining the macOS Accessibility team at Apple. There's certainly a bit of
-a learning curve, which people familiar with iOS VoiceOver will probably know.
+Using macOS VoiceOver to test your iOS app on the simulator is a bit of a power
+user trick. If you build apps for iOS, there's a chance you're not familiar with
+VoiceOver on macOS — I wasn't until joining the macOS Accessibility team at
+Apple. There's a steep learning curve, which people familiar with iOS VoiceOver
+will probably know.
 
 System Settings > Accessibility > VoiceOver > Open VoiceOver Training... is a
 good place to start, but let's go over an even quicker quickstart.
