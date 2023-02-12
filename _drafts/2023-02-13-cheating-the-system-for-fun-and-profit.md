@@ -28,7 +28,7 @@ Ventura) > Accessibility > Zoom > Hover Text.
 And this is what Hover Text looks like in practice, here as seen in the
 simulator.
 
-![Hover Text in the macOS system settings.](./assets/blog-assets/(hover-text-in-simulator.png)
+![Hover Text in the simulator.](./assets/blog-assets/(hover-text-in-simulator.png)
 
 A neat start, but let's take a look at macOS VoiceOver next...
 
