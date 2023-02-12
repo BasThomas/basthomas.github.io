@@ -114,7 +114,9 @@ keys, without any modifiers.
 These menu-style actions are what are the equivalent of iOS Rotors. And so as
 you might imagine, this only scratches the surface of the capabilities of just
 rotors on macOS. Ah, the power of macOS VoiceOver... perhaps that'll leave you
-wanting to explore it further.
+wanting to explore it further. (Pro tip: the hints will help you gradually
+explore more options and actions as you come across them, like custom actions
+and custom content.)
 
 ## With great power...
 
