@@ -66,8 +66,8 @@ races. Try it out!
 ---
 <br />
 
-Activating things like buttons, as you might have guessed, is done with the
-modifiers keys and the space bar.
+Activating things like buttons is done with the modifiers keys and the space
+bar.
 
 That concludes our quickstart for now, let's get back to the (fun and) profit.
 
