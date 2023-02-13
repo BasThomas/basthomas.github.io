@@ -27,12 +27,12 @@ having an accessibility label, or having an awkward one. You can find Hover Text
 under System Settings (or System Preferences if you're not yet running macOS 13
 Ventura) > Accessibility > Zoom > Hover Text.
 
-![Hover Text in the macOS system settings.](./assets/blog-assets/hover-text.png)
+<img src="./assets/blog-assets/hover-text.png" alt="Hover Text in the macOS system settings." width="750"/>
 
 And this is what Hover Text looks like in practice, here as seen in the
 simulator.
 
-![Hover Text in the simulator.](./assets/blog-assets/hover-text-in-simulator.png)
+<img src="./assets/blog-assets/hover-text-in-simulator.png" alt="Hover Text in the simulator." width="750"/>
 
 A neat start, but let's take a look at macOS VoiceOver next...
 
@@ -78,7 +78,9 @@ the same thing the simulator does, and how Catalyst apps work. And so we can
 leverage this with the Simulator app, simply by navigating our macOS VoiceOver
 cursor... to our iOS app!
 
-![Navigating into the iOS app running on the simulator using macOS VoiceOver.](./assets/blog-assets/into-ios.mov)
+<video width="750" controls alt="Navigating into the iOS app running on the simulator using macOS VoiceOver.">
+  <source src="./assets/blog-assets/into-ios.mov" type="video/mov">
+</video>
 
 You can already tell the... awkward bits that come with this, underlining the
 importance of treating iOS devices as the source of truth in all cases. I have
@@ -89,7 +91,9 @@ We can activate the button, and we can verify VoiceOver labels and elements.
 Voice Control also works, but the element position is out of whack there too,
 by the looks of it.
 
-![Navigating the iOS app running on the simulator using macOS Voice Control.](./assets/blog-assets/voice-control-macos.mov)
+<video width="750" controls alt="Navigating the iOS app running on the simulator using macOS Voice Control.">
+  <source src="./assets/blog-assets/voice-control-macos.mov" type="video/mov">
+</video>
 
 What's neat about this, is that it gives us a little more options than with the
 Accessibility Inspector, although as you can see, either are going to have some
@@ -104,7 +108,9 @@ Alright, let me also give an example using custom content, as that is something
 that you can't verify with the accessibility inspector. It also requires a tiny
 bit more macOS VoiceOver magic. Let's take a look first:
 
-![Showing custom content in an iOS app with macOS VoiceOver.](./assets/blog-assets/custom-content.mov)
+<video width="750" controls alt="Showing custom content in an iOS app with macOS VoiceOver.">
+  <source src="./assets/blog-assets/custom-content.mov" type="video/mov">
+</video>
 
 You might have been able to read along with the caption panel, but to show the
 entries for custom content, use your VoiceOver modifier keys, plus `⌘`, plus
