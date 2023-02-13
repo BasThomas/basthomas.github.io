@@ -79,7 +79,7 @@ leverage this with the Simulator app, simply by navigating our macOS VoiceOver
 cursor... to our iOS app!
 
 <video width="750" controls alt="Navigating into the iOS app running on the simulator using macOS VoiceOver.">
-  <source src="./assets/blog-assets/into-ios.mov" type="video/mov">
+  <source src="./assets/blog-assets/into-ios.mov" type="video/mp4">
 </video>
 
 You can already tell the... awkward bits that come with this, underlining the
@@ -92,7 +92,7 @@ Voice Control also works, but the element position is out of whack there too,
 by the looks of it.
 
 <video width="750" controls alt="Navigating the iOS app running on the simulator using macOS Voice Control.">
-  <source src="./assets/blog-assets/voice-control-macos.mov" type="video/mov">
+  <source src="./assets/blog-assets/voice-control-macos.mov" type="video/mp4">
 </video>
 
 What's neat about this, is that it gives us a little more options than with the
@@ -109,7 +109,7 @@ that you can't verify with the accessibility inspector. It also requires a tiny
 bit more macOS VoiceOver magic. Let's take a look first:
 
 <video width="750" controls alt="Showing custom content in an iOS app with macOS VoiceOver.">
-  <source src="./assets/blog-assets/custom-content.mov" type="video/mov">
+  <source src="./assets/blog-assets/custom-content.mov" type="video/mp4">
 </video>
 
 You might have been able to read along with the caption panel, but to show the
