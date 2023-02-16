@@ -3,7 +3,10 @@ email: bas@basbroek.nl
 description: ""
 baseurl: ""
 url: https://www.basbroek.nl
-github_username: BasThomas
+
+social-network-links:
+  github: BasThomas
+  mastodon: iosdev.space/@bas
 
 excerpt_separator: <!--more-->
 
