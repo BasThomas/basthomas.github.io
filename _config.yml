@@ -4,7 +4,7 @@ description: ""
 baseurl: ""
 url: https://www.basbroek.nl
 
-github: BasThomas
+github_username: BasThomas
 mastodon:
 - username: bas
   instance: iosdev.space
