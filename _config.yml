@@ -4,9 +4,10 @@ description: ""
 baseurl: ""
 url: https://www.basbroek.nl
 
-social-network-links:
-  github: BasThomas
-  mastodon: iosdev.space/@bas
+github: BasThomas
+mastodon:
+- username: bas
+  instance: iosdev.space
 
 excerpt_separator: <!--more-->
 
