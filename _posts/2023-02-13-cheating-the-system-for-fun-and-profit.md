@@ -9,7 +9,7 @@ Let's take a look at how we can use macOS's assistive technologies, like
 VoiceOver and Voice Control, as well as Hover Text, to more easily check some
 accessibility in the simulator, without having to deal with the (shortcomings
 of) the Accessibility Inspector. This will help you not having to always
-immediately run your device on an iOS device to test it... mostly — the
+immediately run your app on an iOS device to test it... mostly — the
 experience on an iOS device should still be your source of truth because of
 certain differences between the platforms, even within an iOS app on the Mac.
 But we'll get to that.
