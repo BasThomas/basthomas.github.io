@@ -200,8 +200,8 @@ trait of the "active" tab bar item.
 ## Conclusion
 
 Phew. Though there are a bunch of gotchas when it comes to making a custom tab
-bar accessible, it is certainly possible. The good thing that it all works for
-the end user. The not so great thing is that implementing it isn't
+bar accessible, it is certainly possible. The good thing is that it all works
+for the end user. The not so great thing is that implementing it isn't
 straightforward, and the usual tools like the Accessibility Inspector will give
 you wrong information.
 
