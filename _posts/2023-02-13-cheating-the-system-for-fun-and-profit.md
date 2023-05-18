@@ -18,7 +18,7 @@ But we'll get to that.
 
 ## Hover Text
 
-Hover Text is a macOS feature that let's you view text at larger sizes,
+Hover Text is a macOS feature that lets you view text at larger sizes,
 typically using a modifier key and hovering over the text or element (hence the
 name). What's neat about it, is that is will show you the accessibility label
 of any element, not just text, including in the iOS simulator. Meaning Hover
