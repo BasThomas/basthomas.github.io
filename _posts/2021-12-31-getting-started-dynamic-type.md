@@ -24,11 +24,10 @@ you're limited on space and can't really show a larger font.
 
 ## Introduction
 
-The [typography](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/#dynamic-type-sizes)
-documentation in Apple's Human Interface Guidelines gives you a good idea of
+The [typography documentation](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/#dynamic-type-sizes)
+in Apple's Human Interface Guidelines gives you a good idea of
 the thought process behind typography as a whole, and Dynamic Type specifically,
-with [another page](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/text-size-and-weight/)
-giving more accessibility-specific information on how to deal with text.
+with another page giving more [accessibility-specific information on how to deal with text](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/text-size-and-weight/).
 
 The good news about Dynamic Type is that it _almost_ comes out of the box. The
 bad news is the _almost_.
