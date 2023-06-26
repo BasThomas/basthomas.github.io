@@ -33,7 +33,9 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Sep 27-29, 2023 | Paving the way to a More Accessible WeTransfer | Talk | [DEVWorld](https://devworldconference.com) | Amsterdam, the Netherlands |
+| TBA |
+
+<!-- | Sep 27-29, 2023 | Paving the way to a More Accessible WeTransfer | Talk | [DEVWorld](https://devworldconference.com) | Amsterdam, the Netherlands | -->
 
 ### Past
 
