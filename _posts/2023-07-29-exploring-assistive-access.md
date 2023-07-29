@@ -47,7 +47,7 @@ from both the "Phone" and "FaceTime" apps in one app — neat!
 ### 3rd Party Apps
 
 For third party apps, I was delighted to see that, whereas they are not
-optmized, we can still set them up specifically for Assistive Access. For
+optimized, we can still set them up specifically for Assistive Access. For
 example by settings its language, and allowing access to things like Camera,
 Contacts, Live Activities, etc. — depending on what the app supports, of course.
 
