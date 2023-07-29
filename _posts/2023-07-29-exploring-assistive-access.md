@@ -126,3 +126,5 @@ Furthermore, I am so proud of all the people that have worked, and are working,
 on this new assistive technology. You know who you are; you rock!
 
 And now we patiently wait for some more APIs to optimize third party apps..!
+
+<sub>Thanks _so much_ to James Sherlock for proofreading!</sub>
