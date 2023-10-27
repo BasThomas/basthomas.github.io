@@ -33,7 +33,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| TBA |
+| Nov 9, 2023 | TBA | Talk | TBA | Naples, Italy |
 
 <!-- | Sep 27-29, 2023 | Paving the way to a More Accessible WeTransfer | Talk | [DEVWorld](https://devworldconference.com) | Amsterdam, the Netherlands | -->
 
