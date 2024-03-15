@@ -41,7 +41,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
-| Nov 9, 2023 | (Apple) Accessibility at WeTransfer (with [Lina Ruiz](https://nl.linkedin.com/in/linamruiz/en)) | Talk | TBA | Naples, Italy | - | - |
+| Nov 9, 2023 | (Apple) Accessibility at WeTransfer (with [Lina Ruiz](https://nl.linkedin.com/in/linamruiz/en)) | Talk | [Apple Academy Naples](https://www.developeracademy.unina.it/en/)| Naples, Italy | - | - |
 | Sep 15, 2022 | Bas: my Accessibility Story | Talk | [NSSpain](https://nsspain.com) | Logroño, Spain | - | [x](https://vimeo.com/751176747) |
 | Aug 17, 2022 | Building a modern subscription experience on iOS | Talk | [SwiftConf](https://swiftconf.com) | Cologne, Germany | [x](https://speakerdeck.com/basthomas/building-a-modern-subscription-experience-on-ios) | [x](https://www.youtube.com/watch?v=0n97mS4Fw5A) |
 | Aug 10, 2022 | Not an afterthought: accessibility from start to finish | Talk | GitHub | Amsterdam, the Netherlands | [x](https://speakerdeck.com/basthomas/not-an-afterthought-accessibility-from-start-to-finish) | - |
