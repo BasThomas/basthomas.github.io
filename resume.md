@@ -17,8 +17,8 @@ Apple developer with a passion for platform work and accessibility.
 #### **September 2022 – current** (senior iOS developer)
 #### **November 2021 – August 2022** (iOS developer)
 
-Working on the Transfer & Collect iOS apps, working on features like subscriptions.
-Responsible for accessibility on the Android and iOS mobile apps, providing guidance
+Working on the Collect & Transfer iOS and macOS apps, working on features like subscriptions.
+Championing accessibility on Android, iOS, macOS and web, providing guidance
 and training. Implemented support for screen readers, voice and keyboard input, and more.
 
 ### Apple
