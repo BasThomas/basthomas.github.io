@@ -33,7 +33,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| TBA |
+| Sep 2-5, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [iOSDevUK](https://www.iosdevuk.com) | Aberystwyth, Wales |
 
 <!-- | Sep 27-29, 2023 | Paving the way to a More Accessible WeTransfer | Talk | [DEVWorld](https://devworldconference.com) | Amsterdam, the Netherlands | -->
 
