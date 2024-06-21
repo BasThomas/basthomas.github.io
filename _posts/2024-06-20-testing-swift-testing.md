@@ -111,13 +111,17 @@ let result = try XCTUnwrap(myOptional)
 // becomes
 
 let result = try #require(myOptional)
+```
 
+```swift
 XCTFail("You shall not pass")
 
 // becomes
 
 Issue.record("You shall not pass")
+```
 
+```swift
 XCTAssertTrue(
     true, 
     file: #file, // StaticString
@@ -135,7 +139,9 @@ XCTAssertTrue(
         column: #column // Int
     )
 )
+```
 
+```swift
 XCTAssertEqual(1.0, 1.0, accuracy: 0.1)
 
 // becomes... tricky. Apple recommends to use `isApproximatelyEqual()` from
