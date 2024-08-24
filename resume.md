@@ -6,7 +6,7 @@ permalink: /curriculum-vitae/
 
 **Bas Thomas Broek**
 
-bas@basbroek.nl | iosdev.space/@bas | github.com/BasThomas | basbroek.nl
+bas@basbroek.nl | iosdev.space/@bas | github.com/BasThomas | https://www.linkedin.com/in/bas-broek-131a14320/ | basbroek.nl
 
 Apple developer with a passion for platform work and accessibility.
 
