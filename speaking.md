@@ -33,7 +33,8 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Oct 8-9, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [SwiftLeeds](https://swiftleeds.co.uk) | Leeds, United Kingdom |
+| Sep 23, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [Swift Connection](https://swiftconnection.io/) | Paris, France |
+| Oct 8, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [SwiftLeeds](https://swiftleeds.co.uk) | Leeds, United Kingdom |
 
 <!-- | Sep 27-29, 2023 | Paving the way to a More Accessible WeTransfer | Talk | [DEVWorld](https://devworldconference.com) | Amsterdam, the Netherlands | -->
 
