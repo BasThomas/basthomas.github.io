@@ -150,9 +150,9 @@ in our case is just some text. Not the dismiss button, not the survey button.
 
 Well, that's awkward.
 
-Now, _technically_ the user could in this case say "show actions for [element]",
-for which we can at least optimize the `[element]`, which is now that long
-label:
+Now, _technically_ the user could in this case say "show actions for
+`[element]`", for which we can at least optimize the `[element]`, which is now
+that long label:
 
 ```swift
 VStack {
