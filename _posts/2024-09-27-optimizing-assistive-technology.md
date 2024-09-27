@@ -5,10 +5,9 @@ title: 'Optimizing for VoiceOver and Voice Control'
 tags: [swift, accessibility]
 ---
 
-I've [spoken about the layering system in accessibility](https://www.youtube.com/watch?v=-RVvjDUhUA0).
-This referring to VoiceOver support being a good first step toward supporting
-Voice Control, and Voice Control in turn being a good start in supporting
-Full Keyboard Access.
+I've [spoken about the layering system in accessibility](https://www.youtube.com/watch?v=-RVvjDUhUA0), 
+with VoiceOver support being a good first step toward supporting Voice Control,
+and Voice Control in turn being a good start in supporting Full Keyboard Access.
 
 I stand by this! Things like labels, traits and values get you most of the way
 there for Voice Control. We optimize for Voice Control (and Full Keyboard
@@ -46,7 +45,7 @@ With the component looking something like this[^1]:
 
 ![The survey cell showing a title, description, dismiss button and "take survey" button.](./assets/blog-assets/survey-cell.png)
 
-Initially, all elements were there own elements. The title, description, and two
+Initially, all elements were their own elements. The title, description, and two
 buttons were separate.
 
 The accessibility tree looked like this:
@@ -135,15 +134,16 @@ Control interaction awkward.
 
 # Voice Control
 
-In VoiceOver, this could be spoken as "We'd love your feedback [..], button,
-actions available". It'd indicate the text, that it is a button (and can be
-interacted with), _and_ that it has (other) actions.
+In VoiceOver, this could be spoken as "We'd love your feedback, What do you
+think of Save for Later?, button, actions available". It would indicate that the
+text is a button that can be interacted with, _and_ that the button has (other)
+actions.
 
 But for Voice Control, we now have a... challenge. How can we interact with
-either button, now we have just one element?
+either button, now that we have just one element?
 
-Technically, the whole element is a button. So we could try to activate...
-something that way?
+Technically, the whole element is a button. So we could try to activate
+something that way? But what would that something be and do?
 
 Well, Voice Control will generate an event... in the center of the view. Which
 in our case is just some text. Not the dismiss button, not the survey button.
@@ -165,17 +165,17 @@ VStack {
 .accessibilityInputLabels(["Take survey"])
 ```
 
-Now the user an at least say "show actions for take survey", and they would then
-be able to either take the survey or dismiss it.
+Now the user can at least say "show actions for take survey", and they would
+then be able to either take the survey or dismiss it.
 
 Unfortunately, the only way to visually indicate there are actions for an
-element, is to use "show numbers". And only on iOS[^2] does it indicate a
-"double arrow"... which as far as I know is undocumented, so a user would
-somehow need to be using "show numbers" (and not "show labels") _and_ know what
-this double arrow represents.
+element is to use "show numbers". And only on iOS[^2] does it indicate a
+"double arrow"... which as far as I know is undocumented. In other words, a
+user would somehow need to be using "show numbers" (and not "show labels")
+_and_ know what this double arrow represents.
 
-But that leaves us with the "ghost" action (which is the most prominent one),
-being "Take survey", which actually doesn't result in doing anything.
+But that leaves us with "Take survey" as a "ghost" action. Despite being the
+most prominent option, it now doesn't actually do anything.
 
 I can see a world where "Take survey" would result in actually showing the two
 underlying actions, but that comes with its own array of problems, so perhaps
@@ -185,6 +185,24 @@ And so with that, I decided to revert to the version that does combine title and
 description, but otherwise leaves the component alone. Perhaps not the "perfect"
 solution for VoiceOver, but a decent one that then also allows for a great
 Voice Control experience.
+
+```swift
+VStack {
+    VStack {
+        title
+        description
+    }
+    .accessibilityElement(children: .combine)
+    surveyButton
+}
+.overlay(alignment: .topTrailing) {
+    dismissButton
+        // To make sure assistive technologies navigate to the dismiss button
+        // within this view last, essentially ignoring the heuristic of this
+        // being the "first" element in the view.
+        .accessibilitySortPriority(-1)
+}
+```
 
 # Closing thoughts
 
