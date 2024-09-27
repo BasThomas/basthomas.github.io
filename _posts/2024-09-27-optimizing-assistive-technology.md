@@ -213,6 +213,10 @@ for actions that work across platforms, for example.
 But for now, we'll have to make do with some limitations, especially when trying
 to optimize for multiple assistive technologies.
 
+---
+
+<sub>Thanks _so much_ to [Swaan](https://github.com/swaan-miller)
+for proofreading!</sub>
 
 [^1]: I'm clearly not (cut out to be) a designer.
 [^2]: As far as I know this only works on iOS. It does not work on macOS; I'm not entirely sure of platforms like visionOS, tvOS, and watchOS.
