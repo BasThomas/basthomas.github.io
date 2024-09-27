@@ -22,7 +22,7 @@ A while ago, I was building a component to allow users to participate in a
 survey, and it was an example where I ran into issues trying to optimize for
 both VoiceOver and Voice Control, _because_ the two systems lean on each other.
 
-# Building a component to have users fill in a survey.
+# Building a survey component
 
 Based on certain conditions, we'd show a cell that would show a title, a
 description, and two buttons: one to launch the survey, and another to dismiss
