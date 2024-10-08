@@ -33,7 +33,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Oct 8, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [SwiftLeeds](https://swiftleeds.co.uk) | Leeds, United Kingdom |
+| TBA |
 
 <!-- | Sep 27-29, 2023 | Paving the way to a More Accessible WeTransfer | Talk | [DEVWorld](https://devworldconference.com) | Amsterdam, the Netherlands | -->
 
@@ -41,6 +41,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| Oct 8, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [SwiftLeeds](https://swiftleeds.co.uk) | Leeds, United Kingdom | [x](https://speakerdeck.com/basthomas/building-an-accessibility-culture-one-step-at-a-time-leeds) | TBA |
 | Sep 23, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [Swift Connection](https://swiftconnection.io/) | Paris, France | [x](https://speakerdeck.com/basthomas/building-an-accessibility-culture-one-step-at-a-time) | TBA |
 | Nov 9, 2023 | (Apple) Accessibility at WeTransfer (with [Lina Ruiz](https://nl.linkedin.com/in/linamruiz/en)) | Talk | [Apple Academy Naples](https://www.developeracademy.unina.it/en/)| Naples, Italy | - | - |
 | Sep 15, 2022 | Bas: my Accessibility Story | Talk | [NSSpain](https://nsspain.com) | Logroño, Spain | - | [x](https://vimeo.com/751176747) |
