@@ -86,9 +86,9 @@ Moya is a network abstraction layer written in Swift. I contributed to
 this project by improving their documentation, migration from Swift 2 to 3, as well as providing technical support for developers.
 
 ## Talks
+- Building an Accessibility Culture, One Step at a Time @ Swift Connection 2024, France
+- (Apple) Accessibility at WeTransfer @ Apple Academy Naples, 2023, Italy
 - Building XING’s Technology Advisory Board through GitHub @ GitHub Enterprise Roadshow Munich 2020, Germany
-- Writing Testable Code Workshop @ The Swift Alps 2019, Switzerland
-- An introduction to Accessibility on iOS: Better Apps For Everyone @ Swiftconf 2019, Germany
 - So You’re Writing a Framework... @ DO iOS 2018, the Netherlands
 
 More at https://basbroek.nl/speaking/
