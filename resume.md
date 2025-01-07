@@ -14,7 +14,7 @@ Apple developer with a passion for platform work and accessibility.
 
 ### WeTransfer
 
-#### **September 2022 – current** (senior iOS developer)
+#### **September 2022 – September 2024** (senior iOS developer)
 #### **November 2021 – August 2022** (iOS developer)
 
 Working on the Collect & Transfer iOS and macOS apps, working on features like subscriptions.
