@@ -12,6 +12,10 @@ Apple developer with a passion for platform work and accessibility.
 
 ## Work experience
 
+### Apple
+
+#### **January 2025 — current** (iOS & macOS accessibility engineer)
+
 ### WeTransfer
 
 #### **September 2022 – September 2024** (senior iOS developer)
