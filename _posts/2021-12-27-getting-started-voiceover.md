@@ -59,7 +59,7 @@ Siri: "Hey Siri, turn on VoiceOver" will get you off to the races. What's
 trickier is knowing how to navigate in VoiceOver. Apple Support made a great
 introduction video, that, honestly, is a must watch:
 
-[![How to navigate your iPhone or iPad with VoiceOver](http://img.youtube.com/vi/qDm7GiKra28/0.jpg)](https://www.youtube.com/watch?v=qDm7GiKra28 "How to navigate your iPhone or iPad with VoiceOver")
+[![How to navigate your iPhone or iPad with VoiceOver](http://img.youtube.com/vi/ROIe49kXOc8/0.jpg)](https://www.youtube.com/watch?v=ROIe49kXOc8v=qDm7GiKra28 "How to navigate your iPhone or iPad with VoiceOver")
 
 Now that you've seen some basic usage of VoiceOver — moving forward (with
 swipe-right), backward (with swipe-left), and activating items (by
