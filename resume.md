@@ -72,17 +72,6 @@ Bringing you an overview of what's been happening in open source Swift every oth
 Thursday. I was a long term contributor, and took over curation of the
 newsletter in January 2018.
 
-## Open Source Software
-I ❤️ OSS. Some projects I have been involved in:
-
-#### GitHawk
-
-Now superseded by GitHub's own app, GitHawk was an iOS app that made managing GitHub accounts and projects easier. I worked on improving accessibility, writing blog posts and developing new features.
-
-#### Moya
-Moya is a network abstraction layer written in Swift. I contributed to
-this project by improving their documentation, migration from Swift 2 to 3, as well as providing technical support for developers.
-
 ## Talks
 - Building an Accessibility Culture, One Step at a Time @ Swift Connection 2024, France
 - (Apple) Accessibility at WeTransfer @ Apple Academy Naples, 2023, Italy
