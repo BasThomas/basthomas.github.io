@@ -48,12 +48,6 @@ As a member of the iOS Platform team my focus is to make product engineers more 
 Founding member of the mobile release team, working on iOS, Android tooling, release management and continuous
 integration infrastructure. This work supported a bi-weekly release train on both platforms. We automated much of the release process, improving developer efficiency and release stability.
 
-### Internships
-- NU.nl, **February 2017 – June 2017**
-- Bringme, **July 2016 – October 2016**
-- iCulture, **September 2015 – August 2016**
-- Apostle, **December 2014 – July 2015**
-
 ## Education
 
 ### Fontys University of Applied Sciences
