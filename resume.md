@@ -55,23 +55,6 @@ integration infrastructure. This work supported a bi-weekly release train on bot
 
 Bachelor Computer Science.
 
-## Projects
-
-#### Swift for Good co-author
-
-Swift for Good is a book written by 20 top authors and speakers, with 100% of
-all revenue going to charity. I contributed a chapter on accessibility.
-
-#### raywenderlich.com Tech Editor, *June 2019 – July 2020*
-
-Technical editing of iOS articles for RayWenderlich.
-
-#### Swift Weekly Brief, *January 2018 – November 2020*
-
-Bringing you an overview of what's been happening in open source Swift every other
-Thursday. I was a long term contributor, and took over curation of the
-newsletter in January 2018.
-
 ## Talks
 - Building an Accessibility Culture, One Step at a Time @ Swift Connection 2024, France
 - (Apple) Accessibility at WeTransfer @ Apple Academy Naples, 2023, Italy
