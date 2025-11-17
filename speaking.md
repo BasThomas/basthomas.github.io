@@ -39,7 +39,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
-| Nov 13, 2025 | Roasting Your App's Accessibility | Talk | [Do iOS](https://www.do-ios.com) | Amsterdam, the Netherlands | [x]([https://speakerdeck.com/basthomas/building-an-accessibility-culture-one-step-at-a-time-leeds](https://speakerdeck.com/basthomas/roasting-your-apps-accessibility)) | TBD |
+| Nov 13, 2025 | Roasting Your App's Accessibility | Talk | [Do iOS](https://www.do-ios.com) | Amsterdam, the Netherlands | [x](https://speakerdeck.com/basthomas/roasting-your-apps-accessibility) | TBD |
 | Oct 8, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [SwiftLeeds](https://swiftleeds.co.uk) | Leeds, United Kingdom | [x](https://speakerdeck.com/basthomas/building-an-accessibility-culture-one-step-at-a-time-leeds) | [x](https://www.youtube.com/watch?v=GXLzeiS57vE) |
 | Sep 23, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [Swift Connection](https://swiftconnection.io/) | Paris, France | [x](https://speakerdeck.com/basthomas/building-an-accessibility-culture-one-step-at-a-time) | [x](https://www.youtube.com/watch?v=7YntmxGWF5Q) |
 | Nov 9, 2023 | (Apple) Accessibility at WeTransfer (with [Lina Ruiz](https://nl.linkedin.com/in/linamruiz/en)) | Talk | [Apple Academy Naples](https://www.developeracademy.unina.it/en/)| Naples, Italy | - | - |
