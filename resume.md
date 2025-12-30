@@ -92,7 +92,7 @@ develop products sustainably, and build employer brand.
 - **Moya** – Network abstraction layer for Swift
 - **Swift Weekly Brief** – Community newsletter curator
 
-## Selected talks
+## Selected Talks
 
 - **Building an Accessibility Culture, One Step at a Time** \| Swift Connection 2024, France
 - **(Apple) Accessibility at WeTransfer** \| Apple Academy Naples 2023, Italy
