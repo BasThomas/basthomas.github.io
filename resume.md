@@ -14,7 +14,7 @@ Apple developer with a passion for platform work and accessibility.
 
 ### Apple
 
-**iOS & macOS Accessibility Engineer** | _January 2025 – Present_
+**iOS & macOS Accessibility Engineer** \| _January 2025 – Present_
 
 Promoting and supporting accessibility, working with various teams throughout
 the entire lifecycle of projects on new features and solutions, providing
@@ -23,7 +23,7 @@ ensure accessibility compliance of internal products.
 
 ### WeTransfer
 
-**Senior iOS Engineer** | _November 2021 – September 2024_
+**Senior iOS Engineer** \| _November 2021 – September 2024_
 
 Working on the Collect & Transfer iOS and macOS apps, supporting >1m users including:
 
@@ -48,7 +48,7 @@ training and testing accessibility with users relying on assistive technologies.
 
 ### Apple
 
-**macOS Accessibility Engineer** | _November 2020 – September 2021_
+**macOS Accessibility Engineer** \| _November 2020 – September 2021_
 
 - Contributed to VoiceOver for macOS and catalyst, enhancing screen reader
 functionality for millions of users.
@@ -60,8 +60,8 @@ Messages and Maps.
 
 ### XING
 
-**iOS Engineer, Platform Team** | _September 2018 – October 2020_
-**iOS Engineer, Mobile Releases Team** | _August 2017 – September 2018_
+**iOS Engineer, Platform Team** \| _September 2018 – October 2020_
+**iOS Engineer, Mobile Releases Team** \| _August 2017 – September 2018_
 
 - Primary focus on improving the effectiveness of the ~40 person Apple team
 across the organization for an app with >16m users.
@@ -83,7 +83,7 @@ develop products sustainably, and build employer brand.
 
 ### Fontys University of Applied Sciences
 
-**Bachelor Computer Science** | _September 2013 – July 2017_
+**Bachelor Computer Science** \| _September 2013 – July 2017_
 
 ## Community Contributions
 
@@ -94,9 +94,9 @@ develop products sustainably, and build employer brand.
 
 ## Selected talks
 
-- **Building an Accessibility Culture, One Step at a Time** | Swift Connection 2024, France
-- **(Apple) Accessibility at WeTransfer** | Apple Academy Naples 2023, Italy
-- **Taken For Granted** | try! Swift NYC 2018, United States
-- **So You're Writing a Framework...** | DO iOS 2018, Netherlands
+- **Building an Accessibility Culture, One Step at a Time** \| Swift Connection 2024, France
+- **(Apple) Accessibility at WeTransfer** \| Apple Academy Naples 2023, Italy
+- **Taken For Granted** \| try! Swift NYC 2018, United States
+- **So You're Writing a Framework...** \| DO iOS 2018, Netherlands
 
 Complete speaking history at https://basbroek.nl/speaking/
