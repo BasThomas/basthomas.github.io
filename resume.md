@@ -60,7 +60,7 @@ Messages and Maps.
 
 ### XING
 
-**iOS Engineer, Platform Team** \| _September 2018 – October 2020_
+**iOS Engineer, Platform Team** \| _September 2018 – October 2020_<br />
 **iOS Engineer, Mobile Releases Team** \| _August 2017 – September 2018_
 
 - Primary focus on improving the effectiveness of the ~40 person Apple team
