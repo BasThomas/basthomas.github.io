@@ -98,5 +98,3 @@ develop products sustainably, and build employer brand.
 - **(Apple) Accessibility at WeTransfer** \| Apple Academy Naples 2023, Italy
 - **Taken For Granted** \| try! Swift NYC 2018, United States
 - **So You're Writing a Framework...** \| DO iOS 2018, Netherlands
-
-Complete speaking history at https://basbroek.nl/speaking/
