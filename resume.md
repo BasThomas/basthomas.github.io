@@ -14,7 +14,7 @@ Apple developer with a passion for platform work and accessibility.
 
 ### Apple
 
-**iOS & macOS Accessibility Engineer** \| _January 2025 – Present_
+**iOS & macOS Accessibility Engineer** \| _January 2025 – August 2026_
 
 - Conducting accessibility audits and providing technical guidance to
 engineering teams across the product development lifecycle.
