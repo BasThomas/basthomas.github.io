@@ -33,7 +33,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Aug 11, 2026 | Assistive Access: reinventing your app for new (sort of) generation | Talk | [DC iOS](https://www.meetup.com/dc-ios/) | Remote |
+| Aug 11, 2026 | Assistive Access: reinventing your app for a new (sort of) generation | Talk | [DC iOS](https://www.meetup.com/dc-ios/) | Remote |
 
 ### Past
 
