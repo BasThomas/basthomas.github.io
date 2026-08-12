@@ -39,7 +39,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
-| Aug 11, 2026 | Assistive Access: reinventing your app for a new (sort of) generation | Talk | [DC iOS](https://www.meetup.com/dc-ios/) | Remote | [x](https://speakerdeck.com/basthomas/assistive-access-reinventing-your-app-for-a-new-sort-of-generation) | TBA |
+| Aug 11, 2026 | Assistive Access: Reinventing Your App for a New (sort of) Generation | Talk | [DC iOS](https://www.meetup.com/dc-ios/) | Remote | [x](https://speakerdeck.com/basthomas/assistive-access-reinventing-your-app-for-a-new-sort-of-generation) | TBA |
 | Nov 13, 2025 | Roasting Your App's Accessibility | Talk | [Do iOS](https://www.do-ios.com) | Amsterdam, the Netherlands | [x](https://speakerdeck.com/basthomas/roasting-your-apps-accessibility) | - |
 | Oct 8, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [SwiftLeeds](https://swiftleeds.co.uk) | Leeds, United Kingdom | [x](https://speakerdeck.com/basthomas/building-an-accessibility-culture-one-step-at-a-time-leeds) | [x](https://www.youtube.com/watch?v=GXLzeiS57vE) |
 | Sep 23, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [Swift Connection](https://swiftconnection.io/) | Paris, France | [x](https://speakerdeck.com/basthomas/building-an-accessibility-culture-one-step-at-a-time) | [x](https://www.youtube.com/watch?v=7YntmxGWF5Q) |
