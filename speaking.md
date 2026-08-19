@@ -33,7 +33,7 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| TBA |
+| Oct 8, 2026 | Building an Accessibility Culture, One Step at a Time | Roundtable | [swiftCon](https://www.nextappcon.com/swiftcon) | Berlin, Germany |
 
 ### Past
 
