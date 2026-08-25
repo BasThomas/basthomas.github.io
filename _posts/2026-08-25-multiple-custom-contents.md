@@ -17,7 +17,7 @@ a (long) accessibility label, accessed through the rotor.
 
 # Custom Content in UIKit
 
-This API was introced for UIKit only at first. [It's API is a tad complex in
+This API was introced for UIKit only at first. [Its API is a tad complex in
 set up for UIKit](/improving-voiceover#custom-content), as I wrote about in the
 past. Whereas API like `accessibilityCustomActions` allows to be set directly
 on an `NSObject` (i.e. `myCell.accessibilityCustomActions = []`),
