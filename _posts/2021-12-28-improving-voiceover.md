@@ -38,8 +38,8 @@ though, that it is more than OK (and not unlikely) for it to be empty. Plus,
 it describes a value _of_ the element. So it wouldn't make too much sense
 to put in some data of a complicated cell, for example.
 
-Going back to the example of a tweet, it wouldn't make sense to put in, for
-example, the amount of likes; this is not a value of the element.
+Going back to the example of a social media post, it wouldn't make sense to put
+in, for example, the amount of likes; this is not a value of the element.
 
 ## Accessibility Hints
 
@@ -96,15 +96,15 @@ override func accessibilityPerformEscape() {
 
 ## Custom Actions
 
-Let's go back to imagining a tweet. It has replies, retweets, and likes; those
-are (already) three actions within one element; one cell. When directly
-interacting with it (outside of VoiceOver), we can activate those buttons as
-we would with any other button.
+Let's go back to imagining a social media post. It has replies, shares, and
+likes; those are (already) three actions within one element; one cell. When
+directly interacting with it (outside of VoiceOver), we can activate those
+buttons as we would with any other button.
 
 But in VoiceOver, while we could expose all of these buttons as separate
 elements, that would add a lot of elements to swipe through, and with that,
-possibly quite a lot of clutter. It's unlikely you'll want to reply to, retweet,
-and like every tweet you navigate to. So what can we do? Meet custom actions.
+possibly quite a lot of clutter. It's unlikely you'll want to reply to, share,
+and like every post you navigate to. So what can we do? Meet custom actions.
 
 Custom actions let you add, well, custom actions to accessibility elements.
 Actually, there's a few places where the system does this automatically already,
@@ -122,12 +122,12 @@ Mail.app, a note in Notes.app, and when in the Actions rotor, swiping up or
 down with one finger will guide you through the list of custom actions. From
 there, you can double tap to activate it.
 
-To add your own custom actions, like in our example with replying, retweeting,
+To add your own custom actions, like in our example with replying, sharing,
 and liking, use [`UIAccessibilityCustomAction`](https://developer.apple.com/documentation/uikit/uiaccessibilitycustomaction).
 
 ```swift
-let tweetCell = TweetCell()
-tweetCell.accessibilityCustomActions = [
+let socialMediaPostCell = SocialMediaPostCell()
+socialMediaPostCell.accessibilityCustomActions = [
     .init(
         name: NSLocalizedString("Reply", comment: ""),
         image: replyImage
@@ -136,12 +136,12 @@ tweetCell.accessibilityCustomActions = [
         return true
     },
     // don't forget to update the name and image of this action when it changes;
-    // i.e. "Undo retweet"
+    // i.e. "Undo share"
     .init(
-        name: NSLocalizedString("Retweet", comment: ""),
-        image: retweetImage
+        name: NSLocalizedString("Share", comment: ""),
+        image: shareImage
     ) { action in
-        showRetweetOptions()
+        showShareOptions()
         return true
     },
     // don't forget to update the name and image of this action when it changes;
@@ -192,14 +192,14 @@ hurts the developer, and I really, _really_ wish it wouldn't have had to.
 Because why can't we have
 
 ```swift
-let tweetCell = TweetCell()
-tweetCell.accessibilityCustomContent = [
+let socialMediaPostCell = SocialMediaPostCell()
+socialMediaPostCell.accessibilityCustomContent = [
     .init(
         label: NSLocalizedString("Replies", comment: ""),
         value: String(describing: 30)
     ),
     .init(
-        label: NSLocalizedString("Retweets", comment: ""),
+        label: NSLocalizedString("Shares", comment: ""),
         value: String(describing: 9)
     ),
     .init(
@@ -217,7 +217,7 @@ import Accessibility
 
 // Note this is (and has to be) a class, as `AXCustomContentProvider` inherits
 // from `NSObjectProtocol`?!
-class MyObjectContainingTweetCell: AXCustomContentProvider {
+class MyObjectContainingSocialMediaPostCell: AXCustomContentProvider {
     // Required for storage, as we won't necessarily have all information to
     // compute the custom content when initializing.
     var _accessibilityCustomContent: [AXCustomContent] = []
@@ -230,19 +230,19 @@ class MyObjectContainingTweetCell: AXCustomContentProvider {
         set { _accessibilityCustomContent = newValue }
     }
 
-    func setupTweetCell(with tweet: Tweet) {
+    func setupCell(with post: SocialMediaPost) {
         accessibilityCustomContent = [
             .init(
                 label: NSLocalizedString("Replies", comment: ""),
-                value: String(describing: tweet.replies.count)
+                value: String(describing: post.replies.count)
             ),
             .init(
-                label: NSLocalizedString("Retweets", comment: ""),
-                value: String(describing: tweet.retweets.count)
+                label: NSLocalizedString("Shares", comment: ""),
+                value: String(describing: post.shares.count)
             ),
             .init(
                 label: NSLocalizedString("Likes", comment: ""),
-                value: String(describing: tweet.likes.count)
+                value: String(describing: post.likes.count)
             )
         ]
     }
@@ -264,9 +264,10 @@ as important) to the end of your initial VoiceOver output — i.e. after the
 label and value.
 
 This can (more often than not) lead to information missing — as
-with the tweets, for example, say likes are important, "95" itself doesn't give
-enough information as to what this is about. So, if there's important
-information, consider making it part of your `accessibilityLabel` instead.
+with the social media posts, for example, say likes are important, "95" itself
+doesn't give enough information as to what this is about. So, if there's
+important information, consider making it part of your `accessibilityLabel`
+instead.
 
 Alas. The good news: like we've seen before with custom actions, users can now
 use the rotor to navigate to custom content, then swiping up or down with one

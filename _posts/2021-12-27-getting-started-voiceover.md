@@ -107,8 +107,9 @@ more information to elements, but not necessarily in the form of a label.
 
 VoiceOver users navigate the app mainly based on these labels, and if they are
 very long, or contain a lot of information, that makes an app a lot harder to
-parse and use. For a tweet, for example, the label might include the author
-and the tweet itself, but exclude the amount of retweets and likes.
+parse and use. For a social media post, for example, the label might include
+the author and the post's content itself, but exclude the amount of shares and
+likes.
 
 ## Conclusion
 
