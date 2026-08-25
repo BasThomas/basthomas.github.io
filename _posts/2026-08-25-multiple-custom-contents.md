@@ -39,11 +39,11 @@ entry:
 
 ```swift
 VStack {
-	title
-	HStack {
-		updatedAt
-		description
-	}
+    title
+    HStack {
+        updatedAt
+        description
+    }
 }
 .accessibilityElement(children: .combine)
 .accessibilityCustomContent("Title", titleValue)
@@ -62,16 +62,16 @@ So what if we have this data from the backend, living in a view model of sorts:
 
 ```swift
 class NoteViewModel {
-	let note: Note
+    let note: Note
 
-	var accessibilityCustomContents: [(LocalizedStringKey, LocalizedStringKey)] {
-		[
-			("Title", note.title),
-			("Updated at", note.updatedAt),
-			("Description", note.description),
-			("Is locked"), note.isLocked ? "Yes" : "No")
-		]
-	}
+    var accessibilityCustomContents: [(LocalizedStringKey, LocalizedStringKey)] {
+        [
+            ("Title", note.title),
+            ("Updated at", note.updatedAt),
+            ("Description", note.description),
+            ("Is locked"), note.isLocked ? "Yes" : "No")
+        ]
+    }
 }
 ```
 
@@ -79,16 +79,16 @@ class NoteViewModel {
 
 ```swift
 struct NoteView: View {
-	let viewModel: NoteViewModel
+    let viewModel: NoteViewModel
 
-	var body: some View {
-		VStack {
-			// details
-		}
-		.accessibilityElement(children: .combine)
-		// .accessibilityCustomContent( ... what here? we have no way to loop over
-		// the view model data.
-	}
+    var body: some View {
+        VStack {
+            // details
+        }
+        .accessibilityElement(children: .combine)
+        // .accessibilityCustomContent( ... what here? we have no way to loop over
+        // the view model data.
+    }
 }
 ```
 
@@ -99,7 +99,7 @@ clear; it would look something like this:
 
 ```swift
 func accessibilityCustomContents(
-	_ contents: [(LocalizedStringKey, LocalizedStringKey)]
+    _ contents: [(LocalizedStringKey, LocalizedStringKey)]
 ) -> ModifiedContent<Self, AccessibilityAttachmentModifier>
 ```
 
@@ -123,9 +123,9 @@ to compose a new view with the custom contents added:
 
 ```swift
 func accessibilityCustomContents(
-	_ contents: [(LocalizedStringKey, LocalizedStringKey)]
+    _ contents: [(LocalizedStringKey, LocalizedStringKey)]
 ) -> ModifiedContent<Self, AccessibilityAttachmentModifier> {
-	var modified = accessibilityAddTraits([])
+    var modified = accessibilityAddTraits([])
     for content in customContent {
         modified = modified.accessibilityCustomContent(content)
     }
@@ -141,15 +141,15 @@ Now we can use this to implement where we got stuck before:
 
 ```swift
 struct NoteView: View {
-	let viewModel: NoteViewModel
+    let viewModel: NoteViewModel
 
-	var body: some View {
-		VStack {
-			// details
-		}
-		.accessibilityElement(children: .combine)
-		.accessibilityCustomContents(viewModel.accessibilityCustomContents)
-	}
+    var body: some View {
+        VStack {
+            // details
+        }
+        .accessibilityElement(children: .combine)
+        .accessibilityCustomContents(viewModel.accessibilityCustomContents)
+    }
 }
 ```
 
@@ -169,9 +169,9 @@ something like this:
 
 ```swift
 .accessibilityCustomContents {
-	ForEach(contents) { content in
-		AccessibilityContentEntry(content.label, content.key)
-	}
+    ForEach(contents) { content in
+        AccessibilityContentEntry(content.label, content.key)
+    }
 }
 ```
 
