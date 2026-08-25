@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: multiple-custom-contents-swiftui
-title: 'Dynamically Setting Multiple Accessibility Custom Content Pairs in SwiftUI'
+title: 'Dynamically Setting Accessibility Custom Content Pairs in SwiftUI'
 tags: [accessibility, ios, swiftui]
 ---
 
