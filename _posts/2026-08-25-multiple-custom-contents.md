@@ -86,8 +86,8 @@ struct NoteView: View {
             // details
         }
         .accessibilityElement(children: .combine)
-        // .accessibilityCustomContent( ... what here? we have no way to loop over
-        // the view model data.
+        // .accessibilityCustomContent( ... what here? we have no way
+        // to loop over the view model data.
     }
 }
 ```
