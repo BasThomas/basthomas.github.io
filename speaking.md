@@ -33,12 +33,13 @@ Likes coffee and watches (a lot).
 
 | Date | Title | Talk type | Event | Location |
 |-|-|-|-|-|
-| Oct 8, 2026 | Building an Accessibility Culture, One Step at a Time | Roundtable | [swiftCon](https://www.nextappcon.com/swiftcon) | Berlin, Germany |
+| TBA |
 
 ### Past
 
 | Date | Title | Talk type | Event | Location | Slides | Video |
 |-|-|-|-|-|-|-|
+| Oct 8, 2026 | Building an Accessibility Culture, One Step at a Time | Roundtable | [swiftCon](https://www.nextappcon.com/swiftcon) | Berlin, Germany | - | - |
 | Aug 11, 2026 | Assistive Access: Reinventing Your App for a New (sort of) Generation | Talk | [DC iOS](https://www.meetup.com/dc-ios/) | Remote | [x](https://speakerdeck.com/basthomas/assistive-access-reinventing-your-app-for-a-new-sort-of-generation) | [x](https://www.youtube.com/watch?v=Bv1S9t9eYPg) |
 | Nov 13, 2025 | Roasting Your App's Accessibility | Talk | [Do iOS](https://www.do-ios.com) | Amsterdam, the Netherlands | [x](https://speakerdeck.com/basthomas/roasting-your-apps-accessibility) | - |
 | Oct 8, 2024 | Building an Accessibility Culture, One Step at a Time | Talk | [SwiftLeeds](https://swiftleeds.co.uk) | Leeds, United Kingdom | [x](https://speakerdeck.com/basthomas/building-an-accessibility-culture-one-step-at-a-time-leeds) | [x](https://www.youtube.com/watch?v=GXLzeiS57vE) |
