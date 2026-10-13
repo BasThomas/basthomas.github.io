@@ -67,7 +67,7 @@ So an interesting way to start would be to adopt the `UISupportsAssistiveAccess`
 key, and then add your app-root in the `AssistiveAccess` scene, without any
 further changes.
 
-# Show me the ~Money~ User Interface!
+# Show me the ~~Money~~ User Interface!
 
 I built a small news app to take a look at Assistive Access, both from a user
 interface as from the perspective of an application's flow in Assistive Access.
@@ -215,7 +215,10 @@ class AppDelegate: UIApplicationDelegate {
         options: UIScene.ConnectionOptions
     ) -> UISceneConfiguration {
         let role = connectingSceneSession.role
-        let sceneConfiguration = UISceneConfiguration(name: nil, sessionRole: role)
+        let sceneConfiguration = UISceneConfiguration(
+            name: nil, 
+            sessionRole: role
+        )
         if role == .windowAssistiveAccessApplication {
             sceneConfiguration.delegateClass = AssistiveAccessSceneDelegate.self
         }
