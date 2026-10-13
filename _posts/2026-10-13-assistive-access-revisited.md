@@ -262,3 +262,5 @@ including the app you're working on!
 
 I look forward to seeing apps adopt Assistive Access and bring this new mode to
 life.
+
+_Thanks to [Bruno Scheele](https://mastodon.social/@brunoscheele) for some (rubber duck) debugging._
