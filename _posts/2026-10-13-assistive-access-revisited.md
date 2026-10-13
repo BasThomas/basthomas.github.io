@@ -215,14 +215,14 @@ class AppDelegate: UIApplicationDelegate {
         options: UIScene.ConnectionOptions
     ) -> UISceneConfiguration {
         let role = connectingSceneSession.role
-        let sceneConfiguration = UISceneConfiguration(
+        let configuration = UISceneConfiguration(
             name: nil, 
             sessionRole: role
         )
         if role == .windowAssistiveAccessApplication {
-            sceneConfiguration.delegateClass = AssistiveAccessSceneDelegate.self
+            configuration.delegateClass = AssistiveAccessSceneDelegate.self
         }
-        return sceneConfiguration
+        return configuration
     }
 }
 ```
