@@ -150,7 +150,7 @@ should be called alongside any `.navigationTitle()` use. In Assistive Access,
 the icon will be displayed in the navigation bar also, as you can see in the
 article view in the sample app:
 
-![The article view in Assistive Access shows a navigation icon to the leading edge of the navigation title.](/article.png)
+![The article view in Assistive Access shows a navigation icon to the leading edge of the navigation title.](./assets/blog-assets/assistive-access-revisited/article.png)
 
 I would have loved seeing `.navigationTitle()` be deprecated in favor of a
 replacement taking both an icon and a title, but alas. You could write a wrapper
