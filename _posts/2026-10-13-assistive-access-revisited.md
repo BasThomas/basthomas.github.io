@@ -15,8 +15,8 @@ were still in flux and not necessarily fully fleshed out.
 
 There was, for example, no way to optimize your own apps for the larger
 elements; the only API third party apps could use was [an `Info.plist` key that
-allows your app to use the space beyond the safe area, like behind the Dynamic
-Island](https://developer.apple.com/documentation/bundleresources/information-property-list/uisupportsfullscreeninassistiveaccess).
+allows your app to use the space beyond the safe area](https://developer.apple.com/documentation/bundleresources/information-property-list/uisupportsfullscreeninassistiveaccess),
+like behind the Dynamic Island.
 
 <!--more-->
 
