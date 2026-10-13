@@ -14,6 +14,9 @@ I wanted to share my experience and findings here.
 
 <!--more-->
 
+[I have revisited Assistive Access in a new post](/assistive-access-revisited),
+now that it is out of beta and has more API surface.
+
 Not in the loop on Assistive Access? Beyond Apple's announcement earlier this
 year, there's an awesome [WWDC session on Assistive Technology](https://developer.apple.com/videos/play/wwdc2023/10032/)
 by none other than Allen Whearry.

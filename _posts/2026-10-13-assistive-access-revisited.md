@@ -74,14 +74,14 @@ interface as from the perspective of an application's flow in Assistive Access.
 
 It looks like this on iPad, with three tabs:
 
-![An iPad app in landscape showing a "News" title at the top, a tab bar, and a list of articles with a leading icon and the article's title trailing.](/news.png)
+![An iPad app in landscape showing a "News" title at the top, a tab bar, and a list of articles with a leading icon and the article's title trailing.](./assets/blog-assets/assistive-access-revisited/news.png)
 _The News tab, showing all available articles._
 
-![An iPad app in landscape showing a "Breaking" title at the top, a tab bar, and a limited amount of articles in a list view.](/breaking.png)
+![An iPad app in landscape showing a "Breaking" title at the top, a tab bar, and a limited amount of articles in a list view.](./assets/blog-assets/assistive-access-revisited/breaking.png)
 _The Breaking tab, showing 'Breaking news', or in this example, a subset of
 articles._
 
-![An iPad app in landscape showing a settings screen, with a setting to 'only show Breaking news' in Assistive Access mode.](/settings.png)
+![An iPad app in landscape showing a settings screen, with a setting to 'only show Breaking news' in Assistive Access mode.](./assets/blog-assets/assistive-access-revisited/settings.png)
 _A settings page with some Assistive Access-specific settings._
 
 In Assistive Access mode, I've opted to flatten this structure, showing the News
@@ -90,7 +90,7 @@ means there's no tab bar, and a clearer structure in Assistive Access mode.
 
 Here it is:
 
-![An iPad app in landscape running under the Assistive Access mode. It shows large rows, where the article's image is prominently displayed on the leading edge, besides the title on the trailing edge.](/listview.png)
+![An iPad app in landscape running under the Assistive Access mode. It shows large rows, where the article's image is prominently displayed on the leading edge, besides the title on the trailing edge.](./assets/blog-assets/assistive-access-revisited/listview.png)
 _The app in Assistive Access mode, only showing what we display in the News tab._
 
 # Thoughts on Flow
@@ -123,7 +123,9 @@ Having said that, on the topic of settings...
 # A Note on Settings
 
 Apple's first-party apps have Assistive Access-related settings _within_
-Settings.app, right there when configuring the mode.
+Settings.app, right there when configuring the mode:
+
+![Camera.app showing settings during Assistive Access setup in Settings.app.](./assets/blog-assets/assistive-access-revisited/first-party-setup.png)
 
 Unfortunately, third party apps do not (yet) have an API for this. Instead,
 these settings can live in the app itself. That is a little awkward, as the
