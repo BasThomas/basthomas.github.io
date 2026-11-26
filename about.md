@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![bas-broek](../assets/general/photo.png)
+![Bas smiling, wearing a red jacket on a boat on an overcast day](../assets/general/photo.png)
 
 Nice to meet you. 👋
 

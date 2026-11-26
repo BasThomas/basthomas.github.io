@@ -18,7 +18,7 @@ get in touch.
 	<summary>Speaker Bio & Avatar</summary>
 
 <p>
-<img src="../assets/general/avatar.jpg" alt="Bas Broek" width="300">
+<img src="../assets/general/avatar.jpg" alt="Headshot of Bas smiling, wearing a red jacket and life vest on a boat." width="300">
 </p>
 <p>
 Bas is an iOS and macOS developer with a passion for testability, accessibility
