@@ -1,0 +1,19 @@
+{%- comment -%}
+  Embed an audio player in a post or page.
+
+  Usage:
+    {% include audio.html src="my-sound.mp3" %}
+    {% include audio.html src="my-sound.mp3" title="Describe the audio" %}
+
+  `src` is a file in /assets/blog-assets/, or a full path starting with / or http.
+  `title` (optional) is read out by screen readers to describe the player.
+{%- endcomment -%}
+{%- assign first = include.src | slice: 0 -%}
+{%- if first == "/" or include.src contains "://" -%}
+  {%- assign audio_url = include.src -%}
+{%- else -%}
+  {%- assign audio_url = include.src | prepend: "/assets/blog-assets/" | relative_url -%}
+{%- endif -%}
+<audio controls preload="metadata" src="{{ audio_url }}"{% if include.title %} aria-label="{{ include.title | escape }}"{% endif %}>
+  <a href="{{ audio_url }}">Download the audio{% if include.title %}: {{ include.title | escape }}{% endif %}</a>
+</audio>
