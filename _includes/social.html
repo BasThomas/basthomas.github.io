@@ -1,0 +1,8 @@
+{%- comment -%}
+  Overrides minima's social.html to add rel="me" to the Mastodon link,
+  which Mastodon needs to verify this site. Only GitHub and Mastodon are kept.
+{%- endcomment -%}
+<ul class="social-media-list">
+  {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username | escape }}</span></a></li>{%- endif -%}
+  {%- for mst in site.mastodon -%}<li><a rel="me" href="https://{{ mst.instance | cgi_escape | escape }}/@{{ mst.username }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#mastodon' | relative_url }}"></use></svg> <span class="username">{{ mst.username | escape }}</span></a></li>{%- endfor -%}
+</ul>
