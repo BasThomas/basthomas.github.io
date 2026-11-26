@@ -1,23 +1,42 @@
 title: Bas' Blog
 email: bas@basbroek.nl
 description: "When you change the way you look at things, the things you look at, change."
+tagline: "Accessibility, Swift & Apple platforms"
+author: Bas Broek
 baseurl: ""
 url: https://www.basbroek.nl
+timezone: Europe/Amsterdam
 
 github_username: BasThomas
 mastodon:
 - username: bas
   instance: iosdev.space
 
+social:
+  name: Bas Broek
+  links:
+    - https://github.com/BasThomas
+    - https://iosdev.space/@bas
+
+header_pages:
+  - about.md
+  - resume.md
+  - speaking.md
+
+minima:
+  date_format: "%-d %B %Y"
+
 excerpt_separator: <!--more-->
 
 markdown: kramdown
 theme: minima
 permalink: pretty
-plugins: ['jekyll-feed']
+plugins: ['jekyll-feed', 'jekyll-sitemap']
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Readme.md
+  - LICENSE
 
 # Link previews (jekyll-seo-tag): default image for every page.
 defaults:
