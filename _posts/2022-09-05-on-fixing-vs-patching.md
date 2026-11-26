@@ -9,6 +9,8 @@ We programmers have — most likely — all fixed a bunch of bugs in our time. T
 
 Not that I'm speaking from experience... why'd you ask?
 
+<!--more-->
+
 ---
 <br />
 

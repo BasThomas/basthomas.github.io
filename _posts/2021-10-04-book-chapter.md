@@ -12,6 +12,8 @@ conference for the third time. The first, I was an attendee (I think this was
 the second conference I went to ever!), the second time was my first
 presentation at a conference.
 
+<!--more-->
+
 Having attended, given a talk... in 2019 I gave a workshop on iPadOS; the same
 workshop I gave at [Swift Island](https://swiftisland.nl) earlier that year.
 

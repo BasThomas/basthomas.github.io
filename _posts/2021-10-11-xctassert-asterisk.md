@@ -11,6 +11,8 @@ finding a bug or issue, and being able to write out that faulty scenario in a
 test (and having it fail), to then fix the issue and having that (since
 unmodified) test pass.
 
+<!--more-->
+
 Writing code for Apple platforms, the default (and pretty snazzy!) framework
 for testing is XCTest. There are some amazing people working on it, and it has
 seen some great improvements over the last few major releases, like throwing

@@ -2,6 +2,7 @@
 layout: post
 permalink: objc-swift-interop-auditing
 title: 'Dancing with Dinosaurs: Auditing Objective-C for Swift Interoperability'
+description: "How to audit Objective-C headers so they work well from Swift: generated interfaces, nullability, renaming, enums and option sets, generics, and more."
 tags: [swift, objc, interop]
 ---
 

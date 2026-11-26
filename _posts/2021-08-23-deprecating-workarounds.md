@@ -10,6 +10,8 @@ A [tip](https://twitter.com/olebegemann) shared by
 time ago to check if your workarounds in Swift have been fixed has been super
 helpful.
 
+<!--more-->
+
 With Swift, the compiler helps you out a bunch — why not use that to make sure
 you check if certain bugs have been fixed in newer versions of the language or
 the operating system?

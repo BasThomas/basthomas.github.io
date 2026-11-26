@@ -8,6 +8,8 @@ tags: []
 Now that I've left Apple, and will be giving a(nother) talk soon, I thought I'd
 write about how I prepare for presentations or workshops.
 
+<!--more-->
+
 But before looking at how I do so, I want to point out that speaking or giving
 a workshop is not for everyone — and that's ok! Would I generally recommend
 most anyone to try it at least once? Certainly! But if it turns out it's not

@@ -12,6 +12,8 @@ I had _a lot_ of fun doing that over a few days but then had some hiccups
 trying to port it to iOS and kind of left it there. You know, your standard
 side project. (or at least _my_ standard side project...)
 
+<!--more-->
+
 Fast forward to a few weeks ago and with this still in the back of my mind,
 I wanted to challenge myself to write a solver for this puzzle.
 

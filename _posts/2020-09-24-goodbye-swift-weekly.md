@@ -2,6 +2,7 @@
 layout: post
 permalink: goodbye-swift-weekly
 title: 'Goodbye, Swift Weekly Brief'
+description: "After almost three years of curating the Swift Weekly Brief, I am moving on from the project, and Kristaps Grinbergs is taking over the newsletter with help from the community."
 tags: [swift, open source]
 ---
 
