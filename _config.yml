@@ -36,6 +36,7 @@ exclude:
   - Gemfile.lock
   - Readme.md
   - LICENSE
+  - vendor # gems installed by the GitHub Actions build
 
 # Link previews (jekyll-seo-tag): default image for every page.
 defaults:
