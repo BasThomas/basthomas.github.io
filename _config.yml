@@ -30,6 +30,9 @@ excerpt_separator: <!--more-->
 markdown: kramdown
 sass:
   style: compressed
+  sourcemap: never
+  # minima 2.5's stylesheets use Sass features that Dart Sass warns about; hide those warnings.
+  silence_deprecations: [import, global-builtin, color-functions, slash-div]
 future: true # publish posts dated in the future right away
 theme: minima
 permalink: pretty
