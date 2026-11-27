@@ -28,6 +28,9 @@ minima:
 excerpt_separator: <!--more-->
 
 markdown: kramdown
+sass:
+  style: compressed
+future: true # publish posts dated in the future right away
 theme: minima
 permalink: pretty
 plugins: ['jekyll-feed', 'jekyll-sitemap']
