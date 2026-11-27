@@ -33,6 +33,12 @@ jobs:
         with:
           bundler-cache: true
 
+      - name: Install libvips and Inter
+        # Used by jekyll-og-image to generate post preview images.
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq --no-install-recommends libvips-tools fonts-inter
+
       - name: Set up Pages
         id: pages
         uses: actions/configure-pages@v6
