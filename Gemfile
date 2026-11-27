@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.10'
+gem 'jekyll', '~> 4.4'
 gem 'minima', '~> 2.5'
-gem 'kramdown-parser-gfm' # GitHub-flavored Markdown, Jekyll's default Markdown input
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
@@ -10,7 +9,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
 end
 
-# No longer bundled with Ruby 3.4+, but needed by Jekyll 3.
-gem 'base64'
+# No longer bundled with Ruby 3.4+, but needed by Liquid (Jekyll's templates).
 gem 'bigdecimal'
-gem 'csv'
