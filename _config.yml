@@ -44,9 +44,28 @@ exclude:
   - LICENSE
   - vendor # gems installed by the GitHub Actions build
 
-# Link previews (jekyll-seo-tag): default image for every page.
+# Link previews (jekyll-seo-tag): pages use the avatar, posts get a generated image (below).
 defaults:
   - scope:
       path: ""
+      type: pages
     values:
       image: /assets/general/avatar.jpg
+
+# Generated link preview images for posts (jekyll-og-image).
+og_image:
+  domain: basbroek.nl
+  canvas:
+    height: 630
+    background_color: "#181818" # the site's dark mode colors
+  image:
+    path: assets/general/avatar.jpg
+  header:
+    font_family: "Inter, Bold"
+    color: "#eeeeee"
+  content:
+    font_family: "Inter, Regular"
+    color: "#999999"
+  metadata:
+    fields: ["date"]
+    date_format: "%-d %B %Y"

@@ -4,3 +4,4 @@ _site/
 .tweet-cache/
 .DS_Store
 .jekyll-cache/
+assets/images/og/
