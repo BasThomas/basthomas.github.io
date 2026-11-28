@@ -1,0 +1,16 @@
+{%- comment -%}
+  Overrides minima's head.html to add Mastodon author attribution
+  (fediverse:creator), using the first account under `mastodon:` in _config.yml.
+{%- endcomment -%}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  {%- assign mastodon = site.mastodon | first -%}
+  {%- if mastodon -%}
+  <meta name="fediverse:creator" content="@{{ mastodon.username }}@{{ mastodon.instance }}">
+  {%- endif -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+</head>
